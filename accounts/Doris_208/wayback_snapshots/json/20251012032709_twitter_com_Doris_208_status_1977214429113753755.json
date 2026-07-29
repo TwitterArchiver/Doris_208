@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1977205413553779126",
+    "created_at": "2025-10-12T03:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T04:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977214429113753755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857480192224276480",
+          "start": 0,
+          "username": "dd_bbls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977214429113753755",
+    "in_reply_to_user_id": "1857480192224276480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977205413553779126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd_bbls 卧槽好像卯哥的红烧牛子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 973,
+        "media_key": "3_1977205405106552832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Bx1xtbwAA9J88.jpg",
+        "width": 1129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1977205413553779126",
+        "created_at": "2025-10-12T03:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T04:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977214429113753755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857480192224276480",
+              "start": 0,
+              "username": "dd_bbls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977214429113753755",
+        "in_reply_to_user_id": "1857480192224276480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977205413553779126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd_bbls 卧槽好像卯哥的红烧牛子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977205405106552832"
+          ]
+        },
+        "author_id": "1857480192224276480",
+        "conversation_id": "1977205413553779126",
+        "created_at": "2025-10-12T02:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T03:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977205413553779126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/myFbf4qkdh",
+              "end": 35,
+              "expanded_url": "https://x.com/dd_bbls/status/1977205413553779126/photo/1",
+              "media_key": "3_1977205405106552832",
+              "start": 12,
+              "url": "https://t.co/myFbf4qkdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977205413553779126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1788,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "血管都看的一清二楚诶！ https://t.co/myFbf4qkdh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5733,
+          "following_count": 258,
+          "like_count": 561,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 814
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:46:10.000Z",
+        "description": "纯直男，喜欢我的可以点点关注点点赞呀🥹欢迎大家私信或者匿名提问来找我玩～～匿名提问➡️https://t.co/thwoXQnO1x 🚪加v520/加q288 门槛详情可私信咨询哦～ 更日常小号@ddpattaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "ddpattaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ddpatta",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ddpatta",
+                "start": 43,
+                "url": "https://t.co/thwoXQnO1x"
+              }
+            ]
+          }
+        },
+        "id": "1857480192224276480",
+        "name": "ddpat",
+        "pinned_tweet_id": "1883503756303839558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927326818643648512/jQeK5l4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77855,
+          "following_count": 91,
+          "like_count": 2833,
+          "listed_count": 196,
+          "media_count": 105,
+          "tweet_count": 1083
+        },
+        "username": "dd_bbls",
+        "verified": false
+      }
+    ]
+  }
+}

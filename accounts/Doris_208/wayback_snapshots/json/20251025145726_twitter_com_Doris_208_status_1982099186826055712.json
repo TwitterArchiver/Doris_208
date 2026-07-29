@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1982081776232407288",
+    "created_at": "2025-10-25T14:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T15:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982099186826055712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902978487662809090",
+          "start": 0,
+          "username": "justin405332629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982099186826055712",
+    "in_reply_to_user_id": "1902978487662809090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982081776232407288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justin405332629 我可以做熟睡的妻子无能的丈夫门外的闺蜜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1982081776232407288",
+        "created_at": "2025-10-25T14:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982099186826055712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902978487662809090",
+              "start": 0,
+              "username": "justin405332629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982099186826055712",
+        "in_reply_to_user_id": "1902978487662809090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982081776232407288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justin405332629 我可以做熟睡的妻子无能的丈夫门外的闺蜜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902978487662809090",
+        "conversation_id": "1982081776232407288",
+        "created_at": "2025-10-25T13:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T14:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982081776232407288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982081776232407288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2301,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要问我去月能不能带你一个了，就算我会去月也不会3p，凭什么带你啊👊👊👊👊👊👊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5688,
+          "following_count": 271,
+          "like_count": 586,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 842
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T07:00:11.000Z",
+        "description": "ENFP ｜仅支持1i｜回关有趣的或喜欢的｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justin405332629",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justin405332629",
+                "start": 0,
+                "url": "https://t.co/AEMLOdLMeG"
+              }
+            ]
+          }
+        },
+        "id": "1902978487662809090",
+        "location": " 链接是匿名",
+        "name": "广式双马尾",
+        "pinned_tweet_id": "1982076281765474450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950632626752200704/-M7ipJKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 1253,
+          "like_count": 25321,
+          "listed_count": 4,
+          "media_count": 361,
+          "tweet_count": 10364
+        },
+        "url": "https://t.co/AEMLOdLMeG",
+        "username": "justin405332629",
+        "verified": false
+      }
+    ]
+  }
+}

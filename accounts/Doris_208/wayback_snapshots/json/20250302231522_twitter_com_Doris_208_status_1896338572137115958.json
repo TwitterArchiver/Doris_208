@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1896338572137115958",
+    "created_at": "2025-03-02T23:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T00:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896338572137115958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1642905398847102978",
+          "start": 3,
+          "username": "Carolina520520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896338572137115958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896145096455954748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Carolina520520: 今天在网上看了一些东西 有感而发\n永远不要为了满足自己的心理需求去约炮 去玩sm 去找所谓的男s和daddy\n寻找刺激的行为只会让自己更麻木 遭到反噬 越陷越深\n因为生理性的满足永远填补不了心里的空缺\n所以最重要的是 解决自己的心理问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1896338572137115958",
+        "created_at": "2025-03-02T23:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T00:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896338572137115958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1642905398847102978",
+              "start": 3,
+              "username": "Carolina520520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896338572137115958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896145096455954748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Carolina520520: 今天在网上看了一些东西 有感而发\n永远不要为了满足自己的心理需求去约炮 去玩sm 去找所谓的男s和daddy\n寻找刺激的行为只会让自己更麻木 遭到反噬 越陷越深\n因为生理性的满足永远填补不了心里的空缺\n所以最重要的是 解决自己的心理问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642905398847102978",
+        "conversation_id": "1896145096455954748",
+        "created_at": "2025-03-02T10:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T11:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896145096455954748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896145096455954748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7111,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "今天在网上看了一些东西 有感而发\n永远不要为了满足自己的心理需求去约炮 去玩sm 去找所谓的男s和daddy\n寻找刺激的行为只会让自己更麻木 遭到反噬 越陷越深\n因为生理性的满足永远填补不了心里的空缺\n所以最重要的是 解决自己的心理问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "不健全",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4445,
+          "following_count": 178,
+          "like_count": 442,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T15:02:37.000Z",
+        "description": "Daddy @cccc5426 ｜🩷推广请自辨 ｜日常碎碎念@caro521521",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "cccc5426"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "caro521521"
+              }
+            ]
+          }
+        },
+        "id": "1642905398847102978",
+        "name": "哆咪",
+        "pinned_tweet_id": "1892602118797754671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784097619628978176/QrtuElXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18237,
+          "following_count": 177,
+          "like_count": 1512,
+          "listed_count": 45,
+          "media_count": 119,
+          "tweet_count": 1111
+        },
+        "username": "Carolina520520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1911435466366218255",
+    "created_at": "2025-04-13T23:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T00:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911568707723427965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1574870944392282112",
+          "start": 0,
+          "username": "Fanghaooo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911568707723427965",
+    "in_reply_to_user_id": "1574870944392282112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911435466366218255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanghaooo1 坐了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911435451598024706",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GobIan-WsAIwzCv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1911435450046156800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GobIaiMXEAAgYJc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1911435466366218255",
+        "created_at": "2025-04-13T23:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T00:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911568707723427965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1574870944392282112",
+              "start": 0,
+              "username": "Fanghaooo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911568707723427965",
+        "in_reply_to_user_id": "1574870944392282112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911435466366218255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanghaooo1 坐了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911435451598024706",
+            "3_1911435450046156800"
+          ]
+        },
+        "author_id": "1574870944392282112",
+        "conversation_id": "1911435466366218255",
+        "created_at": "2025-04-13T15:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T16:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911435466366218255"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "久违了",
+              "probability": 0.6733,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cG1J1NbQfL",
+              "end": 27,
+              "expanded_url": "https://x.com/Fanghaooo1/status/1911435466366218255/photo/1",
+              "media_key": "3_1911435451598024706",
+              "start": 4,
+              "url": "https://t.co/cG1J1NbQfL"
+            },
+            {
+              "display_url": "pic.x.com/cG1J1NbQfL",
+              "end": 27,
+              "expanded_url": "https://x.com/Fanghaooo1/status/1911435466366218255/photo/1",
+              "media_key": "3_1911435450046156800",
+              "start": 4,
+              "url": "https://t.co/cG1J1NbQfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911435466366218255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久违了 https://t.co/cG1J1NbQfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4441,
+          "following_count": 176,
+          "like_count": 442,
+          "listed_count": 8,
+          "media_count": 48,
+          "tweet_count": 407
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T21:17:53.000Z",
+        "description": "你好 请坐",
+        "id": "1574870944392282112",
+        "name": "你可以叫我整方型",
+        "pinned_tweet_id": "1889570593730957347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728406746316881921/asEjTBb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 114,
+          "like_count": 22603,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 571
+        },
+        "username": "Fanghaooo1",
+        "verified": false
+      }
+    ]
+  }
+}

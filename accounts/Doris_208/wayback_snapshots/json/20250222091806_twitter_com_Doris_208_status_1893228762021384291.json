@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1893228762021384291",
+    "created_at": "2025-02-22T09:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T10:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893228762021384291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kbzz24/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/kbzz24/status/1892579661894291829",
+          "start": 10,
+          "url": "https://t.co/5XlZ9rSmAK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893228762021384291",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892579661894291829",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以阳痿男仙品哈👋 https://t.co/5XlZ9rSmAK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1893228762021384291",
+        "created_at": "2025-02-22T09:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T10:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893228762021384291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kbzz24/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/kbzz24/status/1892579661894291829",
+              "start": 10,
+              "url": "https://t.co/5XlZ9rSmAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893228762021384291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892579661894291829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以阳痿男仙品哈👋 https://t.co/5XlZ9rSmAK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739270282907389952",
+        "conversation_id": "1892579661894291829",
+        "created_at": "2025-02-20T14:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T15:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892579661894291829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892579661894291829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 211713,
+          "like_count": 959,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "遇到那种刚进房间就脱裤子的s就赶紧跑路吧，无论他脱裤子后要干啥。我可以负责任地说，正经调教就没有一上来就脱裤子的。老子调教了这么多次，哪次不是穿戴整齐衣冠齐楚在调教，要的不就是m一丝不挂的反差感么？所以也劝劝那些新手s们，别一进门就急不可耐，丢份儿。哪怕你真的很想，忍着。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4442,
+          "following_count": 178,
+          "like_count": 442,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T13:02:11.000Z",
+        "description": "s和dom的混合体｜喜欢虐心｜心不狠手挺辣｜喜爱阅读/历史/篮球/健身｜声控福音｜收m 中｜欢迎私信｜欢迎学术交流",
+        "id": "1739270282907389952",
+        "name": "每天反思八百遍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739280086858076160/1nzfOXS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6240,
+          "following_count": 0,
+          "like_count": 30,
+          "listed_count": 15,
+          "media_count": 40,
+          "tweet_count": 146
+        },
+        "username": "kbzz24",
+        "verified": false
+      }
+    ]
+  }
+}

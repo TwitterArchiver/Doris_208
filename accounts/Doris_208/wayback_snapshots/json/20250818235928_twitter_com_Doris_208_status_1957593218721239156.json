@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1957593218721239156",
+    "created_at": "2025-08-18T23:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T00:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957593218721239156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897997202926321665",
+          "start": 3,
+          "username": "fluw666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957593218721239156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957129119696818595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fluw666: 男的在撸鸡女的在抠逼男同在吃鸡女同在吃逼异性恋在操逼只有我一直在当傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1957593218721239156",
+        "created_at": "2025-08-18T23:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T00:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957593218721239156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897997202926321665",
+              "start": 3,
+              "username": "fluw666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957593218721239156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957129119696818595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fluw666: 男的在撸鸡女的在抠逼男同在吃鸡女同在吃逼异性恋在操逼只有我一直在当傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897997202926321665",
+        "conversation_id": "1957129119696818595",
+        "created_at": "2025-08-17T17:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957129119696818595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957129119696818595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 21391,
+          "like_count": 413,
+          "quote_count": 8,
+          "reply_count": 18,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "男的在撸鸡女的在抠逼男同在吃鸡女同在吃逼异性恋在操逼只有我一直在当傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 221,
+          "like_count": 530,
+          "listed_count": 8,
+          "media_count": 60,
+          "tweet_count": 687
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T13:07:14.000Z",
+        "description": "女同性恋喜欢女的 les/0.5swi/entp/欢迎私聊➕v/请多和我互动呐！ 男的敢关注我立马阳痿 我把推特当日记发 小号：@fluw7881\n提问箱：https://t.co/4cG3pWWlnd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "fluw7881"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fluw",
+                "end": 101,
+                "expanded_url": "https://ngl.link/fluw",
+                "start": 78,
+                "url": "https://t.co/4cG3pWWlnd"
+              }
+            ]
+          }
+        },
+        "id": "1897997202926321665",
+        "location": "粤",
+        "name": "槲寄生",
+        "pinned_tweet_id": "1956596920828277173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928464447535980544/uMJcSJhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 352,
+          "like_count": 1687,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 657
+        },
+        "username": "fluw666",
+        "verified": false
+      }
+    ]
+  }
+}

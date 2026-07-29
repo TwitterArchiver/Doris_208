@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1974963826534797762",
+    "created_at": "2025-10-05T22:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T23:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974963826534797762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 43,
+          "id": "1720665183188922368",
+          "start": 38,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Xin369556/stat…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/Xin369556/status/1974664403695079587",
+          "start": 117,
+          "url": "https://t.co/wWe65p2IU0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974963826534797762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974664403695079587",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "参考我在和我互相关注的人中的推文，也包括我的推文，只用昵称告诉我，不要用@\n@grok\n欲求不满的人妻：\n忧郁的长发男：\n35岁后被辞职的社畜：\n三胎宝妈：\n性压抑山东人：\n大奶子精灵姐姐：\n雌小鬼：\n情窦初开小男孩：\n小镇做题家： https://t.co/wWe65p2IU0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1974963826534797762",
+        "created_at": "2025-10-05T22:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T23:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974963826534797762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1720665183188922368",
+              "start": 38,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Xin369556/stat…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/Xin369556/status/1974664403695079587",
+              "start": 117,
+              "url": "https://t.co/wWe65p2IU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974963826534797762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974664403695079587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考我在和我互相关注的人中的推文，也包括我的推文，只用昵称告诉我，不要用@\n@grok\n欲求不满的人妻：\n忧郁的长发男：\n35岁后被辞职的社畜：\n三胎宝妈：\n性压抑山东人：\n大奶子精灵姐姐：\n雌小鬼：\n情窦初开小男孩：\n小镇做题家： https://t.co/wWe65p2IU0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881766065900077056",
+        "conversation_id": "1974664403695079587",
+        "created_at": "2025-10-05T02:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T03:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974664403695079587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1720665183188922368",
+              "start": 38,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sumingbai71221…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/sumingbai71221/status/1974637508727390406",
+              "start": 117,
+              "url": "https://t.co/98hNb7HGsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974664403695079587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1317,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974637508727390406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考我在和我互相关注的人中的推文，也包括我的推文，只用昵称告诉我，不要用@\n@grok\n欲求不满的人妻：\n忧郁的长发男：\n35岁后被辞职的社畜：\n三胎宝妈：\n性压抑山东人：\n大奶子精灵姐姐：\n雌小鬼：\n情窦初开小男孩：\n小镇做题家： https://t.co/98hNb7HGsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 242,
+          "like_count": 542,
+          "listed_count": 9,
+          "media_count": 63,
+          "tweet_count": 764
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6392436,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5033,
+          "media_count": 2685332,
+          "tweet_count": 54286783
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-21T18:09:47.000Z",
+        "description": "嗯。头像是本人。是一只外星公猫。私信可以随意骚扰。此猫很闲。直的。直的。直的。男同不要关注我好嘛或者关注就算了不要私信嗯。",
+        "id": "1881766065900077056",
+        "location": "广州",
+        "name": "信",
+        "pinned_tweet_id": "1971261356285612304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961796212992221184/O0U2BXN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 301,
+          "like_count": 34153,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 5013
+        },
+        "username": "Xin369556",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945869845888733184"
+      ],
+      "media_source_tweet_id": [
+        "1945869853518188699"
+      ]
+    },
+    "author_id": "1577453972482203648",
+    "conversation_id": "1946556678763368486",
+    "created_at": "2025-07-19T13:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T14:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946556678763368486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751084995312275456",
+          "start": 3,
+          "username": "MikuMiku3648"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/APrnH6d2Us",
+          "end": 46,
+          "expanded_url": "https://x.com/MikuMiku3648/status/1945869853518188699/photo/1",
+          "media_key": "3_1945869845888733184",
+          "start": 23,
+          "url": "https://t.co/APrnH6d2Us"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946556678763368486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 553
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945869853518188699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MikuMiku3648: 沪✌冲击 https://t.co/APrnH6d2Us"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1945869845888733184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwEeUK9XkAAegDs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945869845888733184"
+          ],
+          "media_source_tweet_id": [
+            "1945869853518188699"
+          ]
+        },
+        "author_id": "1577453972482203648",
+        "conversation_id": "1946556678763368486",
+        "created_at": "2025-07-19T13:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T14:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946556678763368486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751084995312275456",
+              "start": 3,
+              "username": "MikuMiku3648"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/APrnH6d2Us",
+              "end": 46,
+              "expanded_url": "https://x.com/MikuMiku3648/status/1945869853518188699/photo/1",
+              "media_key": "3_1945869845888733184",
+              "start": 23,
+              "url": "https://t.co/APrnH6d2Us"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946556678763368486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 553
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945869853518188699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MikuMiku3648: 沪✌冲击 https://t.co/APrnH6d2Us"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945869845888733184"
+          ]
+        },
+        "author_id": "1751084995312275456",
+        "conversation_id": "1945869853518188699",
+        "created_at": "2025-07-17T15:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T16:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945869853518188699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/APrnH6d2Us",
+              "end": 28,
+              "expanded_url": "https://x.com/MikuMiku3648/status/1945869853518188699/photo/1",
+              "media_key": "3_1945869845888733184",
+              "start": 5,
+              "url": "https://t.co/APrnH6d2Us"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945869853518188699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 867,
+          "impression_count": 1475291,
+          "like_count": 14453,
+          "quote_count": 55,
+          "reply_count": 351,
+          "retweet_count": 553
+        },
+        "reply_settings": "everyone",
+        "text": "沪✌冲击 https://t.co/APrnH6d2Us"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4522,
+          "following_count": 211,
+          "like_count": 520,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 627
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "君といる毎日は奇跡だよ                                                           友達！：@Reisa_Music     @Ludwig_von_Remi  @miku_suki393939 对象：@Mikuloverr_  （新教徒谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Reisa_Music"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Ludwig_von_Remi"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/LittIeStar/MyG…",
+                "end": 23,
+                "expanded_url": "https://github.com/LittIeStar/MyGameCode",
+                "start": 0,
+                "url": "https://t.co/TLtumacIN5"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "1809865925849674203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930668961777299456/Hz60qBx6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3159,
+          "following_count": 1277,
+          "like_count": 36569,
+          "listed_count": 15,
+          "media_count": 2106,
+          "tweet_count": 13310
+        },
+        "url": "https://t.co/TLtumacIN5",
+        "username": "MikuMiku3648",
+        "verified": false
+      }
+    ]
+  }
+}

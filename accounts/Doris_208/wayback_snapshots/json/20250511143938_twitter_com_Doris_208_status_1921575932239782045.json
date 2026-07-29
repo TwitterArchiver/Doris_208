@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1921467654868480095",
+    "created_at": "2025-05-11T14:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T15:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921575932239782045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807484227212218368",
+          "start": 0,
+          "username": "zhujin2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921575932239782045",
+    "in_reply_to_user_id": "1807484227212218368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921467654868480095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhujin2333 就是这个霸道阴湿男鬼味儿太爽了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7200,
+        "height": 1280,
+        "media_key": "13_1921467573159460864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921467573159460864/img/mTtTz4P7RNrSJ6Kd.jpg",
+        "public_metrics": {
+          "view_count": 902
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921467573159460864/vid/avc1/320x568/LxqOtFiDytEcf1dC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921467573159460864/vid/avc1/480x852/f71X5ocOzVRivUk7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921467573159460864/vid/avc1/720x1280/W9hPZJvyxzRvgXZB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921467573159460864/pl/AuiFh6fI8PruwV-I.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1921467654868480095",
+        "created_at": "2025-05-11T14:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T15:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921575932239782045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807484227212218368",
+              "start": 0,
+              "username": "zhujin2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921575932239782045",
+        "in_reply_to_user_id": "1807484227212218368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921467654868480095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhujin2333 就是这个霸道阴湿男鬼味儿太爽了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921467573159460864"
+          ]
+        },
+        "author_id": "1807484227212218368",
+        "conversation_id": "1921467654868480095",
+        "created_at": "2025-05-11T07:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T08:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921467654868480095"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "反差"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "肌肉"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "胸肌"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "腹肌"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "男菩萨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOIAe1wO4R",
+              "end": 66,
+              "expanded_url": "https://x.com/zhujin2333/status/1921467654868480095/video/1",
+              "media_key": "13_1921467573159460864",
+              "start": 43,
+              "url": "https://t.co/zOIAe1wO4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921467654868480095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2761,
+          "like_count": 130,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你妈的发到墙内都能给我和谐了 小红书我恨你 #反差 #肌肉 #胸肌 #腹肌 #男菩萨 https://t.co/zOIAe1wO4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4491,
+          "following_count": 182,
+          "like_count": 460,
+          "listed_count": 9,
+          "media_count": 51,
+          "tweet_count": 469
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T18:40:45.000Z",
+        "description": "30/170cm/58kg 欢迎关注我！私信前请先看我置顶。希望你们看我的照片能开心，感谢喜欢。",
+        "id": "1807484227212218368",
+        "location": "福建",
+        "name": "竹",
+        "pinned_tweet_id": "1900929476135186693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906738037851353088/GkcIrlgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16561,
+          "following_count": 40,
+          "like_count": 149,
+          "listed_count": 31,
+          "media_count": 93,
+          "tweet_count": 3440
+        },
+        "username": "zhujin2333",
+        "verified": false
+      }
+    ]
+  }
+}

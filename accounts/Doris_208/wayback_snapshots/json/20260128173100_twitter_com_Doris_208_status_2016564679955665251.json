@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2016415550302232822",
+    "created_at": "2026-01-28T17:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016564679955665251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "986091351967191040",
+          "start": 0,
+          "username": "kzl2064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016564679955665251",
+    "in_reply_to_user_id": "986091351967191040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016415550302232822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kzl2064 我操？你居然开张了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016415545055129600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_u_QTqWMAAwy7F.jpg",
+        "width": 1002
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016415545126436865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_u_QT7WQAEdKc5.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016415546695102464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_u_QZxWMAAUvdz.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016415545185234945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_u_QUJXcAEap-N.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2016415550302232822",
+        "created_at": "2026-01-28T17:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016564679955665251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "986091351967191040",
+              "start": 0,
+              "username": "kzl2064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016564679955665251",
+        "in_reply_to_user_id": "986091351967191040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016415550302232822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kzl2064 我操？你居然开张了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016415545055129600",
+            "3_2016415545126436865",
+            "3_2016415546695102464",
+            "3_2016415545185234945"
+          ]
+        },
+        "author_id": "986091351967191040",
+        "conversation_id": "2016415550302232822",
+        "created_at": "2026-01-28T07:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016415550302232822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFA5xdTcU4",
+              "end": 37,
+              "expanded_url": "https://x.com/kzl2064/status/2016415550302232822/photo/1",
+              "media_key": "3_2016415545055129600",
+              "start": 14,
+              "url": "https://t.co/PFA5xdTcU4"
+            },
+            {
+              "display_url": "pic.x.com/PFA5xdTcU4",
+              "end": 37,
+              "expanded_url": "https://x.com/kzl2064/status/2016415550302232822/photo/1",
+              "media_key": "3_2016415545126436865",
+              "start": 14,
+              "url": "https://t.co/PFA5xdTcU4"
+            },
+            {
+              "display_url": "pic.x.com/PFA5xdTcU4",
+              "end": 37,
+              "expanded_url": "https://x.com/kzl2064/status/2016415550302232822/photo/1",
+              "media_key": "3_2016415546695102464",
+              "start": 14,
+              "url": "https://t.co/PFA5xdTcU4"
+            },
+            {
+              "display_url": "pic.x.com/PFA5xdTcU4",
+              "end": 37,
+              "expanded_url": "https://x.com/kzl2064/status/2016415550302232822/photo/1",
+              "media_key": "3_2016415545185234945",
+              "start": 14,
+              "url": "https://t.co/PFA5xdTcU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016415550302232822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1278,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没更匿名回复了，更一次 https://t.co/PFA5xdTcU4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "少od多do",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5291,
+          "following_count": 277,
+          "like_count": 580,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 907
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T03:57:53.000Z",
+        "description": "一个很普通的普通人，推文全是下体（没打敏感，不喜欢看鸡巴和蛋蛋的请立马退出!）不是gay，私信必回",
+        "id": "986091351967191040",
+        "location": "广东",
+        "name": "鸡飞蛋打",
+        "pinned_tweet_id": "1813083896797700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488206928337534980/Oyy9KKu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10450,
+          "following_count": 718,
+          "like_count": 10238,
+          "listed_count": 57,
+          "media_count": 107,
+          "tweet_count": 951
+        },
+        "username": "kzl2064",
+        "verified": false
+      }
+    ]
+  }
+}

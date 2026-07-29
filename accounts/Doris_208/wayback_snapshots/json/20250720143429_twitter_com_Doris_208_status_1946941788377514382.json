@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1946601374462136718",
+    "created_at": "2025-07-20T14:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T15:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946941788377514382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755860009878253569",
+          "start": 0,
+          "username": "AnG1e_oiio15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946941788377514382",
+    "in_reply_to_user_id": "1755860009878253569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946601374462136718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnG1e_oiio15 删了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1946601374462136718",
+        "created_at": "2025-07-20T14:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T15:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946941788377514382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755860009878253569",
+              "start": 0,
+              "username": "AnG1e_oiio15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946941788377514382",
+        "in_reply_to_user_id": "1755860009878253569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946601374462136718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnG1e_oiio15 删了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755860009878253569",
+        "conversation_id": "1946601374462136718",
+        "created_at": "2025-07-19T16:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T17:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946601374462136718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946601374462136718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 51779,
+          "like_count": 654,
+          "quote_count": 27,
+          "reply_count": 92,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝我知道你，嘴上说着想谈恋爱，真谈上了就开始内耗还嫌麻烦，天天眼红别人开张，真有人要约又不想去，装作除了钱什么都不爱的样子说要猛猛圈，真有人转个大的又不好意思收"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4524,
+          "following_count": 211,
+          "like_count": 521,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 632
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T07:43:52.000Z",
+        "description": "泛 | switch | intp | 不约不卡泡没门槛 | 要互关可以私信 会查成分 | 我的匿名提问箱：https://t.co/n7gls4tz6r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkpepper1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/pinkpepper1",
+                "start": 54,
+                "url": "https://t.co/n7gls4tz6r"
+              }
+            ]
+          }
+        },
+        "id": "1755860009878253569",
+        "name": "粉红胡椒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917361595056795648/ttSuLt_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 194,
+          "like_count": 11811,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 3544
+        },
+        "username": "AnG1e_oiio15",
+        "verified": true
+      }
+    ]
+  }
+}

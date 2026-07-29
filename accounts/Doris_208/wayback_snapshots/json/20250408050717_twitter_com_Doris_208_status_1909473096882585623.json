@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1909277356893880485",
+    "created_at": "2025-04-08T05:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T06:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909473096882585623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1192237936969834497",
+          "start": 0,
+          "username": "CaiMiao0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909473096882585623",
+    "in_reply_to_user_id": "1192237936969834497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909277356893880485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaiMiao0_0 情缘是情缘，老公是老公，宝贝是宝贝，你是你，都不一样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909277339487526912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn8dn93bYAAgIcO.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1909277353383178240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn8doxoaMAAnM4V.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1909277356893880485",
+        "created_at": "2025-04-08T05:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T06:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909473096882585623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1192237936969834497",
+              "start": 0,
+              "username": "CaiMiao0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909473096882585623",
+        "in_reply_to_user_id": "1192237936969834497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909277356893880485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaiMiao0_0 情缘是情缘，老公是老公，宝贝是宝贝，你是你，都不一样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909277339487526912",
+            "3_1909277353383178240"
+          ]
+        },
+        "author_id": "1192237936969834497",
+        "conversation_id": "1909277356893880485",
+        "created_at": "2025-04-07T16:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T17:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909277356893880485"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "剑网三"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "剑网3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihr54Zmuf6",
+              "end": 70,
+              "expanded_url": "https://x.com/CaiMiao0_0/status/1909277356893880485/photo/1",
+              "media_key": "3_1909277339487526912",
+              "start": 47,
+              "url": "https://t.co/ihr54Zmuf6"
+            },
+            {
+              "display_url": "pic.x.com/ihr54Zmuf6",
+              "end": 70,
+              "expanded_url": "https://x.com/CaiMiao0_0/status/1909277356893880485/photo/1",
+              "media_key": "3_1909277353383178240",
+              "start": 47,
+              "url": "https://t.co/ihr54Zmuf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909277356893880485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 643,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐你说你想谈两个情缘  我咬咬牙同意了  结果两个都不是我  啥意思？\n#剑网三 #剑网3 https://t.co/ihr54Zmuf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "恶毒的花嫁",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4446,
+          "following_count": 175,
+          "like_count": 438,
+          "listed_count": 9,
+          "media_count": 48,
+          "tweet_count": 402
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-07T00:32:00.000Z",
+        "description": "事已至此 先吃饭吧",
+        "id": "1192237936969834497",
+        "name": "菜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901234362785632256/gfkpZ611_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 780,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 654
+        },
+        "username": "CaiMiao0_0",
+        "verified": false
+      }
+    ]
+  }
+}

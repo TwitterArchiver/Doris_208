@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1983174943274856729",
+    "created_at": "2025-10-29T23:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T00:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983673341878919249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740741381944201216",
+          "start": 0,
+          "username": "Heiwuya888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983673341878919249",
+    "in_reply_to_user_id": "1740741381944201216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983174943274856729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Heiwuya888 老公老公（没有括号纯自愿）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1983174943274856729",
+        "created_at": "2025-10-29T23:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T00:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983673341878919249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740741381944201216",
+              "start": 0,
+              "username": "Heiwuya888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983673341878919249",
+        "in_reply_to_user_id": "1740741381944201216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983174943274856729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Heiwuya888 老公老公（没有括号纯自愿）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740741381944201216",
+        "conversation_id": "1983174943274856729",
+        "created_at": "2025-10-28T14:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983174943274856729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983174943274856729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10577,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他娘的，叫别人老公，叫我就是14.5抽象哥。放眼望去推特上哪个帅哥帖子下面的评论不是一水的老公，凭什么我没有！合着整个推特就我没有女友粉是吧！\n我操操操操操操操操操操操操操操操操操操操操操操操操操操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5669,
+          "following_count": 274,
+          "like_count": 596,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 860
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T14:27:59.000Z",
+        "description": "不勇敢的人永远不快乐｜@xiaowuya6688",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "xiaowuya6688"
+              }
+            ]
+          }
+        },
+        "id": "1740741381944201216",
+        "location": "入🚪188/288/520 观看高清完整版",
+        "name": "黑乌鸦",
+        "pinned_tweet_id": "1908851168719024184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906594670895144960/gNsUG7yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29735,
+          "following_count": 109,
+          "like_count": 7833,
+          "listed_count": 42,
+          "media_count": 170,
+          "tweet_count": 1009
+        },
+        "username": "Heiwuya888",
+        "verified": false
+      }
+    ]
+  }
+}

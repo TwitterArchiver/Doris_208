@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1869015724590875093",
+    "created_at": "2024-12-17T13:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T14:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869015724590875093"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1869015724590875093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "圣诞节出租地雷 ，提供一天伴侣服务，包天200r   主要有以下业务：\n1、早上叫起床\n2、中午怀疑你出轨\n3、下午对你阴阳怪气\n4、晚上开始冷暴力\n5、十二点过说分手\n6、一点来捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1869015724590875093",
+        "created_at": "2024-12-17T13:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T14:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869015724590875093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869015724590875093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圣诞节出租地雷 ，提供一天伴侣服务，包天200r   主要有以下业务：\n1、早上叫起床\n2、中午怀疑你出轨\n3、下午对你阴阳怪气\n4、晚上开始冷暴力\n5、十二点过说分手\n6、一点来捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|负能量集中地|mental death|✟升天✟",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 54,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 192
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2041899344224514150",
+    "created_at": "2026-04-09T00:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T01:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042030818420556241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1875735262510379014",
+          "start": 0,
+          "username": "masochism520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042030818420556241",
+    "in_reply_to_user_id": "1875735262510379014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041899344224514150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@masochism520 看不上就冷处理，看得上就继续聊着约长期"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2041899344224514150",
+        "created_at": "2026-04-09T00:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042030818420556241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1875735262510379014",
+              "start": 0,
+              "username": "masochism520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042030818420556241",
+        "in_reply_to_user_id": "1875735262510379014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041899344224514150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@masochism520 看不上就冷处理，看得上就继续聊着约长期"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875735262510379014",
+        "conversation_id": "2041899344224514150",
+        "created_at": "2026-04-08T15:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041899344224514150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041899344224514150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14543,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想問一下大家約炮後是怎麼處理關係的 是互相拉黑還是繼續曖昧？\n\n還是留好友不聯繫了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4987,
+          "following_count": 287,
+          "like_count": 595,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 959
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T02:45:20.000Z",
+        "description": "BDSM ︳Brat ︳M ︳ENFP ︳173cm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/JeP3gvZhzn",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/JeP3gvZhzn",
+                "start": 0,
+                "url": "https://t.co/GIJaEEKnRm"
+              }
+            ]
+          }
+        },
+        "id": "1875735262510379014",
+        "location": "Taiwan",
+        "name": "Una🧸",
+        "pinned_tweet_id": "2041899344224514150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944407325667995648/gR563jlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9304,
+          "following_count": 137,
+          "like_count": 389,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/GIJaEEKnRm",
+        "username": "masochism520",
+        "verified": false
+      }
+    ]
+  }
+}

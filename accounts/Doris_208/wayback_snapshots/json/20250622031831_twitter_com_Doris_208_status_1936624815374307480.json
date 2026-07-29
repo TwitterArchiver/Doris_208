@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1936275566870827211",
+    "created_at": "2025-06-22T03:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T04:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936624815374307480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771513890138132480",
+          "start": 0,
+          "username": "iove3064"
+        },
+        {
+          "end": 18,
+          "id": "986091351967191040",
+          "start": 10,
+          "username": "kzl2064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936624815374307480",
+    "in_reply_to_user_id": "1771513890138132480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936275566870827211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iove3064 @kzl2064 来试试看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1936275557521485824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8IXFlW8AAExmD.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_1936275557538275328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8IXFpXIAAAXmn.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1936275566870827211",
+        "created_at": "2025-06-22T03:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T04:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936624815374307480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771513890138132480",
+              "start": 0,
+              "username": "iove3064"
+            },
+            {
+              "end": 18,
+              "id": "986091351967191040",
+              "start": 10,
+              "username": "kzl2064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936624815374307480",
+        "in_reply_to_user_id": "1771513890138132480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936275566870827211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iove3064 @kzl2064 来试试看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936275557521485824",
+            "3_1936275557538275328"
+          ]
+        },
+        "author_id": "1771513890138132480",
+        "conversation_id": "1936275566870827211",
+        "created_at": "2025-06-21T04:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936275566870827211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F07nWWQ4my",
+              "end": 57,
+              "expanded_url": "https://x.com/iove3064/status/1936275566870827211/photo/1",
+              "media_key": "3_1936275557521485824",
+              "start": 34,
+              "url": "https://t.co/F07nWWQ4my"
+            },
+            {
+              "display_url": "pic.x.com/F07nWWQ4my",
+              "end": 57,
+              "expanded_url": "https://x.com/iove3064/status/1936275566870827211/photo/1",
+              "media_key": "3_1936275557538275328",
+              "start": 34,
+              "url": "https://t.co/F07nWWQ4my"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936275566870827211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 267871,
+          "like_count": 1055,
+          "quote_count": 9,
+          "reply_count": 152,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "有没有几把大的男推试试三角分离式阴囊内裤啊啊啊啊好像看看上身效果🥺 https://t.co/F07nWWQ4my"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4501,
+          "following_count": 200,
+          "like_count": 486,
+          "listed_count": 9,
+          "media_count": 56,
+          "tweet_count": 536
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T12:26:49.000Z",
+        "description": "enfj ᰔᩚ",
+        "id": "1771513890138132480",
+        "location": "🚪",
+        "name": "湫",
+        "pinned_tweet_id": "1936325038992662944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772665243774464000/eITTTB3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34875,
+          "following_count": 60,
+          "like_count": 104,
+          "listed_count": 56,
+          "media_count": 218,
+          "tweet_count": 2776
+        },
+        "username": "iove3064",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T03:57:53.000Z",
+        "description": "一个很普通的普通人，推文全是下体（没打敏感，不喜欢看鸡巴和蛋蛋的请立马退出!）不是gay，私信必回",
+        "id": "986091351967191040",
+        "location": "广东",
+        "name": "鸡飞蛋打",
+        "pinned_tweet_id": "1813083896797700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488206928337534980/Oyy9KKu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9631,
+          "following_count": 803,
+          "like_count": 9196,
+          "listed_count": 45,
+          "media_count": 99,
+          "tweet_count": 883
+        },
+        "username": "kzl2064",
+        "verified": false
+      }
+    ]
+  }
+}

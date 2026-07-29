@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1884113483647881432",
+    "created_at": "2025-01-28T05:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T06:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884113483647881432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oTuTok/status/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/oTuTok/status/1883950286009688319",
+          "start": 13,
+          "url": "https://t.co/vWmxJF5V7b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884113483647881432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883950286009688319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是大傻逼，给我包个大的 https://t.co/vWmxJF5V7b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1884113483647881432",
+        "created_at": "2025-01-28T05:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T06:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884113483647881432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oTuTok/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/oTuTok/status/1883950286009688319",
+              "start": 13,
+              "url": "https://t.co/vWmxJF5V7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884113483647881432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883950286009688319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是大傻逼，给我包个大的 https://t.co/vWmxJF5V7b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754766580297379840",
+        "conversation_id": "1883950286009688319",
+        "created_at": "2025-01-27T18:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T19:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883950286009688319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883950286009688319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8831,
+          "like_count": 157,
+          "quote_count": 8,
+          "reply_count": 10,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "给骚逼转完账了吗 给我们傻逼也转点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 161,
+          "like_count": 443,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:18:59.000Z",
+        "description": "🎚🩶ིྀ🪦",
+        "id": "1754766580297379840",
+        "location": "v188",
+        "name": "BlackStone",
+        "pinned_tweet_id": "1874308406489866534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765771028322791424/Lf6ihNhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15611,
+          "following_count": 154,
+          "like_count": 6687,
+          "listed_count": 22,
+          "media_count": 195,
+          "tweet_count": 2767
+        },
+        "username": "oTuTok",
+        "verified": false
+      }
+    ]
+  }
+}

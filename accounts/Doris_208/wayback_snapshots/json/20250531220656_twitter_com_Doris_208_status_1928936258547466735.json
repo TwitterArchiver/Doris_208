@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1928853948821287300",
+    "created_at": "2025-05-31T22:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T23:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928936258547466735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857480192224276480",
+          "start": 0,
+          "username": "dd_bbls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928936258547466735",
+    "in_reply_to_user_id": "1857480192224276480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928853948821287300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd_bbls 放出来吧大追追兜着多憋屈啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 110300,
+        "height": 720,
+        "media_key": "13_1928853550429515777",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928853550429515777/img/cQdVM77zOoujFmMH.jpg",
+        "public_metrics": {
+          "view_count": 3529
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928853550429515777/vid/avc1/480x270/0JSL1oIb3lHPqlOl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928853550429515777/vid/avc1/640x360/-lezgx8xPLlKgO9V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928853550429515777/vid/avc1/1280x720/HC5D3zMp62vhQJJo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928853550429515777/pl/1f887JfIR900vS4B.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1928853948821287300",
+        "created_at": "2025-05-31T22:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T23:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928936258547466735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857480192224276480",
+              "start": 0,
+              "username": "dd_bbls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928936258547466735",
+        "in_reply_to_user_id": "1857480192224276480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928853948821287300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd_bbls 放出来吧大追追兜着多憋屈啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928853550429515777"
+          ]
+        },
+        "author_id": "1857480192224276480",
+        "conversation_id": "1928853948821287300",
+        "created_at": "2025-05-31T16:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T17:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928853948821287300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdAM9Gsa7C",
+              "end": 30,
+              "expanded_url": "https://x.com/dd_bbls/status/1928853948821287300/video/1",
+              "media_key": "13_1928853550429515777",
+              "start": 7,
+              "url": "https://t.co/SdAM9Gsa7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928853948821287300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 13663,
+          "like_count": 819,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "脱不脱3.0 https://t.co/SdAM9Gsa7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4494,
+          "following_count": 188,
+          "like_count": 474,
+          "listed_count": 9,
+          "media_count": 55,
+          "tweet_count": 497
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:46:10.000Z",
+        "description": "男大，纯直男纯直男，喜欢我的可以点点关注点点赞呀🥹欢迎大家私信或者匿名提问来找我玩～～匿名提问➡️https://t.co/thwoXQnO1x 🚪门槛详情可私信哦～ 更日常小号@ddpattaa 自用梯子🪜https://t.co/RmD7SWmQkd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 89,
+                "username": "ddpattaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ddpatta",
+                "end": 72,
+                "expanded_url": "https://ngl.link/ddpatta",
+                "start": 49,
+                "url": "https://t.co/thwoXQnO1x"
+              },
+              {
+                "display_url": "vip.sulink.life/#/register?cod…",
+                "end": 127,
+                "expanded_url": "https://vip.sulink.life/#/register?code=LHwL1d9w",
+                "start": 104,
+                "url": "https://t.co/RmD7SWmQkd"
+              }
+            ]
+          }
+        },
+        "id": "1857480192224276480",
+        "location": "🚪v520/q288",
+        "name": "ddpat",
+        "pinned_tweet_id": "1883503756303839558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927326818643648512/jQeK5l4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45563,
+          "following_count": 95,
+          "like_count": 2069,
+          "listed_count": 126,
+          "media_count": 166,
+          "tweet_count": 849
+        },
+        "username": "dd_bbls",
+        "verified": false
+      }
+    ]
+  }
+}

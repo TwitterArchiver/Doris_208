@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1935302065863213419",
+    "created_at": "2025-06-18T13:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T14:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935336165886103944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1118583356092903424",
+          "start": 0,
+          "username": "Ts07212598"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935336165886103944",
+    "in_reply_to_user_id": "1118583356092903424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935304922083606876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ts07212598 啃啃你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1935302065863213419",
+        "created_at": "2025-06-18T13:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935336165886103944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1118583356092903424",
+              "start": 0,
+              "username": "Ts07212598"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935336165886103944",
+        "in_reply_to_user_id": "1118583356092903424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935304922083606876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ts07212598 啃啃你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1118583356092903424",
+        "conversation_id": "1935302065863213419",
+        "created_at": "2025-06-18T11:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935304922083606876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935304922083606876",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935302065863213419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 ？这位小姐请自助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4506,
+          "following_count": 196,
+          "like_count": 482,
+          "listed_count": 9,
+          "media_count": 56,
+          "tweet_count": 532
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-17T18:33:49.000Z",
+        "description": "xp系统十分发达 主攻无下限的辱骂调教 想被催眠辱骂中出调教放置下药强奸奴隶化物品化的母猪鸡巴套子们 与其扭动你的屁股看着别人的聊天记录抽搐着抠你的飞机杯穴 不如私聊给我让我用你好好套弄鸡巴（自带剧情或者想要的结果更佳）",
+        "id": "1118583356092903424",
+        "location": "肉畜垫子脸上",
+        "name": "Ts",
+        "pinned_tweet_id": "1570381551644610560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721656716587401217/i3RU9tUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7909,
+          "following_count": 3387,
+          "like_count": 5161,
+          "listed_count": 56,
+          "media_count": 484,
+          "tweet_count": 3753
+        },
+        "username": "Ts07212598",
+        "verified": false
+      }
+    ]
+  }
+}

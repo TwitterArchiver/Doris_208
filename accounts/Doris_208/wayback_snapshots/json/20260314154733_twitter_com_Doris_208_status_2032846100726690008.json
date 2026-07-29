@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2032846100726690008",
+    "created_at": "2026-03-14T15:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032846100726690008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940953463086780416",
+          "start": 3,
+          "username": "Linxiaoze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032846100726690008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032541707338940782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Linxiaoze: 每次只要我变得粘人开始依赖对方那一切都完了，毫无例外没有好下场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2032846100726690008",
+        "created_at": "2026-03-14T15:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032846100726690008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940953463086780416",
+              "start": 3,
+              "username": "Linxiaoze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032846100726690008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032541707338940782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Linxiaoze: 每次只要我变得粘人开始依赖对方那一切都完了，毫无例外没有好下场"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940953463086780416",
+        "conversation_id": "2032541707338940782",
+        "created_at": "2026-03-13T19:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T20:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032541707338940782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032541707338940782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12790,
+          "like_count": 334,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "每次只要我变得粘人开始依赖对方那一切都完了，毫无例外没有好下场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5187,
+          "following_count": 288,
+          "like_count": 591,
+          "listed_count": 9,
+          "media_count": 45,
+          "tweet_count": 929
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T01:59:09.000Z",
+        "description": "不是男同我是异性恋谢谢\n喜欢可以投喂 蟹蟹(˃ ⌑ ˂ഃ )\nhttps://t.co/paTOU0VFvy可以找我问问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lnixiaoze",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lnixiaoze",
+                "start": 31,
+                "url": "https://t.co/paTOU0VFvy"
+              }
+            ]
+          }
+        },
+        "id": "1940953463086780416",
+        "location": "🚪88 188想发哪个发哪个",
+        "name": "神秘恋姐癖( ⩌ - ⩌ )",
+        "pinned_tweet_id": "2031081406248726735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032805210817712128/3-MXl9D4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4004,
+          "following_count": 402,
+          "like_count": 11924,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 1470
+        },
+        "username": "Linxiaoze",
+        "verified": false
+      }
+    ]
+  }
+}

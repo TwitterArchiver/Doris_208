@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1915381479737380995",
+    "created_at": "2025-04-24T13:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T14:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915398109628424293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1647882177798094850",
+          "start": 0,
+          "username": "Yuratto27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915398109628424293",
+    "in_reply_to_user_id": "1647882177798094850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915381479737380995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuratto27 确实，不会叫的男人不行👋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42970,
+        "height": 720,
+        "media_key": "7_1915381400846688258",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1915381400846688258/pu/img/R4W4WEyU-hiSTt-C.jpg",
+        "public_metrics": {
+          "view_count": 208
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915381400846688258/pu/vid/avc1/480x270/8k_v-0OQpdxVdgmj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915381400846688258/pu/vid/avc1/640x360/yj7-ejCcURLvNaiy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915381400846688258/pu/vid/avc1/1280x720/MiWlSnNauzwyw1jF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1915381400846688258/pu/pl/CVgRPmVwyo194tmw.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1915381479737380995",
+        "created_at": "2025-04-24T13:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T14:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915398109628424293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1647882177798094850",
+              "start": 0,
+              "username": "Yuratto27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915398109628424293",
+        "in_reply_to_user_id": "1647882177798094850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915381479737380995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuratto27 确实，不会叫的男人不行👋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1915381400846688258"
+          ]
+        },
+        "author_id": "1647882177798094850",
+        "conversation_id": "1915381479737380995",
+        "created_at": "2025-04-24T12:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T13:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915381479737380995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejqfOenCQi",
+              "end": 47,
+              "expanded_url": "https://x.com/Yuratto27/status/1915381479737380995/video/1",
+              "media_key": "7_1915381400846688258",
+              "start": 24,
+              "url": "https://t.co/ejqfOenCQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915381479737380995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 943,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "像我这种自慰和做爱的时候都会叫的男人真是太棒了 https://t.co/ejqfOenCQi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 178,
+          "like_count": 446,
+          "listed_count": 8,
+          "media_count": 48,
+          "tweet_count": 425
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T08:38:39.000Z",
+        "description": "讨厌人类，但还是希望所有女孩子最后都能嫁给爱情",
+        "id": "1647882177798094850",
+        "location": "上海",
+        "name": "27",
+        "pinned_tweet_id": "1898345640348049762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649753246653906946/1SrfC1TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11440,
+          "following_count": 1347,
+          "like_count": 37929,
+          "listed_count": 31,
+          "media_count": 53,
+          "tweet_count": 1487
+        },
+        "username": "Yuratto27",
+        "verified": false
+      }
+    ]
+  }
+}

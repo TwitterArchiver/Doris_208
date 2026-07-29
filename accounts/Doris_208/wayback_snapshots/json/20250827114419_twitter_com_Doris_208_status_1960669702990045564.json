@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1960528164792492382",
+    "created_at": "2025-08-27T11:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T12:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960669702990045564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1287703816301772800",
+          "start": 0,
+          "username": "nBtft6ic59t3fDi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960669702990045564",
+    "in_reply_to_user_id": "1287703816301772800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960561550181458176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nBtft6ic59t3fDi 谐音，读一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1960528164792492382",
+        "created_at": "2025-08-27T11:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960669702990045564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1287703816301772800",
+              "start": 0,
+              "username": "nBtft6ic59t3fDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960669702990045564",
+        "in_reply_to_user_id": "1287703816301772800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960561550181458176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nBtft6ic59t3fDi 谐音，读一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287703816301772800",
+        "conversation_id": "1960528164792492382",
+        "created_at": "2025-08-27T04:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960561550181458176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960561550181458176",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960528164792492382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 春竹跟梅馬是什麼神奇產物..（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4490,
+          "following_count": 220,
+          "like_count": 530,
+          "listed_count": 8,
+          "media_count": 60,
+          "tweet_count": 690
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-27T10:58:17.000Z",
+        "description": "",
+        "id": "1287703816301772800",
+        "name": "阿誠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1320563940603035649/ysufMHr7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 127,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 468
+        },
+        "username": "nBtft6ic59t3fDi",
+        "verified": false
+      }
+    ]
+  }
+}

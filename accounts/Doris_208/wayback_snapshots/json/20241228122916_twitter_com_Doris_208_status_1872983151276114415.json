@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1872983151276114415",
+    "created_at": "2024-12-28T12:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T13:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1872983151276114415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bkyssj/status/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/bkyssj/status/1872665272794116188",
+          "start": 17,
+          "url": "https://t.co/7UgswKVStT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872983151276114415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872665272794116188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "点了，叫母狗是会直接删好友的程度 https://t.co/7UgswKVStT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1872983151276114415",
+        "created_at": "2024-12-28T12:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T13:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872983151276114415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bkyssj/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/bkyssj/status/1872665272794116188",
+              "start": 17,
+              "url": "https://t.co/7UgswKVStT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872983151276114415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872665272794116188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "点了，叫母狗是会直接删好友的程度 https://t.co/7UgswKVStT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422093855235715076",
+        "conversation_id": "1872665272794116188",
+        "created_at": "2024-12-27T15:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T16:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872665272794116188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872665272794116188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 258935,
+          "like_count": 1515,
+          "quote_count": 15,
+          "reply_count": 109,
+          "retweet_count": 42
+        },
+        "reply_settings": "following",
+        "text": "我做爱的时候对“母狗”介意到什么程度呢？\n时隔两年没做和教练哥第一次上床我能捧着他手指塞嘴里吸，舔遍他全身，爽到什么都叫得出，但是他在享受我吸手指的时候说了句“是不是爸爸的小母狗”，我马上把手指吐出来，“不是，是小狗，叫母狗不做了”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 96,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-02T07:16:23.000Z",
+        "description": "脾气不好，没有耐心，不是陪聊，不讨论政治相关问题，不收门槛，不卖淫，不加任何联系方式，可以请我喝咖啡但别指望我惯着你，保持边界感。",
+        "id": "1422093855235715076",
+        "location": "不闲聊，不参与黄赌毒，不搞小团体，没你想要的，取关随意",
+        "name": "十三",
+        "pinned_tweet_id": "1830637968778039296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832746233540247552/8z9aHdTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11761,
+          "following_count": 304,
+          "like_count": 43125,
+          "listed_count": 48,
+          "media_count": 2033,
+          "tweet_count": 31887
+        },
+        "username": "bkyssj",
+        "verified": false
+      }
+    ]
+  }
+}

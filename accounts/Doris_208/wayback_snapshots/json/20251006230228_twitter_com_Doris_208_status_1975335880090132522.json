@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1975115954091859973",
+    "created_at": "2025-10-06T23:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T00:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975335880090132522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826633937000497152",
+          "start": 0,
+          "username": "guigui06211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975335880090132522",
+    "in_reply_to_user_id": "1826633937000497152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975115954091859973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guigui06211 好那个噢🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48866,
+        "height": 720,
+        "media_key": "13_1975115855685095424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975115855685095424/img/2aFxMpjBSjzDhPze.jpg",
+        "public_metrics": {
+          "view_count": 771
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975115855685095424/vid/avc1/480x270/nRzlKpIGL01ZqIVW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975115855685095424/vid/avc1/640x360/9e0fE6U9hkCoPWvP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975115855685095424/vid/avc1/1280x720/K0b7f8CWx4N_WjnC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975115855685095424/pl/GqSfXuAfhtRmNJnh.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1975115954091859973",
+        "created_at": "2025-10-06T23:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T00:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975335880090132522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826633937000497152",
+              "start": 0,
+              "username": "guigui06211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975335880090132522",
+        "in_reply_to_user_id": "1826633937000497152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975115954091859973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guigui06211 好那个噢🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975115855685095424"
+          ]
+        },
+        "author_id": "1826633937000497152",
+        "conversation_id": "1975115954091859973",
+        "created_at": "2025-10-06T08:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975115954091859973"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "唧唧"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "撸射"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "美甲"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IyJYpRWnia",
+              "end": 56,
+              "expanded_url": "https://x.com/guigui06211/status/1975115954091859973/video/1",
+              "media_key": "13_1975115855685095424",
+              "start": 33,
+              "url": "https://t.co/IyJYpRWnia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975115954091859973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 3464,
+          "like_count": 176,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "就是说美甲撸撸真的挺涩的。\n#唧唧 #手冲实录 #撸射  #美甲 https://t.co/IyJYpRWnia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4508,
+          "following_count": 243,
+          "like_count": 543,
+          "listed_count": 9,
+          "media_count": 64,
+          "tweet_count": 769
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T14:54:43.000Z",
+        "description": "黄推 06 生姜人（开学在南京） 直男 直男 直男（男生别私信我了。） 捣蒜棒槌 问 https://t.co/pD7DidYzY6 自用蜂鸟VPN：https://t.co/AzF6We82HE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BE%9F%E9%B…",
+                "end": 66,
+                "expanded_url": "https://ngl.link/%E9%BE%9F%E9%BE%9F",
+                "start": 43,
+                "url": "https://t.co/pD7DidYzY6"
+              },
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 98,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=aVnY0NeW",
+                "start": 75,
+                "url": "https://t.co/AzF6We82HE"
+              }
+            ]
+          }
+        },
+        "id": "1826633937000497152",
+        "name": "龟龟",
+        "pinned_tweet_id": "1962358692520849437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886326101934505984/m_K8qOQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9622,
+          "following_count": 562,
+          "like_count": 14523,
+          "listed_count": 36,
+          "media_count": 393,
+          "tweet_count": 1775
+        },
+        "username": "guigui06211",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1985320871628603607",
+    "created_at": "2025-11-03T12:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T13:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985320871628603607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OlDESTING/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/OlDESTING/status/1984973024412799239",
+          "start": 6,
+          "url": "https://t.co/UHaPCtlz4l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985320871628603607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984973024412799239",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直在哭 https://t.co/UHaPCtlz4l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1985320871628603607",
+        "created_at": "2025-11-03T12:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985320871628603607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OlDESTING/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/OlDESTING/status/1984973024412799239",
+              "start": 6,
+              "url": "https://t.co/UHaPCtlz4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985320871628603607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984973024412799239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直在哭 https://t.co/UHaPCtlz4l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546458302623596544",
+        "conversation_id": "1984973024412799239",
+        "created_at": "2025-11-02T13:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984973024412799239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984973024412799239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 28440,
+          "like_count": 569,
+          "quote_count": 19,
+          "reply_count": 37,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "哭泣的时候被人从背后抱住到底是什么感觉 晚上被人抱着睡觉到底是什么感觉 被人充满爱意的看着到底是什么感觉 被人用手捂热自己冰凉的手到底是什么感觉 被人在耳边呢喃着说情话到底是什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5653,
+          "following_count": 276,
+          "like_count": 606,
+          "listed_count": 9,
+          "media_count": 67,
+          "tweet_count": 872
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T11:36:21.000Z",
+        "description": "去他妈的世界  https://t.co/Jp9ktiJNs7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oldesting64975",
+                "end": 31,
+                "expanded_url": "https://ngl.link/oldesting64975",
+                "start": 8,
+                "url": "https://t.co/Jp9ktiJNs7"
+              }
+            ]
+          }
+        },
+        "id": "1546458302623596544",
+        "location": "精神病院中心园",
+        "name": "阿迪克斯",
+        "pinned_tweet_id": "1968483000858915001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885317951546679301/m17XslbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 387,
+          "like_count": 163513,
+          "listed_count": 5,
+          "media_count": 1579,
+          "tweet_count": 20568
+        },
+        "username": "OlDESTING",
+        "verified": false
+      }
+    ]
+  }
+}

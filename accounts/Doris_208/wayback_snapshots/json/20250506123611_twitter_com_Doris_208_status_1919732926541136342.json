@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1919732926541136342",
+    "created_at": "2025-05-06T12:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T13:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919732926541136342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871223001846624256",
+          "start": 3,
+          "username": "yuuuu999666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919732926541136342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919392966474420298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuuuu999666: 寻找一位喜欢给我发色情信息且有分离焦虑且心甘情愿被我调教且接受我大小姐脾气的老公"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1919732926541136342",
+        "created_at": "2025-05-06T12:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T13:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919732926541136342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871223001846624256",
+              "start": 3,
+              "username": "yuuuu999666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919732926541136342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919392966474420298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuuuu999666: 寻找一位喜欢给我发色情信息且有分离焦虑且心甘情愿被我调教且接受我大小姐脾气的老公"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871223001846624256",
+        "conversation_id": "1919392966474420298",
+        "created_at": "2025-05-05T14:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T15:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919392966474420298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919392966474420298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 22282,
+          "like_count": 235,
+          "quote_count": 25,
+          "reply_count": 35,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "寻找一位喜欢给我发色情信息且有分离焦虑且心甘情愿被我调教且接受我大小姐脾气的老公"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4496,
+          "following_count": 180,
+          "like_count": 453,
+          "listed_count": 9,
+          "media_count": 51,
+          "tweet_count": 463
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T15:55:16.000Z",
+        "description": "推广自辨 不加v 不线下 不闲聊",
+        "id": "1871223001846624256",
+        "name": "鱼饼",
+        "pinned_tweet_id": "1919672996240728122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886615285282824193/k1wYQaIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3684,
+          "following_count": 108,
+          "like_count": 1905,
+          "listed_count": 6,
+          "media_count": 8,
+          "tweet_count": 1273
+        },
+        "username": "yuuuu999666",
+        "verified": false
+      }
+    ]
+  }
+}

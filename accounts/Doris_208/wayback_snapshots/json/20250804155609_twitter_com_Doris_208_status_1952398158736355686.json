@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1952398158736355686",
+    "created_at": "2025-08-04T15:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T16:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952398158736355686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ln2umerical/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/ln2umerical/status/1952203418585686241",
+          "start": 15,
+          "url": "https://t.co/CSzZ64whfp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952398158736355686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952203418585686241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会一直一直视奸你…永远👁️ https://t.co/CSzZ64whfp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1952398158736355686",
+        "created_at": "2025-08-04T15:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T16:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952398158736355686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ln2umerical/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ln2umerical/status/1952203418585686241",
+              "start": 15,
+              "url": "https://t.co/CSzZ64whfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952398158736355686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952203418585686241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会一直一直视奸你…永远👁️ https://t.co/CSzZ64whfp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734598399327088640",
+        "conversation_id": "1952203418585686241",
+        "created_at": "2025-08-04T03:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T04:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952203418585686241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952203418585686241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 43645,
+          "like_count": 671,
+          "quote_count": 38,
+          "reply_count": 78,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "视奸你最爽的地方就是发现你和别人更亲密的那种钝感的痛和极力压抑住的极端心理，牙都要咬碎了还要装作什么都不知道，因为根本没资格质问👁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 219,
+          "like_count": 527,
+          "listed_count": 8,
+          "media_count": 59,
+          "tweet_count": 670
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "04/养胃男/想到啥发啥/ 🚪52 互关宝宝请直接来加我😽 /恩师lii @Lillcuainil  /\n\n年卡12r自用VPN\nhttps://t.co/Iop4EJ54fS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Lillcuainil"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一元机场.ink/#/register?cod…",
+                "end": 88,
+                "expanded_url": "https://xn--4gq62f52gdss.ink/#/register?code=stQjAntt",
+                "start": 65,
+                "url": "https://t.co/Iop4EJ54fS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfYSD"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北（恩师lii）",
+        "pinned_tweet_id": "1951914670832419328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6001,
+          "following_count": 280,
+          "like_count": 28570,
+          "listed_count": 11,
+          "media_count": 471,
+          "tweet_count": 17174
+        },
+        "url": "https://t.co/mZpOgIfYSD",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

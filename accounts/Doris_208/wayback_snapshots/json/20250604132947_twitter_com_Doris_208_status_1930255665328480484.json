@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1930092231517729004",
+    "created_at": "2025-06-04T13:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T14:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930255665328480484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1118583356092903424",
+          "start": 0,
+          "username": "Ts07212598"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930255665328480484",
+    "in_reply_to_user_id": "1118583356092903424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930092231517729004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ts07212598 好像橡皮泥捏的句句"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1930092223531724801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GskQprdaMAEcFas.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1930092231517729004",
+        "created_at": "2025-06-04T13:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930255665328480484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1118583356092903424",
+              "start": 0,
+              "username": "Ts07212598"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930255665328480484",
+        "in_reply_to_user_id": "1118583356092903424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930092231517729004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ts07212598 好像橡皮泥捏的句句"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930092223531724801"
+          ]
+        },
+        "author_id": "1118583356092903424",
+        "conversation_id": "1930092231517729004",
+        "created_at": "2025-06-04T02:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T03:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930092231517729004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4UfjySIUzc",
+              "end": 58,
+              "expanded_url": "https://x.com/Ts07212598/status/1930092231517729004/photo/1",
+              "media_key": "3_1930092223531724801",
+              "start": 35,
+              "url": "https://t.co/4UfjySIUzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930092231517729004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1329,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几把摁了😋 抽两只推友当鸡巴套子 口爽了奖励两巴掌 口不爽更是三巴掌 https://t.co/4UfjySIUzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4500,
+          "following_count": 188,
+          "like_count": 476,
+          "listed_count": 9,
+          "media_count": 55,
+          "tweet_count": 501
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-17T18:33:49.000Z",
+        "description": "xp系统十分发达 主攻无下限的辱骂调教 想被催眠辱骂中出调教放置下药强奸奴隶化物品化的母猪鸡巴套子们 与其扭动你的屁股看着别人的聊天记录抽搐着抠你的飞机杯穴 不如私聊给我让我用你好好套弄鸡巴（自带剧情或者想要的结果更佳）",
+        "id": "1118583356092903424",
+        "location": "肉畜垫子脸上",
+        "name": "Ts",
+        "pinned_tweet_id": "1570381551644610560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721656716587401217/i3RU9tUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7903,
+          "following_count": 3364,
+          "like_count": 5110,
+          "listed_count": 55,
+          "media_count": 484,
+          "tweet_count": 3746
+        },
+        "username": "Ts07212598",
+        "verified": false
+      }
+    ]
+  }
+}

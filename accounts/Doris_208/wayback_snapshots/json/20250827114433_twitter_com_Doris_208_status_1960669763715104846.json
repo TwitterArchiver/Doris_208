@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1960528164792492382",
+    "created_at": "2025-08-27T11:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T12:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960669763715104846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1706609515725283328",
+          "start": 0,
+          "username": "YXxxTK172750"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960669763715104846",
+    "in_reply_to_user_id": "1706609515725283328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960580799230828977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YXxxTK172750 那很难了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1960528164792492382",
+        "created_at": "2025-08-27T11:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960669763715104846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1706609515725283328",
+              "start": 0,
+              "username": "YXxxTK172750"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960669763715104846",
+        "in_reply_to_user_id": "1706609515725283328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960580799230828977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YXxxTK172750 那很难了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706609515725283328",
+        "conversation_id": "1960528164792492382",
+        "created_at": "2025-08-27T05:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960580799230828977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960580799230828977",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960528164792492382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 其实竹马也是蠢猪🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4490,
+          "following_count": 220,
+          "like_count": 530,
+          "listed_count": 8,
+          "media_count": 60,
+          "tweet_count": 691
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T10:00:56.000Z",
+        "description": "一些碎碎念/互不打扰相互尊重/随缘更新/纯个人记录和释放✍️",
+        "id": "1706609515725283328",
+        "name": "金凤茶酥重度依赖",
+        "pinned_tweet_id": "1957719247704191308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957715825168904193/fqRQy5Pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4132,
+          "following_count": 167,
+          "like_count": 1096,
+          "listed_count": 5,
+          "media_count": 66,
+          "tweet_count": 715
+        },
+        "username": "YXxxTK172750",
+        "verified": false
+      }
+    ]
+  }
+}

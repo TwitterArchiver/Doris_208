@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1888054501409702335",
+    "created_at": "2025-02-08T23:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T00:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888377086269956410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660510716934361088",
+          "start": 0,
+          "username": "S_Studio42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888377086269956410",
+    "in_reply_to_user_id": "1660510716934361088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888054501409702335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Studio42 首先生活和性是分开的，或许有小部分性欲上头时候打出tag挑选一个合适的人发泄，但大部分时间使用这个账户并不是处于欲望时期，只是想发发日常吐槽。另一方面在某些男性眼里一旦发过母狗tag就仿佛被打上“下贱”的烙印，无论何时都可以不被当人接受各种各样的贬低辱骂，女孩们无法接受日常就有这样的骚扰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1888054501409702335",
+        "created_at": "2025-02-08T23:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T00:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888377086269956410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660510716934361088",
+              "start": 0,
+              "username": "S_Studio42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888377086269956410",
+        "in_reply_to_user_id": "1660510716934361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888054501409702335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Studio42 首先生活和性是分开的，或许有小部分性欲上头时候打出tag挑选一个合适的人发泄，但大部分时间使用这个账户并不是处于欲望时期，只是想发发日常吐槽。另一方面在某些男性眼里一旦发过母狗tag就仿佛被打上“下贱”的烙印，无论何时都可以不被当人接受各种各样的贬低辱骂，女孩们无法接受日常就有这样的骚扰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "1888054501409702335",
+        "created_at": "2025-02-08T02:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T03:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888054501409702335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888054501409702335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 328840,
+          "like_count": 1158,
+          "quote_count": 20,
+          "reply_count": 128,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "谈点可能不受欢迎的话题，母狗。\n\n前两天刷到，大意是没有女生会给自己打这个tag，包括但不限于更下位的母猪、母人等等，都是皮下男。\n\n或许看到这些词汇你会本能反感，但难得可以把这件事放上台面，我想和大家平和的讨论一下这个话题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 176,
+          "like_count": 446,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "1838138133428461611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43620,
+          "following_count": 110,
+          "like_count": 7514,
+          "listed_count": 72,
+          "media_count": 20,
+          "tweet_count": 1476
+        },
+        "username": "S_Studio42",
+        "verified": false
+      }
+    ]
+  }
+}

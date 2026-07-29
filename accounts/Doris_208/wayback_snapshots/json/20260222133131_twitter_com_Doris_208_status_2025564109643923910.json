@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2024920470597021805",
+    "created_at": "2026-02-22T13:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T14:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025564109643923910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986701339628609536",
+          "start": 0,
+          "username": "yoyoOvO6June1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025564109643923910",
+    "in_reply_to_user_id": "1986701339628609536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024920470597021805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyoOvO6June1 笑晕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2024920470597021805",
+        "created_at": "2026-02-22T13:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025564109643923910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986701339628609536",
+              "start": 0,
+              "username": "yoyoOvO6June1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025564109643923910",
+        "in_reply_to_user_id": "1986701339628609536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024920470597021805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyoOvO6June1 笑晕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986701339628609536",
+        "conversation_id": "2024920470597021805",
+        "created_at": "2026-02-20T18:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024920470597021805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024920470597021805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 85174,
+          "like_count": 916,
+          "quote_count": 7,
+          "reply_count": 24,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "有一天哥哥溺水了 我立马下去救他 给他做了好长时间人工呼吸 都吸出白沫子了 旁边的人才告诉我 嘴在上面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "少od多do",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5233,
+          "following_count": 282,
+          "like_count": 588,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 927
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T07:44:59.000Z",
+        "description": "云端备忘录📝 欢迎uu们找我互动 o(^▽^)o 大号@Yoyonevergiveup 回关眼熟的人 😋不礼貌的没有回复的义务 😈高浓度碎碎念 介意的请直接双取 谢谢 生活愉快😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Yoyonevergiveup"
+              }
+            ]
+          }
+        },
+        "id": "1986701339628609536",
+        "location": "傻逼都滚远点 ",
+        "name": "优乐美嘉",
+        "pinned_tweet_id": "2022331897742016774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012914474978611200/xVHVRopE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 381,
+          "like_count": 7326,
+          "listed_count": 2,
+          "media_count": 704,
+          "tweet_count": 3491
+        },
+        "username": "yoyoOvO6June1",
+        "verified": false
+      }
+    ]
+  }
+}

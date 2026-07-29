@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1897456776272056562",
+    "created_at": "2025-03-06T09:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T10:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897575924364976618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683132900336898048",
+          "start": 0,
+          "username": "AN_LINJIANG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897575924364976618",
+    "in_reply_to_user_id": "1683132900336898048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897456776272056562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AN_LINJIANG 笑得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1897456776272056562",
+        "created_at": "2025-03-06T09:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T10:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897575924364976618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683132900336898048",
+              "start": 0,
+              "username": "AN_LINJIANG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897575924364976618",
+        "in_reply_to_user_id": "1683132900336898048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897456776272056562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AN_LINJIANG 笑得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683132900336898048",
+        "conversation_id": "1897456776272056562",
+        "created_at": "2025-03-06T01:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T02:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897456776272056562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897456776272056562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 31535,
+          "like_count": 523,
+          "quote_count": 13,
+          "reply_count": 23,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "常识一问三不知，前戏Aftercare嫌麻烦，氛围光影没品味，工具玩具舍不得花钱，知识储备比肩流氓，BDSM只懂凿人，情绪管理不如吉娃娃，自尊自信只能找弱者，心理阴影多如牛毛，两性知识空白如纸，生理卫生一窍不通，开口就是母狗约否，管教爹味大放送，调教当成pua，你问我什么是sm？我懂，我看过av"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "不健全",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4497,
+          "following_count": 179,
+          "like_count": 442,
+          "listed_count": 9,
+          "media_count": 47,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T15:12:17.000Z",
+        "description": "📻 BDSM教学｜性开发｜亲密关系课题｜🚪88咨询&树洞｜🎨普普通通的生活艺术家｜🪄偏爱美好氛围｜🍻坏情绪粉碎机｜教程在【亮点】｜📷日记@LINJIANG_AN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "LINJIANG_AN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/AN_LINJIANG/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/AN_LINJIANG/status/1895916799704945108?t=Ax3dUcWggPC6znQLFxImZg&s=19",
+                "start": 0,
+                "url": "https://t.co/4T6CJVzts9"
+              }
+            ]
+          }
+        },
+        "id": "1683132900336898048",
+        "location": "👇👇👇吸引力/亲密关系心理/BDSM终身教学",
+        "name": "临江老师（治愈版）",
+        "pinned_tweet_id": "1856711850165207274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884393832089108480/mE0V2FjK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129271,
+          "following_count": 67,
+          "like_count": 889,
+          "listed_count": 257,
+          "media_count": 209,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/4T6CJVzts9",
+        "username": "AN_LINJIANG",
+        "verified": true
+      }
+    ]
+  }
+}

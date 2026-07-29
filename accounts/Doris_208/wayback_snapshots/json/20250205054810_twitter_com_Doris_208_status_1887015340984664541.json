@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1887015340984664541",
+    "created_at": "2025-02-05T05:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T06:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887015340984664541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757944489346568192",
+          "start": 3,
+          "username": "shaoguanwai2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887015340984664541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886956427476131955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shaoguanwai2: 我说你喜欢怎么玩呢，他说捆绑，粗口，体训，跪爬，口水，踩都可以，我说我没玩过但你喜欢的话我愿意尝试，他说那你喜欢怎么玩，我说喜欢抱着接吻、一起散步看日落、清晨醒来的时候拉开窗帘注视着彼此、在对方怀里流眼泪，他说你这个要得有点太多了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1887015340984664541",
+        "created_at": "2025-02-05T05:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T06:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887015340984664541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757944489346568192",
+              "start": 3,
+              "username": "shaoguanwai2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887015340984664541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886956427476131955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shaoguanwai2: 我说你喜欢怎么玩呢，他说捆绑，粗口，体训，跪爬，口水，踩都可以，我说我没玩过但你喜欢的话我愿意尝试，他说那你喜欢怎么玩，我说喜欢抱着接吻、一起散步看日落、清晨醒来的时候拉开窗帘注视着彼此、在对方怀里流眼泪，他说你这个要得有点太多了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757944489346568192",
+        "conversation_id": "1886956427476131955",
+        "created_at": "2025-02-05T01:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T02:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886956427476131955"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886956427476131955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4015,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我说你喜欢怎么玩呢，他说捆绑，粗口，体训，跪爬，口水，踩都可以，我说我没玩过但你喜欢的话我愿意尝试，他说那你喜欢怎么玩，我说喜欢抱着接吻、一起散步看日落、清晨醒来的时候拉开窗帘注视着彼此、在对方怀里流眼泪，他说你这个要得有点太多了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3669,
+          "following_count": 174,
+          "like_count": 448,
+          "listed_count": 9,
+          "media_count": 45,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T01:47:49.000Z",
+        "description": "一些碎碎念 一些奇奇怪怪的文案 提问箱 https://t.co/hcNRO2Dip0 希望大家一切顺利天天开心 不闲聊不接推广  🚪188 主要是日常聊天更多 照片会比推上发的多 但是我可能也不经常发 不退门槛 谨慎入",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oiiiii36411",
+                "end": 43,
+                "expanded_url": "https://ngl.link/oiiiii36411",
+                "start": 20,
+                "url": "https://t.co/hcNRO2Dip0"
+              }
+            ]
+          }
+        },
+        "id": "1757944489346568192",
+        "location": "随便",
+        "name": "Oiiiii",
+        "pinned_tweet_id": "1880445263929831554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875547046725480449/wgthGEHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8794,
+          "following_count": 163,
+          "like_count": 19338,
+          "listed_count": 12,
+          "media_count": 866,
+          "tweet_count": 13255
+        },
+        "username": "shaoguanwai2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1982119325583716447",
+    "created_at": "2025-10-25T23:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T00:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982224428046893076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948779307045978112",
+          "start": 0,
+          "username": "Wo2luosifen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982224428046893076",
+    "in_reply_to_user_id": "1948779307045978112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982119325583716447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wo2luosifen 被喜欢的人叫小宝宝乖乖宝贝是什么感觉😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1982119325583716447",
+        "created_at": "2025-10-25T23:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T00:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982224428046893076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948779307045978112",
+              "start": 0,
+              "username": "Wo2luosifen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982224428046893076",
+        "in_reply_to_user_id": "1948779307045978112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982119325583716447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wo2luosifen 被喜欢的人叫小宝宝乖乖宝贝是什么感觉😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948779307045978112",
+        "conversation_id": "1982119325583716447",
+        "created_at": "2025-10-25T16:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T17:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982119325583716447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982119325583716447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7867,
+          "like_count": 142,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "被喜欢的人叫小宝宝乖乖宝贝是什么感觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5681,
+          "following_count": 271,
+          "like_count": 586,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 846
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "超级碎碎念bot 不约不聊不线下不恋不回私信不礼貌回关 @Ffbbgg00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "Ffbbgg00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iuuio16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iuuio16",
+                "start": 0,
+                "url": "https://t.co/oqtlQVhlDa"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "location": "关评置顶为推广‼️",
+        "name": "做饭总被烫",
+        "pinned_tweet_id": "1981701459969491406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963483712278171648/e-95DtmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3660,
+          "following_count": 443,
+          "like_count": 41931,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 16389
+        },
+        "url": "https://t.co/oqtlQVhlDa",
+        "username": "Wo2luosifen",
+        "verified": true
+      }
+    ]
+  }
+}

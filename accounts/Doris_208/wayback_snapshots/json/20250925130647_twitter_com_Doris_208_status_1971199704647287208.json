@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1971100523387576490",
+    "created_at": "2025-09-25T13:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T14:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971199704647287208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881766065900077056",
+          "start": 0,
+          "username": "Xin369556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971199704647287208",
+    "in_reply_to_user_id": "1881766065900077056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971100523387576490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xin369556 哈喽帅哥约吗🔥🎊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1971100523387576490",
+        "created_at": "2025-09-25T13:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T14:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971199704647287208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881766065900077056",
+              "start": 0,
+              "username": "Xin369556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971199704647287208",
+        "in_reply_to_user_id": "1881766065900077056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971100523387576490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xin369556 哈喽帅哥约吗🔥🎊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881766065900077056",
+        "conversation_id": "1971100523387576490",
+        "created_at": "2025-09-25T06:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T07:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971100523387576490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momo1583853/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/momo1583853/status/1971066830849732717",
+              "start": 39,
+              "url": "https://t.co/ovNsqGjOWX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971100523387576490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 953,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971066830849732717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是撩骚号，不回复工作！每天00:00到23:59只回复黄色消息，谢谢！🙏🏻 https://t.co/ovNsqGjOWX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4513,
+          "following_count": 237,
+          "like_count": 540,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 739
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T18:09:47.000Z",
+        "description": "嗯。头像是本人。是一只外星公猫。私信可以随意骚扰。此猫很闲。直的。直的。直的。男同不要关注我好嘛或者关注就算了不要私信嗯。",
+        "id": "1881766065900077056",
+        "location": "广州",
+        "name": "信",
+        "pinned_tweet_id": "1968794470981226748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961796212992221184/O0U2BXN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 280,
+          "like_count": 26229,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 3843
+        },
+        "username": "Xin369556",
+        "verified": false
+      }
+    ]
+  }
+}

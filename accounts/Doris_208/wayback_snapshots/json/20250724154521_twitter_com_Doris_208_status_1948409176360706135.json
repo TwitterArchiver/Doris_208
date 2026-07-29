@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1948330205896204528",
+    "created_at": "2025-07-24T15:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T16:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948409176360706135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1905136067763965952",
+          "start": 0,
+          "username": "mng60944742885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948409176360706135",
+    "in_reply_to_user_id": "1905136067763965952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948330205896204528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mng60944742885 世界是一个巨大的养猪场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1948330205896204528",
+        "created_at": "2025-07-24T15:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T16:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948409176360706135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1905136067763965952",
+              "start": 0,
+              "username": "mng60944742885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948409176360706135",
+        "in_reply_to_user_id": "1905136067763965952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948330205896204528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mng60944742885 世界是一个巨大的养猪场"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905136067763965952",
+        "conversation_id": "1948330205896204528",
+        "created_at": "2025-07-24T10:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T11:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948330205896204528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948330205896204528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17068,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看过清酒和北海照片的有福了\n哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈好哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈操哈哈哈哈你哈哈哈哈哈哈哈哈哈哈妈哈哈哈哈哈哈哈哈哈哈的哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4530,
+          "following_count": 217,
+          "like_count": 525,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 643
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T05:53:36.000Z",
+        "description": "05双子/enfj/碎嘴子/喜欢视奸/ 都来找我互关好吗/喜欢我请给我钱喵喵喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mng60944742885",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mng60944742885",
+                "start": 0,
+                "url": "https://t.co/inV4zyF7k6"
+              }
+            ]
+          }
+        },
+        "id": "1905136067763965952",
+        "location": "幸福的秘诀是 拥有苹果时 只在意苹果",
+        "name": "忧郁的老兵烧烤",
+        "pinned_tweet_id": "1947235848430174432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944796316808478720/hfZd5Iv9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 41,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/inV4zyF7k6",
+        "username": "mng60944742885",
+        "verified": false
+      }
+    ]
+  }
+}

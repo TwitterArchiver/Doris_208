@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1872260662195626434",
+    "created_at": "2024-12-26T23:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T00:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872418097510158561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1864240668874559492",
+          "start": 0,
+          "username": "no69jibamao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872418097510158561",
+    "in_reply_to_user_id": "1864240668874559492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872407665944699267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@no69jibamao m属性大爆发！我要money"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1872260662195626434",
+        "created_at": "2024-12-26T23:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T00:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872418097510158561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1864240668874559492",
+              "start": 0,
+              "username": "no69jibamao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872418097510158561",
+        "in_reply_to_user_id": "1864240668874559492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872407665944699267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@no69jibamao m属性大爆发！我要money"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864240668874559492",
+        "conversation_id": "1872260662195626434",
+        "created_at": "2024-12-26T22:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T23:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872407665944699267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872407665944699267",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872260662195626434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 那种事情不要啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 94,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T09:30:10.000Z",
+        "description": "",
+        "id": "1864240668874559492",
+        "location": "guangxinanning",
+        "name": "吉霸冇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864240772738109441/uMNArBfw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 311,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 111
+        },
+        "username": "no69jibamao",
+        "verified": false
+      }
+    ]
+  }
+}

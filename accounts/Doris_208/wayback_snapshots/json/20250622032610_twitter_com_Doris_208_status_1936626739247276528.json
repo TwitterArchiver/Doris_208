@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1936214131499319493",
+    "created_at": "2025-06-22T03:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T04:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936626739247276528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1786269603997573120",
+          "start": 0,
+          "username": "yayajiujiu0427"
+        },
+        {
+          "end": 27,
+          "id": "797439291752378368",
+          "start": 16,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936626739247276528",
+    "in_reply_to_user_id": "1786269603997573120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936308469357068802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayajiujiu0427 @lover_ning 那肺活量很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1936214131499319493",
+        "created_at": "2025-06-22T03:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T04:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936626739247276528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1786269603997573120",
+              "start": 0,
+              "username": "yayajiujiu0427"
+            },
+            {
+              "end": 27,
+              "id": "797439291752378368",
+              "start": 16,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936626739247276528",
+        "in_reply_to_user_id": "1786269603997573120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936308469357068802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayajiujiu0427 @lover_ning 那肺活量很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786269603997573120",
+        "conversation_id": "1936214131499319493",
+        "created_at": "2025-06-21T06:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T07:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936308469357068802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936308469357068802",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5476,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936214131499319493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 我还真看过头交，真人的那种，给我人看傻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4501,
+          "following_count": 200,
+          "like_count": 487,
+          "listed_count": 9,
+          "media_count": 56,
+          "tweet_count": 538
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T05:40:55.000Z",
+        "description": "",
+        "id": "1786269603997573120",
+        "name": "鸭鸭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924363342493233152/0PFuKvut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 138,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "yayajiujiu0427",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 日常号@SUZUdesu111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "SUZUdesu111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1634790114093154304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217402,
+          "following_count": 106,
+          "like_count": 34166,
+          "listed_count": 403,
+          "media_count": 3076,
+          "tweet_count": 28001
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

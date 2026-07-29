@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1914328597889949921",
+    "created_at": "2025-04-21T14:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T15:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914328597889949921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lananmoon/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/lananmoon/status/1914134726853693885",
+          "start": 7,
+          "url": "https://t.co/pezgmd28wQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914328597889949921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914134726853693885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样破防 https://t.co/pezgmd28wQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1914328597889949921",
+        "created_at": "2025-04-21T14:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914328597889949921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lananmoon/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/lananmoon/status/1914134726853693885",
+              "start": 7,
+              "url": "https://t.co/pezgmd28wQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914328597889949921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914134726853693885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样破防 https://t.co/pezgmd28wQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809557966229762051",
+        "conversation_id": "1914134726853693885",
+        "created_at": "2025-04-21T01:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T02:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914134726853693885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914134726853693885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 26637,
+          "like_count": 535,
+          "quote_count": 18,
+          "reply_count": 65,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "自取其辱八件套\n1.你为什么不理我\n2.我们现在什么关系\n3.你之前不是这样的\n4.不联系的这段时间你有想我吗\n5.你还爱我吗\n6.你爱过我吗\n7.为什么这样对我\n8.你不要我了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4451,
+          "following_count": 178,
+          "like_count": 446,
+          "listed_count": 8,
+          "media_count": 48,
+          "tweet_count": 419
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T12:00:24.000Z",
+        "description": "分享美食 碎碎念  小故事 擦边 猫猫狗狗\n🥰",
+        "id": "1809557966229762051",
+        "location": "ฅ՞•ﻌ•՞ฅ🚪88",
+        "name": "anan",
+        "pinned_tweet_id": "1912282112088240567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912299938404343808/qLmc7hoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4817,
+          "following_count": 131,
+          "like_count": 33321,
+          "listed_count": 13,
+          "media_count": 481,
+          "tweet_count": 5770
+        },
+        "username": "lananmoon",
+        "verified": false
+      }
+    ]
+  }
+}

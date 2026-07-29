@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1978829270542586163",
+    "created_at": "2025-10-16T14:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T15:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978829270542586163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yej80915089517…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/yej809150895172/status/1978690540855030044",
+          "start": 14,
+          "url": "https://t.co/0v8kLXONC1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978829270542586163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978690540855030044",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前面忘了后面忘了，v我一百 https://t.co/0v8kLXONC1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1978829270542586163",
+        "created_at": "2025-10-16T14:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T15:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978829270542586163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yej80915089517…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/yej809150895172/status/1978690540855030044",
+              "start": 14,
+              "url": "https://t.co/0v8kLXONC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978829270542586163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978690540855030044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前面忘了后面忘了，v我一百 https://t.co/0v8kLXONC1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650021728964280321",
+        "conversation_id": "1978690540855030044",
+        "created_at": "2025-10-16T05:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978690540855030044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978690540855030044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6446,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你是不是已经受够了疯狂星期四无孔不入的营销？\n当其他人玩梗时还没有吃过疯狂星期四的你有没有感觉被排挤？\n看到结尾是v我50的段子你是不是已经厌烦？\nv我一百，我去吃麦当劳给你出气。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5725,
+          "following_count": 258,
+          "like_count": 573,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 823
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T06:20:19.000Z",
+        "description": "骚扰我和➕v打钱（互关除外）。手冲小号@syxjdgxuns\n直男 爱看帅哥美女😋\nhttps://t.co/ycYaWbkNTy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "syxjdgxuns"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 65,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=lOLLvWuJ",
+                "start": 42,
+                "url": "https://t.co/ycYaWbkNTy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yej809150895172",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yej809150895172",
+                "start": 0,
+                "url": "https://t.co/17HSNtOnem"
+              }
+            ]
+          }
+        },
+        "id": "1650021728964280321",
+        "location": "春日部",
+        "name": "肥嘟嘟左卫门",
+        "pinned_tweet_id": "1967860265321635973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974872558366523392/tWBCR-DZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6343,
+          "following_count": 1559,
+          "like_count": 39399,
+          "listed_count": 6,
+          "media_count": 29,
+          "tweet_count": 3758
+        },
+        "url": "https://t.co/17HSNtOnem",
+        "username": "yej809150895172",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1887168087075725695",
+    "created_at": "2025-02-06T02:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T03:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887321068794425564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1774743855109472257",
+          "start": 0,
+          "username": "yy77qe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887321068794425564",
+    "in_reply_to_user_id": "1774743855109472257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887168087075725695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy77qe 你们到底是怎么约上的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1887168087075725695",
+        "created_at": "2025-02-06T02:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T03:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887321068794425564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774743855109472257",
+              "start": 0,
+              "username": "yy77qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887321068794425564",
+        "in_reply_to_user_id": "1774743855109472257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887168087075725695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy77qe 你们到底是怎么约上的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774743855109472257",
+        "conversation_id": "1887168087075725695",
+        "created_at": "2025-02-05T15:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T16:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887168087075725695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887168087075725695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4456,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们到底是怎么约上的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4371,
+          "following_count": 174,
+          "like_count": 447,
+          "listed_count": 8,
+          "media_count": 45,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T10:21:39.000Z",
+        "description": "🧩 直男 不玩其他任何社交软件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=GG4SQTfh",
+                "start": 0,
+                "url": "https://t.co/bv5DpOb7Jo"
+              }
+            ]
+          }
+        },
+        "id": "1774743855109472257",
+        "location": "🚪99 自用🪜：",
+        "name": "77",
+        "pinned_tweet_id": "1857437007984943228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830171909058936832/j6-2IjFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18454,
+          "following_count": 89,
+          "like_count": 2349,
+          "listed_count": 21,
+          "media_count": 164,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/bv5DpOb7Jo",
+        "username": "yy77qe",
+        "verified": false
+      }
+    ]
+  }
+}

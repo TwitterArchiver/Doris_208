@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1944100612175454410",
+    "created_at": "2025-07-14T15:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T16:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944774231201395044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1536583610714640384",
+          "start": 0,
+          "username": "Princesstoast11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944774231201395044",
+    "in_reply_to_user_id": "1536583610714640384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 36,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944100612175454410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Princesstoast11 想被金钱砸晕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1944100612175454410",
+        "created_at": "2025-07-14T15:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T16:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944774231201395044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1536583610714640384",
+              "start": 0,
+              "username": "Princesstoast11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944774231201395044",
+        "in_reply_to_user_id": "1536583610714640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944100612175454410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Princesstoast11 想被金钱砸晕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536583610714640384",
+        "conversation_id": "1944100612175454410",
+        "created_at": "2025-07-12T18:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T19:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944100612175454410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944100612175454410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 61453,
+          "like_count": 650,
+          "quote_count": 16,
+          "reply_count": 64,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "人一旦开始用“想被”这两个字造句就完蛋了，向外求太难了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4495,
+          "following_count": 211,
+          "like_count": 517,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 612
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T05:37:45.000Z",
+        "description": "如何证明你不是杯中之鼠｜提问在https://t.co/LmXkRTZuF2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/princesstoast11",
+                "end": 38,
+                "expanded_url": "https://ngl.link/princesstoast11",
+                "start": 15,
+                "url": "https://t.co/LmXkRTZuF2"
+              }
+            ]
+          }
+        },
+        "id": "1536583610714640384",
+        "location": "营养液里ᐝ ᐝ",
+        "name": "杯中之鼠",
+        "pinned_tweet_id": "1846172516932600090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944419847263367168/f6cuVQaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5028,
+          "following_count": 666,
+          "like_count": 40214,
+          "listed_count": 20,
+          "media_count": 1585,
+          "tweet_count": 36982
+        },
+        "username": "Princesstoast11",
+        "verified": false
+      }
+    ]
+  }
+}

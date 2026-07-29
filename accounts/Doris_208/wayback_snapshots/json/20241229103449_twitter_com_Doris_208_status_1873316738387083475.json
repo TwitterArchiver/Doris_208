@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1873316738387083475",
+    "created_at": "2024-12-29T10:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T11:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873316738387083475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1658160503930388480",
+          "start": 3,
+          "username": "boluoyou2190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873316738387083475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873185491681722795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boluoyou2190: 我真的很喜欢一天结束时有一个人可以倾诉的安全感，陪伴的安全感比性交让我的脑子爽一万倍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1873316738387083475",
+        "created_at": "2024-12-29T10:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T11:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873316738387083475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1658160503930388480",
+              "start": 3,
+              "username": "boluoyou2190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873316738387083475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873185491681722795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boluoyou2190: 我真的很喜欢一天结束时有一个人可以倾诉的安全感，陪伴的安全感比性交让我的脑子爽一万倍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658160503930388480",
+        "conversation_id": "1873185491681722795",
+        "created_at": "2024-12-29T01:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T02:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873185491681722795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873185491681722795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7140,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很喜欢一天结束时有一个人可以倾诉的安全感，陪伴的安全感比性交让我的脑子爽一万倍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 97,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T17:21:14.000Z",
+        "description": "J杯 身高170/泛性恋/好友位288/自用vpn嘎嘎好使👏https://t.co/AK3odSLP0q / 防丢号@boluoyou0219",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "boluoyou0219"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yourls.online/USvSkcGD",
+                "end": 53,
+                "expanded_url": "https://yourls.online/USvSkcGD",
+                "start": 30,
+                "url": "https://t.co/AK3odSLP0q"
+              }
+            ]
+          }
+        },
+        "id": "1658160503930388480",
+        "location": "只接转推不接推广‼️不线下‼️我有精神病‼️‼️‼️‼️",
+        "name": "早餐菠萝油",
+        "pinned_tweet_id": "1798716803172172143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778289691760185345/cPD9VXpd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97881,
+          "following_count": 430,
+          "like_count": 10460,
+          "listed_count": 365,
+          "media_count": 432,
+          "tweet_count": 3260
+        },
+        "username": "boluoyou2190",
+        "verified": true
+      }
+    ]
+  }
+}

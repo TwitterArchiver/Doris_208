@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882804764800663552",
+        "3_1882804771440242688"
+      ]
+    },
+    "author_id": "1577453972482203648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1882804782148255894",
+    "created_at": "2025-01-24T14:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T15:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882804782148255894"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "剑网3"
+        },
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "剑网三"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "剑三"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ff9aFK87dp",
+          "end": 51,
+          "expanded_url": "https://x.com/Doris_208/status/1882804782148255894/photo/1",
+          "media_key": "3_1882804764800663552",
+          "start": 28,
+          "url": "https://t.co/Ff9aFK87dp"
+        },
+        {
+          "display_url": "pic.x.com/Ff9aFK87dp",
+          "end": 51,
+          "expanded_url": "https://x.com/Doris_208/status/1882804782148255894/photo/1",
+          "media_key": "3_1882804771440242688",
+          "start": 28,
+          "url": "https://t.co/Ff9aFK87dp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882804782148255894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被不知名爹地抓住做⭐️怒惹 #剑网3 #剑网三 #剑三 https://t.co/Ff9aFK87dp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_1882804764800663552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiEQ9UNbQAAAtst.jpg",
+        "width": 556
+      },
+      {
+        "height": 736,
+        "media_key": "3_1882804771440242688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiEQ9s8bMAAjHIE.jpg",
+        "width": 649
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882804764800663552",
+            "3_1882804771440242688"
+          ]
+        },
+        "author_id": "1577453972482203648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882804782148255894",
+        "created_at": "2025-01-24T14:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T15:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882804782148255894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "剑网3"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "剑网三"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "剑三"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ff9aFK87dp",
+              "end": 51,
+              "expanded_url": "https://x.com/Doris_208/status/1882804782148255894/photo/1",
+              "media_key": "3_1882804764800663552",
+              "start": 28,
+              "url": "https://t.co/Ff9aFK87dp"
+            },
+            {
+              "display_url": "pic.x.com/Ff9aFK87dp",
+              "end": 51,
+              "expanded_url": "https://x.com/Doris_208/status/1882804782148255894/photo/1",
+              "media_key": "3_1882804771440242688",
+              "start": 28,
+              "url": "https://t.co/Ff9aFK87dp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882804782148255894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被不知名爹地抓住做⭐️怒惹 #剑网3 #剑网三 #剑三 https://t.co/Ff9aFK87dp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 159,
+          "like_count": 438,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

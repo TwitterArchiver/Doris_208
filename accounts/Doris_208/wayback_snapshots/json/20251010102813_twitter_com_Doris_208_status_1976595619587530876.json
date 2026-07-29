@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1976595619587530876",
+    "created_at": "2025-10-10T10:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T11:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976595619587530876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bubuaichirou/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Bubuaichirou/status/1976297300998881714",
+          "start": 13,
+          "url": "https://t.co/iIlhy93FKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976595619587530876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976297300998881714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不会叫床的男的不许做爱😡 https://t.co/iIlhy93FKc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1976595619587530876",
+        "created_at": "2025-10-10T10:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976595619587530876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bubuaichirou/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Bubuaichirou/status/1976297300998881714",
+              "start": 13,
+              "url": "https://t.co/iIlhy93FKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976595619587530876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976297300998881714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不会叫床的男的不许做爱😡 https://t.co/iIlhy93FKc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506439854862835723",
+        "conversation_id": "1976297300998881714",
+        "created_at": "2025-10-09T14:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T15:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976297300998881714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976297300998881714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 559,
+          "impression_count": 318553,
+          "like_count": 4368,
+          "quote_count": 52,
+          "reply_count": 131,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "大部分男生做爱时都会通过咬牙、喘气、绷紧等方式来遏制自己想要叫床的冲动。\n所以想听到男生叫床，就要温柔地缓解他对叫床的抵触：边做爱边用轻抚等方式让他放松，主动和他亲吻来瓦解他咬牙的本能——顺利的话，在亲吻的间隙，你就能听到他情不自禁不停地发出短促的“嗯嗯…哦哦”声了。\n色情又好听。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5747,
+          "following_count": 257,
+          "like_count": 553,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 799
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T01:17:17.000Z",
+        "description": "随便玩玩 看心情加V 无门槛 偶尔发福利",
+        "id": "1506439854862835723",
+        "location": "距离31.9KM",
+        "name": "布布爱吃肉肉🥒",
+        "pinned_tweet_id": "1976310189784694888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788365350108856320/vQ7IoDYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9498,
+          "following_count": 111,
+          "like_count": 4443,
+          "listed_count": 12,
+          "media_count": 6,
+          "tweet_count": 122
+        },
+        "username": "Bubuaichirou",
+        "verified": false
+      }
+    ]
+  }
+}

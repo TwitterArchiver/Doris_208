@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1875757665638650347",
+    "created_at": "2025-02-04T11:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T12:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886736651344548135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "988398674479894533",
+          "start": 0,
+          "username": "Maekawa_kasumi"
+        },
+        {
+          "end": 28,
+          "id": "1649319608665649154",
+          "start": 16,
+          "username": "meirijinsai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886736651344548135",
+    "in_reply_to_user_id": "988398674479894533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886730617695658367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maekawa_kasumi @meirijinsai 宝宝也可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1875757665638650347",
+        "created_at": "2025-02-04T11:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T12:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886736651344548135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "988398674479894533",
+              "start": 0,
+              "username": "Maekawa_kasumi"
+            },
+            {
+              "end": 28,
+              "id": "1649319608665649154",
+              "start": 16,
+              "username": "meirijinsai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886736651344548135",
+        "in_reply_to_user_id": "988398674479894533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886730617695658367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maekawa_kasumi @meirijinsai 宝宝也可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "988398674479894533",
+        "conversation_id": "1875757665638650347",
+        "created_at": "2025-02-04T10:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T11:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886730617695658367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            },
+            {
+              "end": 23,
+              "id": "1649319608665649154",
+              "start": 11,
+              "username": "meirijinsai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886730617695658367",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875892033669455909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 @meirijinsai 可爱捏ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 174,
+          "like_count": 447,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-23T12:46:22.000Z",
+        "description": "应该是mtx/喜欢女孩子/河北or福建/想要和美少女贴贴/拒绝直男拒绝直男拒绝直男/减重ing",
+        "id": "988398674479894533",
+        "location": "Kakamigahara-shi, Gifu",
+        "name": "前川香澄🏳️‍⚧️",
+        "pinned_tweet_id": "1719332092985987441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1322234226482163712/V_vV9Hzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4015,
+          "following_count": 1454,
+          "like_count": 10548,
+          "listed_count": 20,
+          "media_count": 479,
+          "tweet_count": 7056
+        },
+        "username": "Maekawa_kasumi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T07:50:25.000Z",
+        "description": "橙子🍊主营北上广深杭👉@youleww\n💯高端外围认准红娘介绍所@HNWW_13\n全🌍线下Cos外围找熙雅@xiya9898\n🥇老字号靠谱经纪人推荐 @xzlh888\n🥇认证靠谱全国cos圈安排找@cosfafa\n🥇双喜全国中高端外围  @sxcosww1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "youleww"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "HNWW_13"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "xiya9898"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "xzlh888"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "cosfafa"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "sxcosww1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dasailianmeng",
+                "end": 23,
+                "expanded_url": "https://t.me/dasailianmeng",
+                "start": 0,
+                "url": "https://t.co/QkC29HQoTZ"
+              }
+            ]
+          }
+        },
+        "id": "1649319608665649154",
+        "name": "每日大赛🐸",
+        "pinned_tweet_id": "1885641182728081514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760583228434575360/dRusL53c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660652,
+          "following_count": 8,
+          "like_count": 2854,
+          "listed_count": 668,
+          "media_count": 261,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/QkC29HQoTZ",
+        "username": "meirijinsai",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1942961173147660631",
+    "created_at": "2025-07-10T14:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T15:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943321581008359463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1642466956988104704",
+          "start": 0,
+          "username": "Yx77n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943321581008359463",
+    "in_reply_to_user_id": "1642466956988104704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942961173147660631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yx77n 直男是你的谎言"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1942961164721475584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbI4pOaUAAjKnx.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1942961165098999808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbI4qoa4AA0nfQ.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1942961173147660631",
+        "created_at": "2025-07-10T14:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T15:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943321581008359463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1642466956988104704",
+              "start": 0,
+              "username": "Yx77n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943321581008359463",
+        "in_reply_to_user_id": "1642466956988104704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942961173147660631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yx77n 直男是你的谎言"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942961164721475584",
+            "3_1942961165098999808"
+          ]
+        },
+        "author_id": "1642466956988104704",
+        "conversation_id": "1942961173147660631",
+        "created_at": "2025-07-09T14:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T15:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942961173147660631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QNtatzfQm0",
+              "end": 31,
+              "expanded_url": "https://x.com/Yx77n/status/1942961173147660631/photo/1",
+              "media_key": "3_1942961164721475584",
+              "start": 8,
+              "url": "https://t.co/QNtatzfQm0"
+            },
+            {
+              "display_url": "pic.x.com/QNtatzfQm0",
+              "end": 31,
+              "expanded_url": "https://x.com/Yx77n/status/1942961173147660631/photo/1",
+              "media_key": "3_1942961165098999808",
+              "start": 8,
+              "url": "https://t.co/QNtatzfQm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942961173147660631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13294,
+          "like_count": 175,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "展示猪肝这一块 https://t.co/QNtatzfQm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4485,
+          "following_count": 209,
+          "like_count": 513,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 590
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T10:00:29.000Z",
+        "description": "🇩🇪|直男|不四爱|只有這一個賬號 其他偷我圖和視頻的|盗我图的人替我挡灾",
+        "id": "1642466956988104704",
+        "name": "德国直男",
+        "pinned_tweet_id": "1839758483492585620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719179051829518336/MEowFMHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35579,
+          "following_count": 166,
+          "like_count": 12678,
+          "listed_count": 180,
+          "media_count": 46,
+          "tweet_count": 1913
+        },
+        "username": "Yx77n",
+        "verified": false
+      }
+    ]
+  }
+}

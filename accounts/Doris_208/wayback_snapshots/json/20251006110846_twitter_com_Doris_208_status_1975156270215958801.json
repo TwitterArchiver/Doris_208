@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1974963826534797762",
+    "created_at": "2025-10-06T11:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T12:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975156270215958801"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975156270215958801",
+    "in_reply_to_user_id": "1577453972482203648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974963826534797762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？凭什么不回我啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1974963826534797762",
+        "created_at": "2025-10-06T11:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T12:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975156270215958801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975156270215958801",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974963826534797762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？凭什么不回我啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1974963826534797762",
+        "created_at": "2025-10-05T22:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T23:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974963826534797762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1720665183188922368",
+              "start": 38,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Xin369556/stat…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/Xin369556/status/1974664403695079587",
+              "start": 117,
+              "url": "https://t.co/wWe65p2IU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974963826534797762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974664403695079587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考我在和我互相关注的人中的推文，也包括我的推文，只用昵称告诉我，不要用@\n@grok\n欲求不满的人妻：\n忧郁的长发男：\n35岁后被辞职的社畜：\n三胎宝妈：\n性压抑山东人：\n大奶子精灵姐姐：\n雌小鬼：\n情窦初开小男孩：\n小镇做题家： https://t.co/wWe65p2IU0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4470,
+          "following_count": 242,
+          "like_count": 543,
+          "listed_count": 9,
+          "media_count": 63,
+          "tweet_count": 766
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

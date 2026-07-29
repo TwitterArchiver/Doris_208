@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1938617519667048477",
+    "created_at": "2025-06-28T08:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T09:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938879270547276210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580562777739235328",
+          "start": 0,
+          "username": "coolboatdying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938879270547276210",
+    "in_reply_to_user_id": "1580562777739235328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938617519667048477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coolboatdying 仙人之兮列如麻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1938617519667048477",
+        "created_at": "2025-06-28T08:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T09:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938879270547276210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580562777739235328",
+              "start": 0,
+              "username": "coolboatdying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938879270547276210",
+        "in_reply_to_user_id": "1580562777739235328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938617519667048477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coolboatdying 仙人之兮列如麻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580562777739235328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1938617519667048477",
+        "created_at": "2025-06-27T15:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T16:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938617519667048477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938617519667048477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 39400,
+          "like_count": 326,
+          "quote_count": 5,
+          "reply_count": 64,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "目前我约遇到的英雄有：打车费跟开房钱只出一个哥；酒店不卫生只开民宿决定开桔子水晶然后单删我哥；性癖是无套内射哥；说好的看完电影去喝酒然后开房结果因为看电影前已经车震了不知道是一天只能一次还是舍不得酒钱开房钱说自己家里有事跑路哥。不列举了不是因为没有了是因为字数限制了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4513,
+          "following_count": 203,
+          "like_count": 495,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 565
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T14:15:18.000Z",
+        "description": "他的一生将是一连串断断续续的感觉，没有任何东西能将其联系起来。",
+        "id": "1580562777739235328",
+        "name": "blue",
+        "pinned_tweet_id": "1938134966107509123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937559515911921664/If5DPbWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11113,
+          "following_count": 175,
+          "like_count": 4216,
+          "listed_count": 18,
+          "media_count": 807,
+          "tweet_count": 4664
+        },
+        "username": "coolboatdying",
+        "verified": false
+      }
+    ]
+  }
+}

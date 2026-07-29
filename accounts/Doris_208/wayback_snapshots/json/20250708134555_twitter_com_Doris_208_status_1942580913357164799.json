@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1942174642510483811",
+    "created_at": "2025-07-08T13:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T14:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942580913357164799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857480192224276480",
+          "start": 0,
+          "username": "dd_bbls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942580913357164799",
+    "in_reply_to_user_id": "1857480192224276480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942174642510483811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd_bbls 让我也玩玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76866,
+        "height": 720,
+        "media_key": "13_1942174523920445440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942174523920445440/img/26xUc_tJszW5VAA7.jpg",
+        "public_metrics": {
+          "view_count": 7244
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942174523920445440/vid/avc1/480x270/JmpO9TCRL8GSFSvh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942174523920445440/vid/avc1/640x360/wkTTVP5IJXTswRCk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942174523920445440/vid/avc1/1280x720/T4OC9KdPpbOtHeuy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942174523920445440/pl/3UfppmwKtoFAh-io.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1942174642510483811",
+        "created_at": "2025-07-08T13:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T14:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942580913357164799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857480192224276480",
+              "start": 0,
+              "username": "dd_bbls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942580913357164799",
+        "in_reply_to_user_id": "1857480192224276480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942174642510483811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd_bbls 让我也玩玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942174523920445440"
+          ]
+        },
+        "author_id": "1857480192224276480",
+        "conversation_id": "1942174642510483811",
+        "created_at": "2025-07-07T10:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T11:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942174642510483811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c62M9UfmlT",
+              "end": 38,
+              "expanded_url": "https://x.com/dd_bbls/status/1942174642510483811/video/1",
+              "media_key": "13_1942174523920445440",
+              "start": 15,
+              "url": "https://t.co/c62M9UfmlT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942174642510483811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 27519,
+          "like_count": 1397,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "玩到控制不住他了，疯狂的跳动 https://t.co/c62M9UfmlT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 209,
+          "like_count": 509,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 583
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:46:10.000Z",
+        "description": "男大，纯直男纯直男，喜欢我的可以点点关注点点赞呀🥹欢迎大家私信或者匿名提问来找我玩～～匿名提问➡️https://t.co/thwoXQnO1x 🚪加v520/加q288   门槛详情可私信咨询哦～ 更日常小号@ddpattaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "ddpattaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ddpatta",
+                "end": 72,
+                "expanded_url": "https://ngl.link/ddpatta",
+                "start": 49,
+                "url": "https://t.co/thwoXQnO1x"
+              }
+            ]
+          }
+        },
+        "id": "1857480192224276480",
+        "name": "ddpat",
+        "pinned_tweet_id": "1883503756303839558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927326818643648512/jQeK5l4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55621,
+          "following_count": 94,
+          "like_count": 2326,
+          "listed_count": 154,
+          "media_count": 175,
+          "tweet_count": 1002
+        },
+        "username": "dd_bbls",
+        "verified": false
+      }
+    ]
+  }
+}

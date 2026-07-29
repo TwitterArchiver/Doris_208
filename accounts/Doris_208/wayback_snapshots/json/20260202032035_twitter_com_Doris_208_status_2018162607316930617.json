@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2017456159507263955",
+    "created_at": "2026-02-02T03:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T04:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018162607316930617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1401794016052609024",
+          "start": 0,
+          "username": "mty9949991mty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018162607316930617",
+    "in_reply_to_user_id": "1401794016052609024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017456159507263955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mty9949991mty 有女朋友那句删了我还能同意你的观点，这句话太傻逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2017456159507263955",
+        "created_at": "2026-02-02T03:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018162607316930617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1401794016052609024",
+              "start": 0,
+              "username": "mty9949991mty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018162607316930617",
+        "in_reply_to_user_id": "1401794016052609024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017456159507263955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mty9949991mty 有女朋友那句删了我还能同意你的观点，这句话太傻逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401794016052609024",
+        "conversation_id": "2017456159507263955",
+        "created_at": "2026-01-31T04:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017456159507263955"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017456159507263955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 192068,
+          "like_count": 675,
+          "quote_count": 4,
+          "reply_count": 157,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "闷骚男到底谁在谈，表面看起来是个乖乖阳光好学生，私下黄的不行的男孩子，有女朋友还乱看的男生，真的反差的不得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "少od多do",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5273,
+          "following_count": 276,
+          "like_count": 581,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 910
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T06:52:02.000Z",
+        "description": "京津冀 170/100 抓弟弟ghs    【带脸私】❗️",
+        "id": "1401794016052609024",
+        "location": "Tianjin",
+        "name": "阿勒",
+        "pinned_tweet_id": "1652151711656706049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1401841912219271169/g8kTaijE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18047,
+          "following_count": 152,
+          "like_count": 1344,
+          "listed_count": 37,
+          "media_count": 101,
+          "tweet_count": 285
+        },
+        "username": "mty9949991mty",
+        "verified": false
+      }
+    ]
+  }
+}

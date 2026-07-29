@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1951971186411536650",
+    "created_at": "2025-08-03T12:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T13:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951982729299390786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1118583356092903424",
+          "start": 0,
+          "username": "Ts07212598"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951982729299390786",
+    "in_reply_to_user_id": "1118583356092903424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951971186411536650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ts07212598 点开图之前我还脑袋黄黄以为是人前人后的妹子…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951971181684469760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxbLcqAaMAAWX6t.jpg",
+        "width": 718
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951971181697093632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxbLcqDa0AA3-KG.jpg",
+        "width": 654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1951971186411536650",
+        "created_at": "2025-08-03T12:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T13:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951982729299390786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1118583356092903424",
+              "start": 0,
+              "username": "Ts07212598"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951982729299390786",
+        "in_reply_to_user_id": "1118583356092903424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951971186411536650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ts07212598 点开图之前我还脑袋黄黄以为是人前人后的妹子…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951971181684469760",
+            "3_1951971181697093632"
+          ]
+        },
+        "author_id": "1118583356092903424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1951971186411536650",
+        "created_at": "2025-08-03T11:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T12:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951971186411536650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHRFNxzibE",
+              "end": 42,
+              "expanded_url": "https://x.com/Ts07212598/status/1951971186411536650/photo/1",
+              "media_key": "3_1951971181684469760",
+              "start": 19,
+              "url": "https://t.co/dHRFNxzibE"
+            },
+            {
+              "display_url": "pic.x.com/dHRFNxzibE",
+              "end": 42,
+              "expanded_url": "https://x.com/Ts07212598/status/1951971186411536650/photo/1",
+              "media_key": "3_1951971181697093632",
+              "start": 19,
+              "url": "https://t.co/dHRFNxzibE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951971186411536650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⬅️群聊 私聊➡️ 反差怎么说 反差 https://t.co/dHRFNxzibE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4537,
+          "following_count": 219,
+          "like_count": 527,
+          "listed_count": 8,
+          "media_count": 58,
+          "tweet_count": 666
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-17T18:33:49.000Z",
+        "description": "xp系统十分发达 主攻无下限的辱骂调教 想被催眠辱骂中出调教放置下药强奸奴隶化物品化的母猪鸡巴套子们 与其扭动你的屁股看着别人的聊天记录抽搐着抠你的飞机杯穴 不如私聊给我让我用你好好套弄鸡巴（自带剧情或者想要的结果更佳）",
+        "id": "1118583356092903424",
+        "location": "肉畜垫子脸上",
+        "name": "Ts",
+        "pinned_tweet_id": "1570381551644610560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721656716587401217/i3RU9tUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8033,
+          "following_count": 3435,
+          "like_count": 5333,
+          "listed_count": 54,
+          "media_count": 494,
+          "tweet_count": 3790
+        },
+        "username": "Ts07212598",
+        "verified": false
+      }
+    ]
+  }
+}

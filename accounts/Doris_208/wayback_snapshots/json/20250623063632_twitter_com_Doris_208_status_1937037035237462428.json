@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1936767789538414796",
+    "created_at": "2025-06-23T06:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T07:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937037035237462428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1647882177798094850",
+          "start": 0,
+          "username": "Yuratto27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937037035237462428",
+    "in_reply_to_user_id": "1647882177798094850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936767789538414796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuratto27 看得我那个了🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31863,
+        "height": 960,
+        "media_key": "7_1936767680268181504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1936767680268181504/pu/img/s8kRexyWsjhLWuS7.jpg",
+        "public_metrics": {
+          "view_count": 1570
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936767680268181504/pu/vid/avc1/320x564/E9dJ_RWU7vFg4zaW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936767680268181504/pu/vid/avc1/480x846/sf2D5N6-Kv5p048S.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936767680268181504/pu/vid/avc1/544x960/_1wYGlozYH_4QqcE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1936767680268181504/pu/pl/AhZ3pPg2QxMcKUI-.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1936767789538414796",
+        "created_at": "2025-06-23T06:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T07:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937037035237462428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1647882177798094850",
+              "start": 0,
+              "username": "Yuratto27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937037035237462428",
+        "in_reply_to_user_id": "1647882177798094850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936767789538414796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuratto27 看得我那个了🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1936767680268181504"
+          ]
+        },
+        "author_id": "1647882177798094850",
+        "conversation_id": "1936767789538414796",
+        "created_at": "2025-06-22T12:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T13:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936767789538414796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5SCXbGPqyk",
+              "end": 34,
+              "expanded_url": "https://x.com/Yuratto27/status/1936767789538414796/video/1",
+              "media_key": "7_1936767680268181504",
+              "start": 11,
+              "url": "https://t.co/5SCXbGPqyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936767789538414796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4356,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的大屁股专场 https://t.co/5SCXbGPqyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4494,
+          "following_count": 201,
+          "like_count": 491,
+          "listed_count": 9,
+          "media_count": 56,
+          "tweet_count": 549
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T08:38:39.000Z",
+        "description": "接定制、举牌",
+        "id": "1647882177798094850",
+        "location": "上海",
+        "name": "27",
+        "pinned_tweet_id": "1917545513261621257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649753246653906946/1SrfC1TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15137,
+          "following_count": 1465,
+          "like_count": 43783,
+          "listed_count": 40,
+          "media_count": 86,
+          "tweet_count": 2337
+        },
+        "username": "Yuratto27",
+        "verified": false
+      }
+    ]
+  }
+}

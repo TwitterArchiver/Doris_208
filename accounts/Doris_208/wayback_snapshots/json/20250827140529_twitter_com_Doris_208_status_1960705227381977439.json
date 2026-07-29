@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1960678117124497728",
+    "created_at": "2025-08-27T14:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T15:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960705227381977439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1118583356092903424",
+          "start": 0,
+          "username": "Ts07212598"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960705227381977439",
+    "in_reply_to_user_id": "1118583356092903424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960678117124497728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ts07212598 🥴很美味的肌肉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1960678109864452099",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzW6WlFa4AM65W9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960678109856047104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzW6WlDaoAAXLJ6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1960678117124497728",
+        "created_at": "2025-08-27T14:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T15:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960705227381977439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1118583356092903424",
+              "start": 0,
+              "username": "Ts07212598"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960705227381977439",
+        "in_reply_to_user_id": "1118583356092903424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960678117124497728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ts07212598 🥴很美味的肌肉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960678109864452099",
+            "3_1960678109856047104"
+          ]
+        },
+        "author_id": "1118583356092903424",
+        "conversation_id": "1960678117124497728",
+        "created_at": "2025-08-27T12:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960678117124497728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1TFojtbr6",
+              "end": 47,
+              "expanded_url": "https://x.com/Ts07212598/status/1960678117124497728/photo/1",
+              "media_key": "3_1960678109864452099",
+              "start": 24,
+              "url": "https://t.co/g1TFojtbr6"
+            },
+            {
+              "display_url": "pic.x.com/g1TFojtbr6",
+              "end": 47,
+              "expanded_url": "https://x.com/Ts07212598/status/1960678117124497728/photo/1",
+              "media_key": "3_1960678109856047104",
+              "start": 24,
+              "url": "https://t.co/g1TFojtbr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960678117124497728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽练三头二头😋 左右手解锁12.5kg哑铃弯举 https://t.co/g1TFojtbr6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4489,
+          "following_count": 220,
+          "like_count": 530,
+          "listed_count": 8,
+          "media_count": 60,
+          "tweet_count": 692
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-17T18:33:49.000Z",
+        "description": "xp系统十分发达 主攻无下限的辱骂调教 想被催眠辱骂中出调教放置下药强奸奴隶化物品化的母猪鸡巴套子们 与其扭动你的屁股看着别人的聊天记录抽搐着抠你的飞机杯穴 不如私聊给我让我用你好好套弄鸡巴（自带剧情或者想要的结果更佳）",
+        "id": "1118583356092903424",
+        "location": "肉畜垫子脸上",
+        "name": "Ts",
+        "pinned_tweet_id": "1570381551644610560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721656716587401217/i3RU9tUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8100,
+          "following_count": 3453,
+          "like_count": 5430,
+          "listed_count": 55,
+          "media_count": 500,
+          "tweet_count": 3823
+        },
+        "username": "Ts07212598",
+        "verified": false
+      }
+    ]
+  }
+}

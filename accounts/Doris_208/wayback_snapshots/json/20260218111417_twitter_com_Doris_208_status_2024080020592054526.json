@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2024080020592054526",
+    "created_at": "2026-02-18T11:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T12:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024080020592054526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1640239879669047296",
+          "start": 3,
+          "username": "tuitui0072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024080020592054526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 201
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023378943118893461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuitui0072: 我知道你玩我，也知道你不喜欢我，只是无聊了找我解个闷，但是这个无所谓，我也没有那么认真。我的日常很无聊，身边没有什么朋友，自己没有什么兴趣，人懒懒的，脑袋笨笨的，也没有获得什么成就，谢谢你陪我，我真的喜欢你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2024080020592054526",
+        "created_at": "2026-02-18T11:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024080020592054526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1640239879669047296",
+              "start": 3,
+              "username": "tuitui0072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024080020592054526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 201
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023378943118893461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuitui0072: 我知道你玩我，也知道你不喜欢我，只是无聊了找我解个闷，但是这个无所谓，我也没有那么认真。我的日常很无聊，身边没有什么朋友，自己没有什么兴趣，人懒懒的，脑袋笨笨的，也没有获得什么成就，谢谢你陪我，我真的喜欢你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640239879669047296",
+        "conversation_id": "2023378943118893461",
+        "created_at": "2026-02-16T12:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023378943118893461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023378943118893461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 41922,
+          "like_count": 1029,
+          "quote_count": 16,
+          "reply_count": 35,
+          "retweet_count": 201
+        },
+        "reply_settings": "everyone",
+        "text": "我知道你玩我，也知道你不喜欢我，只是无聊了找我解个闷，但是这个无所谓，我也没有那么认真。我的日常很无聊，身边没有什么朋友，自己没有什么兴趣，人懒懒的，脑袋笨笨的，也没有获得什么成就，谢谢你陪我，我真的喜欢你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "少od多do",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5238,
+          "following_count": 278,
+          "like_count": 582,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 917
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T06:30:53.000Z",
+        "description": "纯绿 这辈子不会发裸照 要取关的赶紧取关 不约不线下不聊骚私信开黄腔的死全家",
+        "id": "1640239879669047296",
+        "location": "傻逼滚滚滚",
+        "name": "在厕所耍帅被尿滑倒",
+        "pinned_tweet_id": "1995521783412457961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972171314523000834/DO2rCUGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 128,
+          "like_count": 3903,
+          "listed_count": 4,
+          "media_count": 90,
+          "tweet_count": 578
+        },
+        "username": "tuitui0072",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1916063816867319866",
+    "created_at": "2025-04-27T09:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T10:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916423825710817754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1440231187",
+          "start": 0,
+          "username": "BuChuniii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916423825710817754",
+    "in_reply_to_user_id": "1440231187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916063816867319866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BuChuniii 这么说来可不可以认为没有人是纯s，生活才是最大的s🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916063699779108864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpc5yIBawAAbiBe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1916063816867319866",
+        "created_at": "2025-04-27T09:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T10:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916423825710817754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1440231187",
+              "start": 0,
+              "username": "BuChuniii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916423825710817754",
+        "in_reply_to_user_id": "1440231187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916063816867319866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BuChuniii 这么说来可不可以认为没有人是纯s，生活才是最大的s🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916063699779108864"
+          ]
+        },
+        "author_id": "1440231187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1916063816867319866",
+        "created_at": "2025-04-26T09:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916063816867319866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMV6z5b7SX",
+              "end": 106,
+              "expanded_url": "https://x.com/BuChuniii/status/1916063816867319866/photo/1",
+              "media_key": "3_1916063699779108864",
+              "start": 83,
+              "url": "https://t.co/KMV6z5b7SX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916063816867319866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19866,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然想到一个事，纯小圈好多不是有学历崇拜吗，那有些只接受纯上位的贝动有没有想过一个问题——\n有可能，你的博士/硕士，主动，\n经常跟个狗一样被他的导师们骂的点头哈腰 https://t.co/KMV6z5b7SX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4484,
+          "following_count": 180,
+          "like_count": 449,
+          "listed_count": 8,
+          "media_count": 51,
+          "tweet_count": 445
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-19T04:45:31.000Z",
+        "description": "女主｜DOM｜7月之前常驻鲁B｜小圈随缘CSJ｜🚪166｜ENTJ-A-H天蝎｜人活几个瞬间而已，望我们彼此的碰撞和奔赴都值得.",
+        "id": "1440231187",
+        "name": "不春",
+        "pinned_tweet_id": "1900200504799400161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866362186089820160/Aca7wuH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 149,
+          "like_count": 211,
+          "listed_count": 11,
+          "media_count": 99,
+          "tweet_count": 490
+        },
+        "username": "BuChuniii",
+        "verified": false
+      }
+    ]
+  }
+}

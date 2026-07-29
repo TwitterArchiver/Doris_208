@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1983950360000757769",
+    "created_at": "2025-10-30T23:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T00:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984034016417509490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778896067171655680",
+          "start": 0,
+          "username": "Pop0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984034016417509490",
+    "in_reply_to_user_id": "1778896067171655680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983950360000757769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pop0v0 碎碎念也好看"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1983950360000757769].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1983950360000757769",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1983950360000757769"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1983950360000757769",
+        "created_at": "2025-10-30T23:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T00:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984034016417509490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778896067171655680",
+              "start": 0,
+              "username": "Pop0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984034016417509490",
+        "in_reply_to_user_id": "1778896067171655680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983950360000757769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pop0v0 碎碎念也好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5678,
+          "following_count": 274,
+          "like_count": 599,
+          "listed_count": 9,
+          "media_count": 67,
+          "tweet_count": 865
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T21:20:57.000Z",
+        "description": "05 直男｜盗图存图替我挡灾 4000+｜不约不谈不加不收口令",
+        "id": "1778896067171655680",
+        "name": "鱿鱼男主",
+        "pinned_tweet_id": "1979561751990730806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982052334273212416/bSefx0Sz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 266,
+          "like_count": 14137,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 526
+        },
+        "username": "Pop0v0",
+        "verified": false
+      }
+    ]
+  }
+}

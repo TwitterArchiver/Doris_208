@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1868607652475105450",
+    "created_at": "2024-12-16T10:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T11:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868607652475105450"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1868607652475105450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "排卵期到了又是被激素控制的一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1868607652475105450",
+        "created_at": "2024-12-16T10:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T11:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868607652475105450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868607652475105450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "排卵期到了又是被激素控制的一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|负能量集中地|mental death|✟升天✟",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 47,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 187
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1930475994390974573",
+    "created_at": "2025-06-05T11:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T12:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930594235000197219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857480192224276480",
+          "start": 0,
+          "username": "dd_bbls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930594235000197219",
+    "in_reply_to_user_id": "1857480192224276480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930475994390974573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd_bbls 我一定要买个能吃到几把的手机🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61900,
+        "height": 720,
+        "media_key": "13_1930475805689425923",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930475805689425923/img/saBYj9In6aQHXt5e.jpg",
+        "public_metrics": {
+          "view_count": 2486
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930475805689425923/vid/avc1/480x270/o0mT4bp3juuXh6Qq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930475805689425923/vid/avc1/640x360/iq0eyPL3GNQ7yg0l.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930475805689425923/vid/avc1/1280x720/a0162Pa6jHEy12XO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930475805689425923/pl/B4XAhe7BEt8E2zvq.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1930475994390974573",
+        "created_at": "2025-06-05T11:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T12:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930594235000197219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857480192224276480",
+              "start": 0,
+              "username": "dd_bbls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930594235000197219",
+        "in_reply_to_user_id": "1857480192224276480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930475994390974573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd_bbls 我一定要买个能吃到几把的手机🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930475805689425923"
+          ]
+        },
+        "author_id": "1857480192224276480",
+        "conversation_id": "1930475994390974573",
+        "created_at": "2025-06-05T04:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T05:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930475994390974573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZ0uTWUW4O",
+              "end": 32,
+              "expanded_url": "https://x.com/dd_bbls/status/1930475994390974573/video/1",
+              "media_key": "13_1930475805689425923",
+              "start": 9,
+              "url": "https://t.co/TZ0uTWUW4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930475994390974573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 11580,
+          "like_count": 538,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "拍拍屏幕纯享版😉 https://t.co/TZ0uTWUW4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4497,
+          "following_count": 190,
+          "like_count": 477,
+          "listed_count": 9,
+          "media_count": 55,
+          "tweet_count": 508
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:46:10.000Z",
+        "description": "男大，纯直男纯直男，喜欢我的可以点点关注点点赞呀🥹欢迎大家私信或者匿名提问来找我玩～～匿名提问➡️https://t.co/thwoXQnO1x 🚪门槛详情可私信哦～ 更日常小号@ddpattaa 自用梯子🪜https://t.co/RmD7SWmQkd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 89,
+                "username": "ddpattaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ddpatta",
+                "end": 72,
+                "expanded_url": "https://ngl.link/ddpatta",
+                "start": 49,
+                "url": "https://t.co/thwoXQnO1x"
+              },
+              {
+                "display_url": "vip.sulink.life/#/register?cod…",
+                "end": 127,
+                "expanded_url": "https://vip.sulink.life/#/register?code=LHwL1d9w",
+                "start": 104,
+                "url": "https://t.co/RmD7SWmQkd"
+              }
+            ]
+          }
+        },
+        "id": "1857480192224276480",
+        "location": "🚪加v520/加q288",
+        "name": "ddpat",
+        "pinned_tweet_id": "1883503756303839558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927326818643648512/jQeK5l4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47306,
+          "following_count": 93,
+          "like_count": 2153,
+          "listed_count": 131,
+          "media_count": 171,
+          "tweet_count": 930
+        },
+        "username": "dd_bbls",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1990338842063413299",
+    "created_at": "2025-11-17T19:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T20:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990500341318595007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1489148344467599367",
+          "start": 0,
+          "username": "pocketyellow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990500341318595007",
+    "in_reply_to_user_id": "1489148344467599367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990338842063413299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pocketyellow 嗯对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1990338842063413299",
+        "created_at": "2025-11-17T19:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T20:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990500341318595007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1489148344467599367",
+              "start": 0,
+              "username": "pocketyellow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990500341318595007",
+        "in_reply_to_user_id": "1489148344467599367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990338842063413299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pocketyellow 嗯对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489148344467599367",
+        "conversation_id": "1990338842063413299",
+        "created_at": "2025-11-17T08:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T09:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990338842063413299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990338842063413299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 67017,
+          "like_count": 715,
+          "quote_count": 18,
+          "reply_count": 73,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "我发现，从小到大处处听话守规矩的乖孩子，在性方面可能反而胆子更大、性癖更变态，管得越严玩得越狠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5613,
+          "following_count": 279,
+          "like_count": 613,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 893
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T08:06:56.000Z",
+        "description": "欲望分享 | 流水账文学大师 | 小作文在小号 | 男的 @pocketyellow88 | 不爱闲聊 | gay勿扰 | 关评推广自辩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "pocketyellow88"
+              }
+            ]
+          }
+        },
+        "id": "1489148344467599367",
+        "name": "椰云拿铁",
+        "pinned_tweet_id": "1987784220354511082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863486782362570752/aPSXqhGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136906,
+          "following_count": 2,
+          "like_count": 676,
+          "listed_count": 394,
+          "media_count": 141,
+          "tweet_count": 1147
+        },
+        "username": "pocketyellow",
+        "verified": false
+      }
+    ]
+  }
+}

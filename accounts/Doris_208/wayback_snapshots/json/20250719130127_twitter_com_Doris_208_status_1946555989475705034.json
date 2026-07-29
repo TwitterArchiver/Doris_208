@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1946542586589557038",
+    "created_at": "2025-07-19T13:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T14:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946555989475705034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857480192224276480",
+          "start": 0,
+          "username": "dd_bbls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946555989475705034",
+    "in_reply_to_user_id": "1857480192224276480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946542586589557038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd_bbls 我也要摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31100,
+        "height": 720,
+        "media_key": "13_1946542515068305409",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946542515068305409/img/vlL-Mw84-czzKtlf.jpg",
+        "public_metrics": {
+          "view_count": 425
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946542515068305409/vid/avc1/480x270/M-CJXrsjIvctG5aX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946542515068305409/vid/avc1/640x360/vXOQ-2naHLWSPM0A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946542515068305409/vid/avc1/1280x720/dK2XAe_8Bavb6oa9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946542515068305409/pl/4V7hILVOSve20Syt.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1946542586589557038",
+        "created_at": "2025-07-19T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946555989475705034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857480192224276480",
+              "start": 0,
+              "username": "dd_bbls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946555989475705034",
+        "in_reply_to_user_id": "1857480192224276480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946542586589557038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd_bbls 我也要摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946542515068305409"
+          ]
+        },
+        "author_id": "1857480192224276480",
+        "conversation_id": "1946542586589557038",
+        "created_at": "2025-07-19T12:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T13:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946542586589557038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqomBJn4tn",
+              "end": 62,
+              "expanded_url": "https://x.com/dd_bbls/status/1946542586589557038/video/1",
+              "media_key": "13_1946542515068305409",
+              "start": 39,
+              "url": "https://t.co/EqomBJn4tn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946542586589557038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2062,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手儿这个不是很干净，净乱摸\n（注解：这个不干净指的是那个不干净而不是不干净） https://t.co/EqomBJn4tn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4524,
+          "following_count": 211,
+          "like_count": 519,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 625
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:46:10.000Z",
+        "description": "男大，纯直男纯直男，喜欢我的可以点点关注点点赞呀🥹欢迎大家私信或者匿名提问来找我玩～～匿名提问➡️https://t.co/thwoXQnO1x 🚪加v520/加q288   门槛详情可私信咨询哦～ 更日常小号@ddpattaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "ddpattaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ddpatta",
+                "end": 72,
+                "expanded_url": "https://ngl.link/ddpatta",
+                "start": 49,
+                "url": "https://t.co/thwoXQnO1x"
+              }
+            ]
+          }
+        },
+        "id": "1857480192224276480",
+        "name": "ddpat",
+        "pinned_tweet_id": "1883503756303839558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927326818643648512/jQeK5l4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62272,
+          "following_count": 94,
+          "like_count": 2492,
+          "listed_count": 170,
+          "media_count": 181,
+          "tweet_count": 1069
+        },
+        "username": "dd_bbls",
+        "verified": false
+      }
+    ]
+  }
+}

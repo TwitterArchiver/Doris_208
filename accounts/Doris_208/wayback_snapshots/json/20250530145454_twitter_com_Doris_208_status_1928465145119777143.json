@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1928366128729874756",
+    "created_at": "2025-05-30T14:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T15:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928465145119777143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "986091351967191040",
+          "start": 0,
+          "username": "kzl2064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928465145119777143",
+    "in_reply_to_user_id": "986091351967191040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928455164798619928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kzl2064 🥵这可是大宝贝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1928366128729874756",
+        "created_at": "2025-05-30T14:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T15:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928465145119777143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "986091351967191040",
+              "start": 0,
+              "username": "kzl2064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928465145119777143",
+        "in_reply_to_user_id": "986091351967191040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928455164798619928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kzl2064 🥵这可是大宝贝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "986091351967191040",
+        "conversation_id": "1928366128729874756",
+        "created_at": "2025-05-30T14:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T15:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928455164798619928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928455164798619928",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928440239946649704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 😡别看了，那又不是有宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4495,
+          "following_count": 186,
+          "like_count": 475,
+          "listed_count": 9,
+          "media_count": 55,
+          "tweet_count": 492
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T03:57:53.000Z",
+        "description": "一个很普通的普通人，推文全是下体（没打敏感，不喜欢看鸡巴和蛋蛋的请立马退出!）不是gay，私信必回",
+        "id": "986091351967191040",
+        "location": "广东",
+        "name": "鸡飞蛋打",
+        "pinned_tweet_id": "1813083896797700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488206928337534980/Oyy9KKu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9269,
+          "following_count": 757,
+          "like_count": 8323,
+          "listed_count": 42,
+          "media_count": 107,
+          "tweet_count": 846
+        },
+        "username": "kzl2064",
+        "verified": false
+      }
+    ]
+  }
+}

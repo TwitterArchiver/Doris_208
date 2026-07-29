@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886711881831944192"
+      ]
+    },
+    "author_id": "1577453972482203648",
+    "conversation_id": "1886711891629891768",
+    "created_at": "2025-02-04T09:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T10:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886711891629891768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/azDJqQzsph",
+          "end": 30,
+          "expanded_url": "https://x.com/Doris_208/status/1886711891629891768/photo/1",
+          "media_key": "3_1886711881831944192",
+          "start": 7,
+          "url": "https://t.co/azDJqQzsph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886711891629891768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小蝴蝶又来啦 https://t.co/azDJqQzsph"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1886711891629891768].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1886711891629891768",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1886711891629891768"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1886711881831944192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi7yddYaEAAs2bo.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 174,
+          "like_count": 447,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

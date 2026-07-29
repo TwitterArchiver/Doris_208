@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1945630771320164590",
+    "created_at": "2025-07-17T06:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T07:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945729079749091811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851565657558773760",
+          "start": 0,
+          "username": "shuixing1234567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945729079749091811",
+    "in_reply_to_user_id": "1851565657558773760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945728548582691307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuixing1234567 那很可口了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1945630771320164590",
+        "created_at": "2025-07-17T06:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945729079749091811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851565657558773760",
+              "start": 0,
+              "username": "shuixing1234567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945729079749091811",
+        "in_reply_to_user_id": "1851565657558773760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945728548582691307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuixing1234567 那很可口了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851565657558773760",
+        "conversation_id": "1945630771320164590",
+        "created_at": "2025-07-17T06:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945728548582691307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945728548582691307",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945727825853522095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 因为有点痒那时候，挠了几下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4525,
+          "following_count": 211,
+          "like_count": 518,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 619
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T10:03:57.000Z",
+        "description": "我只喜欢女的，是直男🙃",
+        "id": "1851565657558773760",
+        "name": "shuixing shuixing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920015747339976704/VD8bYTQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 365,
+          "like_count": 3629,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 752
+        },
+        "username": "shuixing1234567",
+        "verified": false
+      }
+    ]
+  }
+}

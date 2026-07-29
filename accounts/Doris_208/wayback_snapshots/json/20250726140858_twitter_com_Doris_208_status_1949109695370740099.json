@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1948393541954396438",
+    "created_at": "2025-07-26T14:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T15:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949109695370740099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1691921180989800448",
+          "start": 0,
+          "username": "mimimiaomiaouwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949109695370740099",
+    "in_reply_to_user_id": "1691921180989800448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948393541954396438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimimiaomiaouwu 合并同类项属于是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1948393541954396438",
+        "created_at": "2025-07-26T14:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T15:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949109695370740099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1691921180989800448",
+              "start": 0,
+              "username": "mimimiaomiaouwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949109695370740099",
+        "in_reply_to_user_id": "1691921180989800448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948393541954396438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimimiaomiaouwu 合并同类项属于是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691921180989800448",
+        "conversation_id": "1948393541954396438",
+        "created_at": "2025-07-24T14:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T15:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948393541954396438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948393541954396438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22474,
+          "like_count": 171,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是我说实话北海和清酒长得很般配…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4530,
+          "following_count": 218,
+          "like_count": 525,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 647
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T21:13:46.000Z",
+        "description": "3i4i 卡哇1✨偶尔掉落大瓜小瓜/抽象段子/日常碎片✨",
+        "id": "1691921180989800448",
+        "name": "Qi",
+        "pinned_tweet_id": "1946986511049867290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872587222928826369/5n4vRS4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20137,
+          "following_count": 517,
+          "like_count": 6723,
+          "listed_count": 39,
+          "media_count": 58,
+          "tweet_count": 9249
+        },
+        "username": "mimimiaomiaouwu",
+        "verified": false
+      }
+    ]
+  }
+}

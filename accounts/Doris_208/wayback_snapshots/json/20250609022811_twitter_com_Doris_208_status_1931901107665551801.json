@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1931119736147910986",
+    "created_at": "2025-06-09T02:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T03:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931901107665551801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "986091351967191040",
+          "start": 0,
+          "username": "kzl2064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931901107665551801",
+    "in_reply_to_user_id": "986091351967191040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931119736147910986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kzl2064 我是粉丝给我举一个🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1931119736147910986",
+        "created_at": "2025-06-09T02:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T03:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931901107665551801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "986091351967191040",
+              "start": 0,
+              "username": "kzl2064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931901107665551801",
+        "in_reply_to_user_id": "986091351967191040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931119736147910986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kzl2064 我是粉丝给我举一个🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "986091351967191040",
+        "conversation_id": "1931119736147910986",
+        "created_at": "2025-06-06T22:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T23:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931119736147910986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kzl2064/status…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/kzl2064/status/1768668377109962923",
+              "start": 125,
+              "url": "https://t.co/rFeNlrLka2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931119736147910986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5713,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1768668377109962923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那些超级大牛的能不能举牌自己ID来拍一张和视频认证一下，而不是打码，来证明那个超级大牛是自己的，而不是偷的盗的和p的\n这是我普通牛最后的倔强，让我这种普通牛输得心服口服一点😭\n举牌的话我除了给牛子博物馆举过，还给好几个粉丝举过哈哈哈，是能互相验证的 https://t.co/rFeNlrLka2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4494,
+          "following_count": 194,
+          "like_count": 480,
+          "listed_count": 9,
+          "media_count": 55,
+          "tweet_count": 521
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T03:57:53.000Z",
+        "description": "一个很普通的普通人，推文全是下体（没打敏感，不喜欢看鸡巴和蛋蛋的请立马退出!）不是gay，私信必回",
+        "id": "986091351967191040",
+        "location": "广东",
+        "name": "鸡飞蛋打",
+        "pinned_tweet_id": "1813083896797700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488206928337534980/Oyy9KKu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9474,
+          "following_count": 791,
+          "like_count": 8869,
+          "listed_count": 42,
+          "media_count": 101,
+          "tweet_count": 872
+        },
+        "username": "kzl2064",
+        "verified": false
+      }
+    ]
+  }
+}

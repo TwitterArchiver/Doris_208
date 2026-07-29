@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869390461162688512"
+      ]
+    },
+    "author_id": "1577453972482203648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1869390491235790922",
+    "created_at": "2024-12-18T14:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T15:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869390491235790922"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "剑网三"
+        },
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "剑网3"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "剑三"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YIO7QkZUWZ",
+          "end": 75,
+          "expanded_url": "https://x.com/Doris_208/status/1869390491235790922/photo/1",
+          "media_key": "3_1869390461162688512",
+          "start": 52,
+          "url": "https://t.co/YIO7QkZUWZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869390491235790922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "强迫爸爸打本时候把小狗照片放桌面～禁欲的日子里就会使坏心眼引得爸爸禁不了欲 #剑网三 #剑网3 #剑三 https://t.co/YIO7QkZUWZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_1869390461162688512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfFouFAbEAAYt_D.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869390461162688512"
+          ]
+        },
+        "author_id": "1577453972482203648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1869390491235790922",
+        "created_at": "2024-12-18T14:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T15:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869390491235790922"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "剑网三"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "剑网3"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "剑三"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIO7QkZUWZ",
+              "end": 75,
+              "expanded_url": "https://x.com/Doris_208/status/1869390491235790922/photo/1",
+              "media_key": "3_1869390461162688512",
+              "start": 52,
+              "url": "https://t.co/YIO7QkZUWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869390491235790922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强迫爸爸打本时候把小狗照片放桌面～禁欲的日子里就会使坏心眼引得爸爸禁不了欲 #剑网三 #剑网3 #剑三 https://t.co/YIO7QkZUWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|负能量集中地|mental death|✟升天✟",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 59,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 195
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

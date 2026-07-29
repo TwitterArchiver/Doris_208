@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1955335936344051861",
+    "created_at": "2025-08-14T12:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T13:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955968744871878969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1505303102706143233",
+          "start": 0,
+          "username": "xiaoji0345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955968744871878969",
+    "in_reply_to_user_id": "1505303102706143233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955335936344051861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoji0345 捏捏你的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8699,
+        "height": 720,
+        "media_key": "7_1955335896615497728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1955335896615497728/pu/img/AUZexLGgf-VFWKFQ.jpg",
+        "public_metrics": {
+          "view_count": 38
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955335896615497728/pu/vid/avc1/480x270/wiDwMh3fPoRbZgDF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955335896615497728/pu/vid/avc1/640x360/bY01DAFk4uneuaxH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955335896615497728/pu/vid/avc1/1280x720/vOt4Ww0WvikJXc33.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1955335896615497728/pu/pl/ZFj0M-vzkLihweWs.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1955335936344051861",
+        "created_at": "2025-08-14T12:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T13:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955968744871878969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1505303102706143233",
+              "start": 0,
+              "username": "xiaoji0345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955968744871878969",
+        "in_reply_to_user_id": "1505303102706143233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955335936344051861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoji0345 捏捏你的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1955335896615497728"
+          ]
+        },
+        "author_id": "1505303102706143233",
+        "conversation_id": "1955335936344051861",
+        "created_at": "2025-08-12T18:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T19:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955335936344051861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzojFp1y3t",
+              "end": 26,
+              "expanded_url": "https://x.com/xiaoji0345/status/1955335936344051861/video/1",
+              "media_key": "7_1955335896615497728",
+              "start": 3,
+              "url": "https://t.co/BzojFp1y3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955335936344051861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好玩 https://t.co/BzojFp1y3t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4518,
+          "following_count": 221,
+          "like_count": 528,
+          "listed_count": 8,
+          "media_count": 60,
+          "tweet_count": 682
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T22:00:28.000Z",
+        "description": "#剑网3 /时差党/玩抽象看乐子的/随缘营业/互关dd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "剑网3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoji03451",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoji03451",
+                "start": 0,
+                "url": "https://t.co/ovcrBh3EHe"
+              }
+            ]
+          }
+        },
+        "id": "1505303102706143233",
+        "location": "三星望月",
+        "name": "闻仙",
+        "pinned_tweet_id": "1901284100989759968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748709432886730752/2-qfLY0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 135,
+          "like_count": 7668,
+          "listed_count": 4,
+          "media_count": 1330,
+          "tweet_count": 8991
+        },
+        "url": "https://t.co/ovcrBh3EHe",
+        "username": "xiaoji0345",
+        "verified": false
+      }
+    ]
+  }
+}

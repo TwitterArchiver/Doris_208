@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1938514479240950168",
+    "created_at": "2025-06-27T10:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T11:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938543471947891177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740741381944201216",
+          "start": 0,
+          "username": "Heiwuya888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938543471947891177",
+    "in_reply_to_user_id": "1740741381944201216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938514479240950168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Heiwuya888 看看实力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1938514479240950168",
+        "created_at": "2025-06-27T10:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938543471947891177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740741381944201216",
+              "start": 0,
+              "username": "Heiwuya888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938543471947891177",
+        "in_reply_to_user_id": "1740741381944201216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938514479240950168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Heiwuya888 看看实力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740741381944201216",
+        "conversation_id": "1938514479240950168",
+        "created_at": "2025-06-27T08:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938514479240950168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938514479240950168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1993,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵，没人知道我今天戴着银框眼镜，穿着衬衫西裤斯斯文文的样子里面是青色丁字裤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 202,
+          "like_count": 494,
+          "listed_count": 8,
+          "media_count": 56,
+          "tweet_count": 557
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T14:27:59.000Z",
+        "description": "我想做个好人/ 全国不可飞/ 不接诈骗推广 电报 vpn/ 不接投喂/🚪299/入门赠送一个全新玩具",
+        "id": "1740741381944201216",
+        "location": "0.1公里",
+        "name": "黑乌鸦",
+        "pinned_tweet_id": "1937877001907683701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906594670895144960/gNsUG7yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29279,
+          "following_count": 89,
+          "like_count": 6449,
+          "listed_count": 30,
+          "media_count": 111,
+          "tweet_count": 468
+        },
+        "username": "Heiwuya888",
+        "verified": false
+      }
+    ]
+  }
+}

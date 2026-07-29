@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2024344740314185850",
+    "created_at": "2026-02-19T04:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024344740314185850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1793300616871325696",
+          "start": 3,
+          "username": "Ov012456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024344740314185850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024122058729218297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ov012456: 自取其辱七件套：\n1. 在干嘛\n2. 你喜欢过我吗\n3. 为什么不回我消息\n4. 可是你之前不是答应了我吗\n5. 那我们现在是什么关系\n6. 那你先忙忙完记得回消息\n7. 要我陪你打游戏吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2024344740314185850",
+        "created_at": "2026-02-19T04:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024344740314185850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1793300616871325696",
+              "start": 3,
+              "username": "Ov012456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024344740314185850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024122058729218297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ov012456: 自取其辱七件套：\n1. 在干嘛\n2. 你喜欢过我吗\n3. 为什么不回我消息\n4. 可是你之前不是答应了我吗\n5. 那我们现在是什么关系\n6. 那你先忙忙完记得回消息\n7. 要我陪你打游戏吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793300616871325696",
+        "conversation_id": "2024122058729218297",
+        "created_at": "2026-02-18T14:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024122058729218297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024122058729218297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 47182,
+          "like_count": 751,
+          "quote_count": 13,
+          "reply_count": 39,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "自取其辱七件套：\n1. 在干嘛\n2. 你喜欢过我吗\n3. 为什么不回我消息\n4. 可是你之前不是答应了我吗\n5. 那我们现在是什么关系\n6. 那你先忙忙完记得回消息\n7. 要我陪你打游戏吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "少od多do",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5236,
+          "following_count": 278,
+          "like_count": 583,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 919
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T15:19:30.000Z",
+        "description": "你对我可曾有过半分真心",
+        "id": "1793300616871325696",
+        "name": "布偶大王",
+        "pinned_tweet_id": "2022665094891819247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020760557805268992/ehIAwXk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 59,
+          "like_count": 889,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 736
+        },
+        "username": "Ov012456",
+        "verified": false
+      }
+    ]
+  }
+}

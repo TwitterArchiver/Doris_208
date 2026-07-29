@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1966923843253268790",
+    "created_at": "2025-09-14T11:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T12:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967193172012052977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1341329111906586624",
+          "start": 0,
+          "username": "saharaoasis_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967193172012052977",
+    "in_reply_to_user_id": "1341329111906586624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966923843253268790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saharaoasis_ 要的要的非常需要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_1966923836043259907",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0vqzsObcAMXsOS.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1966923843253268790",
+        "created_at": "2025-09-14T11:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967193172012052977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1341329111906586624",
+              "start": 0,
+              "username": "saharaoasis_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967193172012052977",
+        "in_reply_to_user_id": "1341329111906586624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966923843253268790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saharaoasis_ 要的要的非常需要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966923836043259907"
+          ]
+        },
+        "author_id": "1341329111906586624",
+        "conversation_id": "1966923843253268790",
+        "created_at": "2025-09-13T17:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T18:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966923843253268790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GJ30BZH5u",
+              "end": 49,
+              "expanded_url": "https://x.com/saharaoasis_/status/1966923843253268790/photo/1",
+              "media_key": "3_1966923836043259907",
+              "start": 26,
+              "url": "https://t.co/5GJ30BZH5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966923843253268790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 63762,
+          "like_count": 214,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "深喉吞咽是我的独家教程👌\n你们要不要深喉详细版本👀 https://t.co/5GJ30BZH5u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 218,
+          "like_count": 527,
+          "listed_count": 9,
+          "media_count": 60,
+          "tweet_count": 695
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-22T10:26:06.000Z",
+        "description": "⬇️玩偶姐姐链接⬇️ /🍑tb：撒哈拉绿洲/vx小程序：卯哥的晚间杂货铺/备用机：@akqqq53056",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "akqqq53056"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.5LiR1jdMSu2R…",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.5LiR1jdMSu2RcK6",
+                "start": 0,
+                "url": "https://t.co/VFQtZ1pVVZ"
+              }
+            ]
+          }
+        },
+        "id": "1341329111906586624",
+        "location": "香港",
+        "name": "番茄罐头（全网第一家调教棒）",
+        "pinned_tweet_id": "1963618703054143658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753070373820891136/4R3k0MHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358336,
+          "following_count": 561,
+          "like_count": 2797,
+          "listed_count": 605,
+          "media_count": 1163,
+          "tweet_count": 6251
+        },
+        "url": "https://t.co/VFQtZ1pVVZ",
+        "username": "saharaoasis_",
+        "verified": true
+      }
+    ]
+  }
+}

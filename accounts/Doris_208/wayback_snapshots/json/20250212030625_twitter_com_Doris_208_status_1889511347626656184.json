@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1889511347626656184",
+    "created_at": "2025-02-12T03:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T04:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889511347626656184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828116639134683136",
+          "start": 3,
+          "username": "S17AC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889511347626656184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889108891902087535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S17AC: 朋友 我只交这5种\n1. 性爱成瘾的 这是懂得享受 不压抑自己 我交\n2. 想强奸我的 敢于表达爱意 不扭捏造作 我交\n3. 涉黄拍照的 好看养眼 这是自我欣赏 我交\n4. 阴茎粗大的 能插哭我 帮我释放压力 我交\n5.精液量大的 我身体不好 需要壮阳 吃…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1889511347626656184",
+        "created_at": "2025-02-12T03:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T04:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889511347626656184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828116639134683136",
+              "start": 3,
+              "username": "S17AC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889511347626656184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889108891902087535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S17AC: 朋友 我只交这5种\n1. 性爱成瘾的 这是懂得享受 不压抑自己 我交\n2. 想强奸我的 敢于表达爱意 不扭捏造作 我交\n3. 涉黄拍照的 好看养眼 这是自我欣赏 我交\n4. 阴茎粗大的 能插哭我 帮我释放压力 我交\n5.精液量大的 我身体不好 需要壮阳 吃…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828116639134683136",
+        "conversation_id": "1889108891902087535",
+        "created_at": "2025-02-11T00:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T01:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889108891902087535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889108891902087535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 78078,
+          "like_count": 556,
+          "quote_count": 22,
+          "reply_count": 45,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "朋友 我只交这5种\n1. 性爱成瘾的 这是懂得享受 不压抑自己 我交\n2. 想强奸我的 敢于表达爱意 不扭捏造作 我交\n3. 涉黄拍照的 好看养眼 这是自我欣赏 我交\n4. 阴茎粗大的 能插哭我 帮我释放压力 我交\n5.精液量大的 我身体不好 需要壮阳 吃下能帮我恢复身体 我交"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4466,
+          "following_count": 177,
+          "like_count": 443,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T17:05:56.000Z",
+        "description": "⚠️不卖片不卖资源不搞电报群⚠️没有做好没有回复的准备不要私信我👊主页全是瞎扯淡 涩涩视频👉🏻@S17AAC🎬 不要对我有任何滤镜 ❌长期蹲双飞or单女 提问箱：https://t.co/sU2EyG6y9p 匿名都在半夜回，睡醒点主页就能看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "S17AAC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/s17ac",
+                "end": 104,
+                "expanded_url": "https://ngl.link/s17ac",
+                "start": 81,
+                "url": "https://t.co/sU2EyG6y9p"
+              }
+            ]
+          }
+        },
+        "id": "1828116639134683136",
+        "location": "广东  ",
+        "name": "来听我说鬼话",
+        "pinned_tweet_id": "1835326844469748057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828152705568907267/5W6sJE-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 283,
+          "like_count": 8963,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 5551
+        },
+        "username": "S17AC",
+        "verified": false
+      }
+    ]
+  }
+}

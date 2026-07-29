@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1968276804260790438",
+    "created_at": "2025-09-17T13:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968300765531058261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484894081625083905",
+          "start": 0,
+          "username": "jiaxinl37113034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968300765531058261",
+    "in_reply_to_user_id": "1484894081625083905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968292177781621017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaxinl37113034 角度清奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1968276804260790438",
+        "created_at": "2025-09-17T13:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968300765531058261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484894081625083905",
+              "start": 0,
+              "username": "jiaxinl37113034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968300765531058261",
+        "in_reply_to_user_id": "1484894081625083905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968292177781621017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaxinl37113034 角度清奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484894081625083905",
+        "conversation_id": "1968276804260790438",
+        "created_at": "2025-09-17T12:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T13:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968292177781621017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968292177781621017",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968276804260790438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 突然地震了跑不掉的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 229,
+          "like_count": 530,
+          "listed_count": 9,
+          "media_count": 61,
+          "tweet_count": 704
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T14:22:06.000Z",
+        "description": "在X用欣赏的眼光看待每一种艺术！",
+        "id": "1484894081625083905",
+        "name": "藍染雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966879512336986112/SDOz1fPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 67
+        },
+        "username": "jiaxinl37113034",
+        "verified": false
+      }
+    ]
+  }
+}

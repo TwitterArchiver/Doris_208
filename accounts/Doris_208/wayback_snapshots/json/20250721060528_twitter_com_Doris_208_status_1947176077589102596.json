@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1947176077589102596",
+    "created_at": "2025-07-21T06:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T07:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947176077589102596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1850182516239396864",
+          "start": 3,
+          "username": "PressRRRforRun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947176077589102596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946927195827364191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PressRRRforRun: 自取其辱八件套\n1你为什么不理我。\n2你为什么不回我信息。\n3我们现在是什么关系。\n4不联系的这段时间你有想我吗。\n5你为什么要这样对我。\n6你爱过我吗。\n7我们之前不是这样的。\n8你不要我了吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1947176077589102596",
+        "created_at": "2025-07-21T06:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T07:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947176077589102596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1850182516239396864",
+              "start": 3,
+              "username": "PressRRRforRun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947176077589102596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946927195827364191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PressRRRforRun: 自取其辱八件套\n1你为什么不理我。\n2你为什么不回我信息。\n3我们现在是什么关系。\n4不联系的这段时间你有想我吗。\n5你为什么要这样对我。\n6你爱过我吗。\n7我们之前不是这样的。\n8你不要我了吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850182516239396864",
+        "conversation_id": "1946927195827364191",
+        "created_at": "2025-07-20T13:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T14:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946927195827364191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946927195827364191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 48835,
+          "like_count": 809,
+          "quote_count": 28,
+          "reply_count": 61,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "自取其辱八件套\n1你为什么不理我。\n2你为什么不回我信息。\n3我们现在是什么关系。\n4不联系的这段时间你有想我吗。\n5你为什么要这样对我。\n6你爱过我吗。\n7我们之前不是这样的。\n8你不要我了吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4529,
+          "following_count": 214,
+          "like_count": 522,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 635
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T14:28:41.000Z",
+        "description": "不许视奸我。（我在视奸你👁️）",
+        "id": "1850182516239396864",
+        "name": "17",
+        "pinned_tweet_id": "1937420735494128017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944411683465605120/7qtpQPcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 17,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 317
+        },
+        "username": "PressRRRforRun",
+        "verified": false
+      }
+    ]
+  }
+}

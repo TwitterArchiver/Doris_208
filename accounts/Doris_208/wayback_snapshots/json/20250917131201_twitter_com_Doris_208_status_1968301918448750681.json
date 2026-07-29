@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1968301918448750681",
+    "created_at": "2025-09-17T13:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968301918448750681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1578745973202997249",
+          "start": 3,
+          "username": "eryiwanwan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968301918448750681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966171706357367247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eryiwanwan: 男人天生是骚货小狗的证据：\n1、被骂会爽\n2、第二性征裸露在体外\n3、容易发情 丧失理智 敏感度🆙\n4、第二性征被刺激容易红胀勃起\n5、天生拥有前列腺 适合艾草\n6、前后都可以爽\n7、喜欢被女生使用\n8、搭配玩具和qqny 更加淫荡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1968301918448750681",
+        "created_at": "2025-09-17T13:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968301918448750681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1578745973202997249",
+              "start": 3,
+              "username": "eryiwanwan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968301918448750681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966171706357367247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eryiwanwan: 男人天生是骚货小狗的证据：\n1、被骂会爽\n2、第二性征裸露在体外\n3、容易发情 丧失理智 敏感度🆙\n4、第二性征被刺激容易红胀勃起\n5、天生拥有前列腺 适合艾草\n6、前后都可以爽\n7、喜欢被女生使用\n8、搭配玩具和qqny 更加淫荡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578745973202997249",
+        "conversation_id": "1966171706357367247",
+        "created_at": "2025-09-11T16:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T17:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966171706357367247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966171706357367247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 88698,
+          "like_count": 1351,
+          "quote_count": 8,
+          "reply_count": 23,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "男人天生是骚货小狗的证据：\n1、被骂会爽\n2、第二性征裸露在体外\n3、容易发情 丧失理智 敏感度🆙\n4、第二性征被刺激容易红胀勃起\n5、天生拥有前列腺 适合艾草\n6、前后都可以爽\n7、喜欢被女生使用\n8、搭配玩具和qqny 更加淫荡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 229,
+          "like_count": 531,
+          "listed_count": 9,
+          "media_count": 61,
+          "tweet_count": 706
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T13:55:57.000Z",
+        "description": "女S / 4i 1i 不互 / 水瓶 entp / 带照私聊 / 我的开心 天下第一  /🎺：@debxurbbt /  匿名私信箱：https://t.co/MWsOIgCEkC / 推广自辨 / 蜂鸟vpn：https://t.co/ECkT6GcTZR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "debxurbbt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/eryiwanwan",
+                "end": 90,
+                "expanded_url": "https://ngl.link/eryiwanwan",
+                "start": 67,
+                "url": "https://t.co/MWsOIgCEkC"
+              },
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 129,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=xQ6ZYDXm",
+                "start": 106,
+                "url": "https://t.co/ECkT6GcTZR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbb.av8d002.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://bbb.av8d002.top/#/register?code=CIMU9uDt",
+                "start": 0,
+                "url": "https://t.co/rAVzNQ70KP"
+              }
+            ]
+          }
+        },
+        "id": "1578745973202997249",
+        "location": "优选机场：",
+        "name": "小妈不是妈",
+        "pinned_tweet_id": "1918643807043624988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931952994532413440/sSJp3BT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5088,
+          "following_count": 26,
+          "like_count": 2304,
+          "listed_count": 6,
+          "media_count": 151,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/rAVzNQ70KP",
+        "username": "eryiwanwan",
+        "verified": false
+      }
+    ]
+  }
+}

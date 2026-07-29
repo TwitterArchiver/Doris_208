@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1878038803669200896"
+      ]
+    },
+    "author_id": "1577453972482203648",
+    "conversation_id": "1878038823164400125",
+    "created_at": "2025-01-11T11:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T12:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878038823164400125"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "剑网三"
+        },
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "剑网3"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "剑三"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cvnTyIUONH",
+          "end": 49,
+          "expanded_url": "https://x.com/Doris_208/status/1878038823164400125/video/1",
+          "media_key": "7_1878038803669200896",
+          "start": 26,
+          "url": "https://t.co/cvnTyIUONH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878038823164400125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常好貂哥使我屁股旋转 #剑网三 #剑网3 #剑三 https://t.co/cvnTyIUONH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2962,
+        "height": 1280,
+        "media_key": "7_1878038803669200896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1878038803669200896/pu/img/KTxoeBOZUcqKZUZu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878038803669200896/pu/vid/avc1/320x568/VWRBtxN5AvuG7BYW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878038803669200896/pu/vid/avc1/480x852/hF5ldhaCjG4Y16zj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878038803669200896/pu/vid/avc1/720x1280/yDIIN6AUp7iOmNzN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1878038803669200896/pu/pl/8ggJzrmg2v5X2CiJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1878038803669200896"
+          ]
+        },
+        "author_id": "1577453972482203648",
+        "conversation_id": "1878038823164400125",
+        "created_at": "2025-01-11T11:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T12:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878038823164400125"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "剑网三"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "剑网3"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "剑三"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cvnTyIUONH",
+              "end": 49,
+              "expanded_url": "https://x.com/Doris_208/status/1878038823164400125/video/1",
+              "media_key": "7_1878038803669200896",
+              "start": 26,
+              "url": "https://t.co/cvnTyIUONH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878038823164400125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好貂哥使我屁股旋转 #剑网三 #剑网3 #剑三 https://t.co/cvnTyIUONH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 133,
+          "like_count": 438,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

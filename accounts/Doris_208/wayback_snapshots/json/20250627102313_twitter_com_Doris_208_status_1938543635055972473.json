@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1938468740733218858",
+    "created_at": "2025-06-27T10:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T11:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938543635055972473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851565657558773760",
+          "start": 0,
+          "username": "shuixing1234567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938543635055972473",
+    "in_reply_to_user_id": "1851565657558773760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938468740733218858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuixing1234567 凑凑的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_1938468605454319616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubS7RxaAAAHYH7.jpg",
+        "width": 1684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1938468740733218858",
+        "created_at": "2025-06-27T10:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938543635055972473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851565657558773760",
+              "start": 0,
+              "username": "shuixing1234567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938543635055972473",
+        "in_reply_to_user_id": "1851565657558773760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938468740733218858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuixing1234567 凑凑的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938468605454319616"
+          ]
+        },
+        "author_id": "1851565657558773760",
+        "conversation_id": "1938468740733218858",
+        "created_at": "2025-06-27T05:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T06:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938468740733218858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9UcFo2poH",
+              "end": 43,
+              "expanded_url": "https://x.com/shuixing1234567/status/1938468740733218858/photo/1",
+              "media_key": "3_1938468605454319616",
+              "start": 20,
+              "url": "https://t.co/s9UcFo2poH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938468740733218858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3510,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "锻炼完又要马上去上班了，澡都来不及洗😢 https://t.co/s9UcFo2poH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 202,
+          "like_count": 494,
+          "listed_count": 8,
+          "media_count": 56,
+          "tweet_count": 558
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T10:03:57.000Z",
+        "description": "",
+        "id": "1851565657558773760",
+        "name": "shuixing shuixing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920015747339976704/VD8bYTQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 291,
+          "like_count": 2323,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 412
+        },
+        "username": "shuixing1234567",
+        "verified": false
+      }
+    ]
+  }
+}

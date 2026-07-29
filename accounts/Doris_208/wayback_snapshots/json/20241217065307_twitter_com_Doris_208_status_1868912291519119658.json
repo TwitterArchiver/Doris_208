@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1868912291519119658",
+    "created_at": "2024-12-17T06:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T07:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868912291519119658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1844655613663649792",
+          "start": 3,
+          "username": "The_lost_0602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868912291519119658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866862491575390508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @The_lost_0602: 你是个缺爱的婊子\n\n你自私又贪心，固执又愚蠢，满嘴谎话，胆小怯懦，一边想要得到唯一的爱，一边又不能拒绝被更多人关心，不健全的心智让你四处求爱，任何人的怜悯你都来者不拒……你简直坏透了\n\n哭什么？……以为我要说让你滚？\n\n为什么要让你滚，我也…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1868912291519119658",
+        "created_at": "2024-12-17T06:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T07:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868912291519119658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1844655613663649792",
+              "start": 3,
+              "username": "The_lost_0602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868912291519119658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866862491575390508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @The_lost_0602: 你是个缺爱的婊子\n\n你自私又贪心，固执又愚蠢，满嘴谎话，胆小怯懦，一边想要得到唯一的爱，一边又不能拒绝被更多人关心，不健全的心智让你四处求爱，任何人的怜悯你都来者不拒……你简直坏透了\n\n哭什么？……以为我要说让你滚？\n\n为什么要让你滚，我也…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844655613663649792",
+        "conversation_id": "1866862491575390508",
+        "created_at": "2024-12-11T15:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T16:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866862491575390508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866862491575390508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6735,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你是个缺爱的婊子\n\n你自私又贪心，固执又愚蠢，满嘴谎话，胆小怯懦，一边想要得到唯一的爱，一边又不能拒绝被更多人关心，不健全的心智让你四处求爱，任何人的怜悯你都来者不拒……你简直坏透了\n\n哭什么？……以为我要说让你滚？\n\n为什么要让你滚，我也不是什么好人，我只是想说\n\n“那又如何，我爱你”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|负能量集中地|mental death|✟升天✟",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 49,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 190
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T08:25:56.000Z",
+        "description": "『男｜INTP｜DOM｜DDLG｜绿帽情结｜女绿男主｜精神虐待｜驯化｜病态的纯爱｜开放式性关系｜绝对控制｜斯德哥尔摩｜激烈的情感和灵魂碰撞才是性欲唯一的宣泄口｜文中的“她”仅为幻想角色，想认识我的话，喊一声“先生”就好……』或者https://t.co/cLwP0KqGAX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/the_lost_0602",
+                "end": 137,
+                "expanded_url": "https://ngl.link/the_lost_0602",
+                "start": 114,
+                "url": "https://t.co/cLwP0KqGAX"
+              }
+            ]
+          }
+        },
+        "id": "1844655613663649792",
+        "location": "触不可及",
+        "name": "执笔人",
+        "pinned_tweet_id": "1857263959830933655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848069747881242624/cx1Knm7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 40,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 308
+        },
+        "username": "The_lost_0602",
+        "verified": false
+      }
+    ]
+  }
+}

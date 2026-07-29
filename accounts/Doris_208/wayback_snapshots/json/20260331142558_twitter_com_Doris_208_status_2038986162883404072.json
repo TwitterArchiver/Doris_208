@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2038620943455813665",
+    "created_at": "2026-03-31T14:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038986162883404072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "810779795214581760",
+          "start": 0,
+          "username": "0b7cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038986162883404072",
+    "in_reply_to_user_id": "810779795214581760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038620943455813665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0b7cm 确实，和渣男一起玩真的很爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2038620943455813665",
+        "created_at": "2026-03-31T14:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038986162883404072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "810779795214581760",
+              "start": 0,
+              "username": "0b7cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038986162883404072",
+        "in_reply_to_user_id": "810779795214581760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038620943455813665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0b7cm 确实，和渣男一起玩真的很爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "810779795214581760",
+        "conversation_id": "2038620943455813665",
+        "created_at": "2026-03-30T14:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038620943455813665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038620943455813665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 56177,
+          "like_count": 328,
+          "quote_count": 0,
+          "reply_count": 62,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我跟你说，最好的交往对象就是要找渣男\n\n当这句话从我一个女性朋友嘴里讲出来的时候，我第一反应不是震惊，是想听她到底还能怎样刷新我三观。\n\n她说得很直接。\n渣男要颜值有颜值，\n要身材有身材，\n嘴巴甜、会撩、会哄，\n情绪价值给得又快又准，\n床上表现通常也不差。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5070,
+          "following_count": 290,
+          "like_count": 588,
+          "listed_count": 9,
+          "media_count": 45,
+          "tweet_count": 949
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "树洞、男生女生那些事、秘密を話せる場所、女子の本音、男女のあれこれ",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2038257642926453245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 1127,
+          "like_count": 3574,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 4304
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

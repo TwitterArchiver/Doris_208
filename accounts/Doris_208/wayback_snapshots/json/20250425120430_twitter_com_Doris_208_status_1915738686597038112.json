@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915738681165664256"
+      ]
+    },
+    "author_id": "1577453972482203648",
+    "conversation_id": "1915738686597038112",
+    "created_at": "2025-04-25T12:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T13:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915738686597038112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qMuU9uCvM7",
+          "end": 36,
+          "expanded_url": "https://x.com/Doris_208/status/1915738686597038112/photo/1",
+          "media_key": "3_1915738681165664256",
+          "start": 13,
+          "url": "https://t.co/qMuU9uCvM7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915738686597038112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再大的奶也奶不住沙壁队友 https://t.co/qMuU9uCvM7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915738686597038112].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915738686597038112",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915738686597038112"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915738681165664256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYSLjVa0AA-Omw.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 179,
+          "like_count": 448,
+          "listed_count": 8,
+          "media_count": 49,
+          "tweet_count": 433
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

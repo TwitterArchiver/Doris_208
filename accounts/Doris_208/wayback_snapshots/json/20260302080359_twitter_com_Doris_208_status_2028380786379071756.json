@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2028144034779128306",
+    "created_at": "2026-03-02T08:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028380786379071756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646433542661115904",
+          "start": 0,
+          "username": "Lanyinwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028380786379071756",
+    "in_reply_to_user_id": "1646433542661115904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028144034779128306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanyinwu 艾玛咋这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2028144034779128306",
+        "created_at": "2026-03-02T08:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028380786379071756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646433542661115904",
+              "start": 0,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028380786379071756",
+        "in_reply_to_user_id": "1646433542661115904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028144034779128306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanyinwu 艾玛咋这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646433542661115904",
+        "conversation_id": "2028144034779128306",
+        "created_at": "2026-03-01T16:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028144034779128306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028144034779128306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 81841,
+          "like_count": 610,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "俺不中了，和朋友约好时间坐两个小时高铁到了她的城市，发微信问她接下来怎么安排结果她和对象凿开了不回消息了，我就这样凌晨在路边吹风。太有生活了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "原✟花鳥風月✟|少od多do|哥哥文学",
+        "id": "1577453972482203648",
+        "name": "跟女友蒙眼玩4i发现进来的假牛有温度",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5224,
+          "following_count": 285,
+          "like_count": 594,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 945
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T08:42:08.000Z",
+        "description": "动物园园长",
+        "id": "1646433542661115904",
+        "name": "盛予",
+        "pinned_tweet_id": "2023435012025299427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945455357427400704/VCxXs25A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28420,
+          "following_count": 8,
+          "like_count": 3586,
+          "listed_count": 56,
+          "media_count": 175,
+          "tweet_count": 2173
+        },
+        "username": "Lanyinwu",
+        "verified": false
+      }
+    ]
+  }
+}

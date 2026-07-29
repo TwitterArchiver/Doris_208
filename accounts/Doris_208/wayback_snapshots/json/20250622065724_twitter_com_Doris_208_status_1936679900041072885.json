@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1936679900041072885",
+    "created_at": "2025-06-22T06:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T07:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936679900041072885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1734598399327088640",
+          "start": 3,
+          "username": "ln2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936679900041072885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936285688946893164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ln2umerical: 找男朋友一定要找一个长得帅的，一个会做饭的，一个白皮大奶的，一个声音好听的，一个嘴甜会哄人的，但是一定要注意，别让他们碰面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1936679900041072885",
+        "created_at": "2025-06-22T06:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936679900041072885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1734598399327088640",
+              "start": 3,
+              "username": "ln2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936679900041072885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936285688946893164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ln2umerical: 找男朋友一定要找一个长得帅的，一个会做饭的，一个白皮大奶的，一个声音好听的，一个嘴甜会哄人的，但是一定要注意，别让他们碰面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734598399327088640",
+        "conversation_id": "1936285688946893164",
+        "created_at": "2025-06-21T04:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936285688946893164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936285688946893164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 46907,
+          "like_count": 550,
+          "quote_count": 6,
+          "reply_count": 47,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "找男朋友一定要找一个长得帅的，一个会做饭的，一个白皮大奶的，一个声音好听的，一个嘴甜会哄人的，但是一定要注意，别让他们碰面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4500,
+          "following_count": 200,
+          "like_count": 490,
+          "listed_count": 9,
+          "media_count": 56,
+          "tweet_count": 542
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "07/男生/想到啥发啥/互关宝宝来加我v😽 /    \n畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN\nhttps://t.co/3t28hH2Mrc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 78,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=w0eaXhwD",
+                "start": 55,
+                "url": "https://t.co/3t28hH2Mrc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfr35"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北",
+        "pinned_tweet_id": "1930867043198554210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 166,
+          "like_count": 12585,
+          "listed_count": 7,
+          "media_count": 250,
+          "tweet_count": 6857
+        },
+        "url": "https://t.co/mZpOgIfr35",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

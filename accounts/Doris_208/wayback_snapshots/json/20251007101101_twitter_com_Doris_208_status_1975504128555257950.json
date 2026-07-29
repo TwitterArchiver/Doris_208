@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1975175936661495916",
+    "created_at": "2025-10-07T10:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T11:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975504128555257950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1502974146979897345",
+          "start": 0,
+          "username": "CurkHerli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975504128555257950",
+    "in_reply_to_user_id": "1502974146979897345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975481138543202440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CurkHerli 站街，纯挡道，挪一次五十"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1975175936661495916",
+        "created_at": "2025-10-07T10:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975504128555257950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1502974146979897345",
+              "start": 0,
+              "username": "CurkHerli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975504128555257950",
+        "in_reply_to_user_id": "1502974146979897345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975481138543202440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CurkHerli 站街，纯挡道，挪一次五十"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502974146979897345",
+        "conversation_id": "1975175936661495916",
+        "created_at": "2025-10-07T08:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T09:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975481138543202440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975481138543202440",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 722,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975175936661495916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 脏脏的洗手间就很有站街的感觉啊www 玛丽珍的小高跟虽然很优雅 但是吊带袜就又明目张胆的涩气了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5340,
+          "following_count": 243,
+          "like_count": 543,
+          "listed_count": 9,
+          "media_count": 64,
+          "tweet_count": 771
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T11:45:53.000Z",
+        "description": "嘴碎",
+        "id": "1502974146979897345",
+        "name": "邦邦就是两拳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975481690710519808/l0--Usyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 48,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "CurkHerli",
+        "verified": false
+      }
+    ]
+  }
+}

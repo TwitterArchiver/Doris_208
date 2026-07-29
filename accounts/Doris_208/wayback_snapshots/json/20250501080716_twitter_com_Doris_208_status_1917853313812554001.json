@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1917623244250833408",
+    "created_at": "2025-05-01T08:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T09:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917853313812554001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "753095033537126401",
+          "start": 0,
+          "username": "Mantou_naive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917853313812554001",
+    "in_reply_to_user_id": "753095033537126401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917623244250833408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mantou_naive 学习了，找谁用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1917623244250833408",
+        "created_at": "2025-05-01T08:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T09:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917853313812554001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "753095033537126401",
+              "start": 0,
+              "username": "Mantou_naive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917853313812554001",
+        "in_reply_to_user_id": "753095033537126401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917623244250833408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mantou_naive 学习了，找谁用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "753095033537126401",
+        "conversation_id": "1917623244250833408",
+        "created_at": "2025-04-30T16:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T17:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917623244250833408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917623244250833408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 151639,
+          "like_count": 819,
+          "quote_count": 9,
+          "reply_count": 37,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "本人打炮中高频词:\n1、你太大了好痛\n2、让我缓缓，不行了\n3、你他妈是不是吃药了\n4、真不做了求你放过我吧\n这几句话一说，男人就像打了鸡血一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4487,
+          "following_count": 181,
+          "like_count": 450,
+          "listed_count": 9,
+          "media_count": 51,
+          "tweet_count": 453
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-13T05:13:42.000Z",
+        "description": "🍌情趣抖m老板娘。 淘宝店：花椒馒头铺。🛰️微信商城小程序搜：花椒馒头铺。客服即本人。🥹推特发买家秀并艾特我都会转发~！淘宝店点下方链接可直达↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.tb.cn/c.0EisBn",
+                "end": 23,
+                "expanded_url": "https://s.tb.cn/c.0EisBn",
+                "start": 0,
+                "url": "https://t.co/o7gIYu7Rhj"
+              }
+            ]
+          }
+        },
+        "id": "753095033537126401",
+        "location": "刺激用品购买入口❤ ",
+        "name": "馒天真（飞机杯女王）",
+        "pinned_tweet_id": "1514265890812043269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676243081870606336/i85Ct0r7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509360,
+          "following_count": 380,
+          "like_count": 664,
+          "listed_count": 886,
+          "media_count": 544,
+          "tweet_count": 3279
+        },
+        "url": "https://t.co/o7gIYu7Rhj",
+        "username": "Mantou_naive",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

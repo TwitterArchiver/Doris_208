@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2050040528696226164",
+    "created_at": "2026-05-01T02:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T03:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050040528696226164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1330930491474800642",
+          "start": 3,
+          "username": "DDistanz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050040528696226164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049883260679836122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDistanz: 意识到你好像不再喜欢我的那一刻，心，有点裂开了。其实没有什么明确的分界线，只是从某一天开始，你回消息的时间慢慢被拉长，句子变短，那些原本会顺手分享的小事，也悄悄消失了。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2050040528696226164",
+        "created_at": "2026-05-01T02:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050040528696226164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1330930491474800642",
+              "start": 3,
+              "username": "DDistanz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050040528696226164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049883260679836122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDistanz: 意识到你好像不再喜欢我的那一刻，心，有点裂开了。其实没有什么明确的分界线，只是从某一天开始，你回消息的时间慢慢被拉长，句子变短，那些原本会顺手分享的小事，也悄悄消失了。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1330930491474800642",
+        "conversation_id": "2049883260679836122",
+        "created_at": "2026-04-30T16:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049883260679836122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049883260679836122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 253,
+                "start": 250,
+                "tag": "发呆"
+              }
+            ]
+          },
+          "text": "意识到你好像不再喜欢我的那一刻，心，有点裂开了。其实没有什么明确的分界线，只是从某一天开始，你回消息的时间慢慢被拉长，句子变短，那些原本会顺手分享的小事，也悄悄消失了。\n\n我还是会下意识地点开对话框，看一眼，又关掉。给你找过一些理由，忙、累、情绪不好之类的，像往一只已经漏水的杯子里加水，明知道装不满，还是想试一试。\n\n后来就不太想确认了。有些答案一旦被说出来，连最后一点可以假装的空间都会消失。于是我只是把手机放在一边，让时间自己往前走。那条裂缝也就跟着慢慢延伸，安静地存在着，好像本来就在那里。\n#发呆"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13662,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "意识到你好像不再喜欢我的那一刻，心，有点裂开了。其实没有什么明确的分界线，只是从某一天开始，你回消息的时间慢慢被拉长，句子变短，那些原本会顺手分享的小事，也悄悄消失了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "夏令营结束的那一天",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5026,
+          "following_count": 286,
+          "like_count": 606,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 987
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-23T17:46:24.000Z",
+        "description": "🇺🇸/4i+1i/❤️男神 ➡️@tii08635766 /没🚪不约不卖！不闲聊不闲聊不闲聊不闲聊不闲聊不闲聊不闲聊不闲聊！4i圈没有男妈妈我一退就是万年～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "tii08635766"
+              }
+            ]
+          }
+        },
+        "id": "1330930491474800642",
+        "name": "DeineDistanz",
+        "pinned_tweet_id": "2048760571307380957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942210890750668800/m81KHZbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 158,
+          "like_count": 15502,
+          "listed_count": 6,
+          "media_count": 356,
+          "tweet_count": 7154
+        },
+        "username": "DDistanz",
+        "verified": false
+      }
+    ]
+  }
+}

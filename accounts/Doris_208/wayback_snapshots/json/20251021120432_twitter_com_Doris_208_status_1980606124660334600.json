@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1980482857970827748",
+    "created_at": "2025-10-21T12:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980606124660334600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778896067171655680",
+          "start": 0,
+          "username": "Pop0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980606124660334600",
+    "in_reply_to_user_id": "1778896067171655680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980482857970827748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pop0v0 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_1980482849376436224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wWqJDWAAA5Pmp.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1980482857970827748",
+        "created_at": "2025-10-21T12:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980606124660334600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778896067171655680",
+              "start": 0,
+              "username": "Pop0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980606124660334600",
+        "in_reply_to_user_id": "1778896067171655680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980482857970827748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pop0v0 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980482849376436224"
+          ]
+        },
+        "author_id": "1778896067171655680",
+        "conversation_id": "1980482857970827748",
+        "created_at": "2025-10-21T03:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T04:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980482857970827748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ij7BFS8Mkk",
+              "end": 55,
+              "expanded_url": "https://x.com/Pop0v0/status/1980482857970827748/photo/1",
+              "media_key": "3_1980482849376436224",
+              "start": 32,
+              "url": "https://t.co/Ij7BFS8Mkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980482857970827748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 48556,
+          "like_count": 256,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劳碌了一上午，好不容易回到寝室 躺在床上看到这种私信一下天塌了 https://t.co/Ij7BFS8Mkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5696,
+          "following_count": 269,
+          "like_count": 580,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 831
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T21:20:57.000Z",
+        "description": "人就是这样说变就变💤盗图存图替我挡灾，有就删掉哦😊",
+        "id": "1778896067171655680",
+        "name": "鱿鱼男主",
+        "pinned_tweet_id": "1979561751990730806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979564121575092225/ZE2HDvj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 211,
+          "like_count": 10287,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 76
+        },
+        "username": "Pop0v0",
+        "verified": false
+      }
+    ]
+  }
+}

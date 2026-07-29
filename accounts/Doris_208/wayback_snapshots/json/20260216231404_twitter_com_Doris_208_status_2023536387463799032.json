@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2023305211230802031",
+    "created_at": "2026-02-16T23:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T00:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023536387463799032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1182696599216103425",
+          "start": 0,
+          "username": "Abubaka43311470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023536387463799032",
+    "in_reply_to_user_id": "1182696599216103425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023305211230802031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Abubaka43311470 人类对于性癖的开发程度不足1%"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_2023305197205000192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQ5W1-bEAAT4I-.jpg",
+        "width": 1134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2023305211230802031",
+        "created_at": "2026-02-16T23:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T00:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023536387463799032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1182696599216103425",
+              "start": 0,
+              "username": "Abubaka43311470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023536387463799032",
+        "in_reply_to_user_id": "1182696599216103425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023305211230802031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abubaka43311470 人类对于性癖的开发程度不足1%"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023305197205000192"
+          ]
+        },
+        "author_id": "1182696599216103425",
+        "conversation_id": "2023305211230802031",
+        "created_at": "2026-02-16T07:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023305211230802031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKfmS7dqcl",
+              "end": 31,
+              "expanded_url": "https://x.com/Abubaka43311470/status/2023305211230802031/photo/1",
+              "media_key": "3_2023305197205000192",
+              "start": 8,
+              "url": "https://t.co/iKfmS7dqcl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023305211230802031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 211609,
+          "like_count": 318,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "没想到还有高手 https://t.co/iKfmS7dqcl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "少od多do",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5233,
+          "following_count": 276,
+          "like_count": 583,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 914
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-11T16:37:21.000Z",
+        "description": "爱的尽头藏在裙摆下｜抽象研究｜乖到让你戒不掉🖤",
+        "id": "1182696599216103425",
+        "name": "十一s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016434283846737920/Oz1JMKuJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45180,
+          "following_count": 1660,
+          "like_count": 1062,
+          "listed_count": 54,
+          "media_count": 53,
+          "tweet_count": 377
+        },
+        "username": "Abubaka43311470",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1884455175538237514",
+    "created_at": "2025-01-29T08:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T09:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884514940452561256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797882215747158016",
+          "start": 0,
+          "username": "sharingurself"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884514940452561256",
+    "in_reply_to_user_id": "1797882215747158016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884455175538237514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sharingurself 这我趴下接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1884455175538237514",
+        "created_at": "2025-01-29T08:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T09:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884514940452561256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797882215747158016",
+              "start": 0,
+              "username": "sharingurself"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884514940452561256",
+        "in_reply_to_user_id": "1797882215747158016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884455175538237514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharingurself 这我趴下接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797882215747158016",
+        "conversation_id": "1884455175538237514",
+        "created_at": "2025-01-29T04:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T05:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884455175538237514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884455175538237514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 19880,
+          "like_count": 122,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在已经到了看到情侣间的大额转账不会嫉妒的地步 因为叔叔一下在我身上花了一百多万 够每年发9999的红包发一百多年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 164,
+          "like_count": 443,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T06:45:17.000Z",
+        "description": "",
+        "id": "1797882215747158016",
+        "name": "再来个圣代吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840069648190210048/Lcs89aiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9411,
+          "following_count": 56,
+          "like_count": 1730,
+          "listed_count": 30,
+          "media_count": 511,
+          "tweet_count": 2948
+        },
+        "username": "sharingurself",
+        "verified": false
+      }
+    ]
+  }
+}

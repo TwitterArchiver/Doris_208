@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1869017272016421246",
+    "created_at": "2024-12-17T13:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T14:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869017272016421246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1440121578721710086",
+          "start": 3,
+          "username": "xianyinjun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869017272016421246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869016110542340359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xianyinjun: 圣诞节出租地雷女，提供一天伴侣服务，包天200r  主要有以下业务：\n1、早上叫起床\n2、中午怀疑你出轨\n3、下午对你阴阳怪气\n4、晚上开始冷暴力\n5、十二点过说分手\n6、一点来捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1869017272016421246",
+        "created_at": "2024-12-17T13:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T14:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869017272016421246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1440121578721710086",
+              "start": 3,
+              "username": "xianyinjun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869017272016421246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869016110542340359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xianyinjun: 圣诞节出租地雷女，提供一天伴侣服务，包天200r  主要有以下业务：\n1、早上叫起床\n2、中午怀疑你出轨\n3、下午对你阴阳怪气\n4、晚上开始冷暴力\n5、十二点过说分手\n6、一点来捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440121578721710086",
+        "conversation_id": "1869016110542340359",
+        "created_at": "2024-12-17T13:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T14:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869016110542340359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869016110542340359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "圣诞节出租地雷女，提供一天伴侣服务，包天200r  主要有以下业务：\n1、早上叫起床\n2、中午怀疑你出轨\n3、下午对你阴阳怪气\n4、晚上开始冷暴力\n5、十二点过说分手\n6、一点来捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|负能量集中地|mental death|✟升天✟",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 54,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 192
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T01:12:09.000Z",
+        "description": "剑三死鱼玩家|genderqueer|The only @HxRR_Limes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "HxRR_Limes"
+              }
+            ]
+          }
+        },
+        "id": "1440121578721710086",
+        "location": "青龙山皇家疗养院",
+        "name": "琴音共鸣",
+        "pinned_tweet_id": "1696776849748291773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656432787887644672/8qo6vxE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 456,
+          "like_count": 6715,
+          "listed_count": 15,
+          "media_count": 269,
+          "tweet_count": 5691
+        },
+        "username": "xianyinjun",
+        "verified": false
+      }
+    ]
+  }
+}

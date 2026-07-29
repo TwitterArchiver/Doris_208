@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866803024225767431"
+      ]
+    },
+    "author_id": "1577453972482203648",
+    "conversation_id": "1866803035168809354",
+    "created_at": "2024-12-11T11:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T12:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866803035168809354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/29c3nh5XKy",
+          "end": 38,
+          "expanded_url": "https://x.com/Doris_208/status/1866803035168809354/photo/1",
+          "media_key": "3_1866803024225767431",
+          "start": 15,
+          "url": "https://t.co/29c3nh5XKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866803035168809354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跳蛋连接大脑，震动代替思考🥵 https://t.co/29c3nh5XKy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1866803035168809354].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1866803035168809354",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1866803035168809354"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1866803024225767431",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Geg3dbSaEAcCGak.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|我宣布毒姐是先天涩涩圣体|无意义幻想|负能量集中地|mental death|✟升天✟",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 14,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 170
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

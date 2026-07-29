@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2045137258072969322",
+    "created_at": "2026-04-18T07:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045400762965197087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028681975129853952",
+          "start": 0,
+          "username": "Graceruansu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045400762965197087",
+    "in_reply_to_user_id": "2028681975129853952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045137258072969322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Graceruansu 要想生活过得去，头上哪能没点绿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2045137258072969322",
+        "created_at": "2026-04-18T07:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045400762965197087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028681975129853952",
+              "start": 0,
+              "username": "Graceruansu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045400762965197087",
+        "in_reply_to_user_id": "2028681975129853952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045137258072969322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Graceruansu 要想生活过得去，头上哪能没点绿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028681975129853952",
+        "conversation_id": "2045137258072969322",
+        "created_at": "2026-04-17T13:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045137258072969322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045137258072969322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我对我老公能包容到什么程度呢？\n\n他跟我说今天跟哥们出去喝酒\n\n我刚刚加班结束，鬼使神差的提前一站下车\n\n路过一家饭店的时候我看见一个熟悉的身影\n\n我老公\n\n对面坐着的不是他哥们\n\n是一个女人\n\n我顿了几秒钟，然后向后退了几步\n\n那个角度刚好是我能看见他们\n\n但他们看不见我\n\n那个女人看上去大概30岁左右，瘦瘦的，眼睛很大，妆容淡淡的，但是感觉很精致，一看就是平常保养的很好\n\n穿着职业连衣裙，看上去得体大方\n\n蛮好\n\n输给这样的女人不丢脸\n\n我默默转身退回到前一个交通岗，过马路，绕一圈回家\n\n现在在梳妆台前发这条推特\n\n你问我什么心情\n\n好像没什么心情，很平静\n\n等他回来的时候，我也会当作什么都没发生\n\n明天继续起床、做饭、收拾家务···"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 24164,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对我老公能包容到什么程度呢？\n\n他跟我说今天跟哥们出去喝酒\n\n我刚刚加班结束，鬼使神差的提前一站下车\n\n路过一家饭店的时候我看见一个熟悉的身影\n\n我老公\n\n对面坐着的不是他哥们\n\n是一个女人\n\n我顿了几秒钟，然后向后退了几步\n\n那个角度刚好是我能看见他们\n\n但他们看不见我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "夏令营结束的那一天",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4925,
+          "following_count": 283,
+          "like_count": 604,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 974
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T04:04:03.000Z",
+        "description": "《人夫约会指南》作者\n两性咨询 私信（注重隐私）",
+        "id": "2028681975129853952",
+        "name": "软苏格拉底",
+        "pinned_tweet_id": "2039974367300571577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035738406588940291/FfggSf2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5697,
+          "following_count": 346,
+          "like_count": 3769,
+          "listed_count": 18,
+          "media_count": 155,
+          "tweet_count": 5830
+        },
+        "username": "Graceruansu",
+        "verified": true
+      }
+    ]
+  }
+}

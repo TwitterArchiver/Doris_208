@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1982226258961346999",
+    "created_at": "2025-10-25T23:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T00:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982226258961346999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1671288974848020482",
+          "start": 3,
+          "username": "Rose_patien"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982226258961346999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 243
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965625369765269693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rose_patien: switch和switch就是很无敌啊。上一秒还在可怜巴巴眼泪汪汪看着你喊主人的狗下一秒就要掐住你的脖子用手指玩弄你的舌头🚬边do还要边恶劣地问妈咪怎么变成我的小狗了，是因为被我服务的很爽吗🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1982226258961346999",
+        "created_at": "2025-10-25T23:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T00:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982226258961346999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1671288974848020482",
+              "start": 3,
+              "username": "Rose_patien"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982226258961346999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 243
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965625369765269693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rose_patien: switch和switch就是很无敌啊。上一秒还在可怜巴巴眼泪汪汪看着你喊主人的狗下一秒就要掐住你的脖子用手指玩弄你的舌头🚬边do还要边恶劣地问妈咪怎么变成我的小狗了，是因为被我服务的很爽吗🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671288974848020482",
+        "conversation_id": "1965625369765269693",
+        "created_at": "2025-09-10T03:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T04:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965625369765269693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965625369765269693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 494572,
+          "like_count": 2664,
+          "quote_count": 88,
+          "reply_count": 138,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "switch和switch就是很无敌啊。上一秒还在可怜巴巴眼泪汪汪看着你喊主人的狗下一秒就要掐住你的脖子用手指玩弄你的舌头🚬边do还要边恶劣地问妈咪怎么变成我的小狗了，是因为被我服务的很爽吗🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5681,
+          "following_count": 271,
+          "like_count": 586,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 849
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T22:48:48.000Z",
+        "description": "梦想变成一只猫",
+        "id": "1671288974848020482",
+        "name": "rose patient",
+        "pinned_tweet_id": "1952735506929721706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863821984846708736/0mqSVMkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 36,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 626
+        },
+        "username": "Rose_patien",
+        "verified": false
+      }
+    ]
+  }
+}

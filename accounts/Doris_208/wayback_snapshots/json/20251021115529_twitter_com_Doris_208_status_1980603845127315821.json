@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1980603845127315821",
+    "created_at": "2025-10-21T11:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T12:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980603845127315821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1734598399327088640",
+          "start": 3,
+          "username": "ln2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980603845127315821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980260868924571925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ln2umerical: 我恨这个世界所有不搞纯爱的傻逼，谈恋爱被你们谈的像上厕所一样随便，把原本单纯善良的人都变得不敢轻易尝试恋爱，在这个社会搞纯爱的像他妈叶问赤手空拳去参加二战一样搞笑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1980603845127315821",
+        "created_at": "2025-10-21T11:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980603845127315821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1734598399327088640",
+              "start": 3,
+              "username": "ln2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980603845127315821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980260868924571925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ln2umerical: 我恨这个世界所有不搞纯爱的傻逼，谈恋爱被你们谈的像上厕所一样随便，把原本单纯善良的人都变得不敢轻易尝试恋爱，在这个社会搞纯爱的像他妈叶问赤手空拳去参加二战一样搞笑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734598399327088640",
+        "conversation_id": "1980260868924571925",
+        "created_at": "2025-10-20T13:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980260868924571925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980260868924571925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 72609,
+          "like_count": 852,
+          "quote_count": 11,
+          "reply_count": 59,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "我恨这个世界所有不搞纯爱的傻逼，谈恋爱被你们谈的像上厕所一样随便，把原本单纯善良的人都变得不敢轻易尝试恋爱，在这个社会搞纯爱的像他妈叶问赤手空拳去参加二战一样搞笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5696,
+          "following_count": 269,
+          "like_count": 580,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 829
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "养胃男/恩师lii @Lillcuainil /纯净版@ln2umerical1\n\n年卡12r自用VPN\nhttps://t.co/kZHn0UT8e4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Lillcuainil"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "ln2umerical1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "性价比机场.com/#/register?cod…",
+                "end": 76,
+                "expanded_url": "https://xn--6nq44r2uh9rhj7f.com/#/register?code=gsLtgWTi",
+                "start": 53,
+                "url": "https://t.co/kZHn0UT8e4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfr35"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北（恩师lii）",
+        "pinned_tweet_id": "1980574460383252774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11081,
+          "following_count": 303,
+          "like_count": 38351,
+          "listed_count": 15,
+          "media_count": 503,
+          "tweet_count": 25941
+        },
+        "url": "https://t.co/mZpOgIfr35",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

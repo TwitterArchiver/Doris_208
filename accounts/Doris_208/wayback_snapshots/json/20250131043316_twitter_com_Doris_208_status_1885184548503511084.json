@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1885184548503511084",
+    "created_at": "2025-01-31T04:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T05:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885184548503511084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842069559123312642",
+          "start": 3,
+          "username": "butaijiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885184548503511084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884611191894614148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @butaijiu: 亚洲人床上一辈子爱被叫“乖宝宝”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1885184548503511084",
+        "created_at": "2025-01-31T04:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T05:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885184548503511084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842069559123312642",
+              "start": 3,
+              "username": "butaijiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885184548503511084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884611191894614148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @butaijiu: 亚洲人床上一辈子爱被叫“乖宝宝”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842069559123312642",
+        "conversation_id": "1884611191894614148",
+        "created_at": "2025-01-29T14:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T15:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884611191894614148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884611191894614148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 132477,
+          "like_count": 1250,
+          "quote_count": 23,
+          "reply_count": 37,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "亚洲人床上一辈子爱被叫“乖宝宝”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 165,
+          "like_count": 443,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T05:10:00.000Z",
+        "description": "🐱&🐶les 0.1 自录视频都在这里哦～https://t.co/anaEyeerri",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pan.quark.cn/s/578ff00aa67c",
+                "end": 44,
+                "expanded_url": "http://pan.quark.cn/s/578ff00aa67c",
+                "start": 21,
+                "url": "https://t.co/anaEyeerri"
+              }
+            ]
+          }
+        },
+        "id": "1842069559123312642",
+        "location": "🚪9-9999",
+        "name": "真的好啊好啊",
+        "pinned_tweet_id": "1876134706745675944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870524138647150592/X6sQNpyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9074,
+          "following_count": 209,
+          "like_count": 910,
+          "listed_count": 9,
+          "media_count": 47,
+          "tweet_count": 375
+        },
+        "username": "butaijiu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1869722582909648966",
+    "created_at": "2024-12-19T12:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T13:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869722582909648966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1637069906834333698",
+          "start": 3,
+          "username": "brokenplenty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869722582909648966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869312703111782909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @brokenplenty: 宝宝你这辈子得到了很多空头支票，小时候爸妈答应买的玩具，和朋友的约定好的旅行，恋人口中的永远，没有一个兑现，你也清楚且明白这是一个永恒的谎言，可每次你还是栽跟头。\n这么笨的我知道绝非只有我一个。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1869722582909648966",
+        "created_at": "2024-12-19T12:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T13:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869722582909648966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1637069906834333698",
+              "start": 3,
+              "username": "brokenplenty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869722582909648966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869312703111782909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @brokenplenty: 宝宝你这辈子得到了很多空头支票，小时候爸妈答应买的玩具，和朋友的约定好的旅行，恋人口中的永远，没有一个兑现，你也清楚且明白这是一个永恒的谎言，可每次你还是栽跟头。\n这么笨的我知道绝非只有我一个。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637069906834333698",
+        "conversation_id": "1869312703111782909",
+        "created_at": "2024-12-18T09:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T10:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869312703111782909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869312703111782909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 36211,
+          "like_count": 637,
+          "quote_count": 14,
+          "reply_count": 32,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你这辈子得到了很多空头支票，小时候爸妈答应买的玩具，和朋友的约定好的旅行，恋人口中的永远，没有一个兑现，你也清楚且明白这是一个永恒的谎言，可每次你还是栽跟头。\n这么笨的我知道绝非只有我一个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|负能量集中地|mental death|✟升天✟|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 62,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T12:34:39.000Z",
+        "description": "我的眼角流著名為你的淚。||🚫搬运@brokenplenty7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "brokenplenty7"
+              }
+            ]
+          }
+        },
+        "id": "1637069906834333698",
+        "location": "小p/p酱/普兰提       泛",
+        "name": "plenty",
+        "pinned_tweet_id": "1864311189309935950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867969286935052288/xHhSjZ96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28563,
+          "following_count": 173,
+          "like_count": 7844,
+          "listed_count": 78,
+          "media_count": 994,
+          "tweet_count": 13436
+        },
+        "username": "brokenplenty",
+        "verified": false
+      }
+    ]
+  }
+}

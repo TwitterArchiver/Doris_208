@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1936022134176010622",
+    "created_at": "2025-06-21T08:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T09:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936338589656518767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1118583356092903424",
+          "start": 0,
+          "username": "Ts07212598"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936338589656518767",
+    "in_reply_to_user_id": "1118583356092903424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936022134176010622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ts07212598 超市你😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_1936022128459124736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4h3kwaEAAXV6K.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1936022134176010622",
+        "created_at": "2025-06-21T08:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T09:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936338589656518767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1118583356092903424",
+              "start": 0,
+              "username": "Ts07212598"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936338589656518767",
+        "in_reply_to_user_id": "1118583356092903424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936022134176010622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ts07212598 超市你😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936022128459124736"
+          ]
+        },
+        "author_id": "1118583356092903424",
+        "conversation_id": "1936022134176010622",
+        "created_at": "2025-06-20T11:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T12:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936022134176010622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9eGFiMMyHK",
+              "end": 51,
+              "expanded_url": "https://x.com/Ts07212598/status/1936022134176010622/photo/1",
+              "media_key": "3_1936022128459124736",
+              "start": 28,
+              "url": "https://t.co/9eGFiMMyHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936022134176010622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1075,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "警惕一些说爱你的人 因为你根本不知道他其实是想超死你😋 https://t.co/9eGFiMMyHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4498,
+          "following_count": 197,
+          "like_count": 486,
+          "listed_count": 9,
+          "media_count": 56,
+          "tweet_count": 534
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-17T18:33:49.000Z",
+        "description": "xp系统十分发达 主攻无下限的辱骂调教 想被催眠辱骂中出调教放置下药强奸奴隶化物品化的母猪鸡巴套子们 与其扭动你的屁股看着别人的聊天记录抽搐着抠你的飞机杯穴 不如私聊给我让我用你好好套弄鸡巴（自带剧情或者想要的结果更佳）",
+        "id": "1118583356092903424",
+        "location": "肉畜垫子脸上",
+        "name": "Ts",
+        "pinned_tweet_id": "1570381551644610560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721656716587401217/i3RU9tUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7915,
+          "following_count": 3393,
+          "like_count": 5170,
+          "listed_count": 56,
+          "media_count": 485,
+          "tweet_count": 3755
+        },
+        "username": "Ts07212598",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1993088796708262326",
+    "created_at": "2025-11-24T22:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T23:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993088796708262326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1910951519555641345",
+          "start": 3,
+          "username": "Vanilla_CakeR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993088796708262326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992823402894356879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vanilla_CakeR: 好想牵手拥抱接吻做爱，两个人一直黏在一块说些小情侣话一直咪咪喵喵聊些幼稚幻想，有谁能给我一个天天说爱你的机会。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1993088796708262326",
+        "created_at": "2025-11-24T22:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T23:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993088796708262326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1910951519555641345",
+              "start": 3,
+              "username": "Vanilla_CakeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993088796708262326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992823402894356879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vanilla_CakeR: 好想牵手拥抱接吻做爱，两个人一直黏在一块说些小情侣话一直咪咪喵喵聊些幼稚幻想，有谁能给我一个天天说爱你的机会。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910951519555641345",
+        "conversation_id": "1992823402894356879",
+        "created_at": "2025-11-24T05:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992823402894356879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992823402894356879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 31713,
+          "like_count": 324,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "好想牵手拥抱接吻做爱，两个人一直黏在一块说些小情侣话一直咪咪喵喵聊些幼稚幻想，有谁能给我一个天天说爱你的机会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5578,
+          "following_count": 279,
+          "like_count": 615,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 898
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T07:02:23.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vanilla_caker2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vanilla_caker2",
+                "start": 0,
+                "url": "https://t.co/bMmkImy2oS"
+              }
+            ]
+          }
+        },
+        "id": "1910951519555641345",
+        "location": "🚪",
+        "name": "薄巧芙芙",
+        "pinned_tweet_id": "1992510147621748801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979923703744835585/NDyQF7G5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24188,
+          "following_count": 195,
+          "like_count": 10189,
+          "listed_count": 85,
+          "media_count": 116,
+          "tweet_count": 4696
+        },
+        "url": "https://t.co/bMmkImy2oS",
+        "username": "Vanilla_CakeR",
+        "verified": false
+      }
+    ]
+  }
+}

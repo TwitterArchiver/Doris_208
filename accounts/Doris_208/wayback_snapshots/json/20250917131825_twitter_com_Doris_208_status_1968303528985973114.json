@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1968063056182935764",
+    "created_at": "2025-09-17T13:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968303528985973114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1642466956988104704",
+          "start": 0,
+          "username": "Yx77n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968303528985973114",
+    "in_reply_to_user_id": "1642466956988104704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968063056182935764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yx77n 我真破防了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1968063056182935764",
+        "created_at": "2025-09-17T13:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968303528985973114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1642466956988104704",
+              "start": 0,
+              "username": "Yx77n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968303528985973114",
+        "in_reply_to_user_id": "1642466956988104704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968063056182935764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yx77n 我真破防了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642466956988104704",
+        "conversation_id": "1968063056182935764",
+        "created_at": "2025-09-16T21:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T22:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968063056182935764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968063056182935764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5470,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人真的喜欢你你就像超市的试吃点心路过的人都会尝一下但没人真的为你买单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 229,
+          "like_count": 531,
+          "listed_count": 9,
+          "media_count": 61,
+          "tweet_count": 707
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T10:00:29.000Z",
+        "description": "🇩🇪|直男|不四爱|只有這一個賬號 其他偷我圖和視頻的|盗我图的人替我挡灾|打瓦可以",
+        "id": "1642466956988104704",
+        "name": "德国直男",
+        "pinned_tweet_id": "1839758483492585620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719179051829518336/MEowFMHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40939,
+          "following_count": 198,
+          "like_count": 14428,
+          "listed_count": 188,
+          "media_count": 59,
+          "tweet_count": 2065
+        },
+        "username": "Yx77n",
+        "verified": false
+      }
+    ]
+  }
+}

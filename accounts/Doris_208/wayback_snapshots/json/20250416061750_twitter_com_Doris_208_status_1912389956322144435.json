@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1912343656390095082",
+    "created_at": "2025-04-16T06:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T07:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912389956322144435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1433678462032617475",
+          "start": 0,
+          "username": "nolittlebear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912389956322144435",
+    "in_reply_to_user_id": "1433678462032617475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912343656390095082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nolittlebear 让我看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1912343656390095082",
+        "created_at": "2025-04-16T06:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T07:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912389956322144435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1433678462032617475",
+              "start": 0,
+              "username": "nolittlebear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912389956322144435",
+        "in_reply_to_user_id": "1433678462032617475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912343656390095082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nolittlebear 让我看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433678462032617475",
+        "conversation_id": "1912343656390095082",
+        "created_at": "2025-04-16T03:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T04:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912343656390095082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912343656390095082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2230,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有两张牛子的照片拍的很惊人，每次看到我都会感慨他妈的要是我真有这么粗这么长就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 176,
+          "like_count": 442,
+          "listed_count": 8,
+          "media_count": 48,
+          "tweet_count": 410
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:29:28.000Z",
+        "description": "叫我小熊就好，欢迎找我问问题https://t.co/5dVfvSVjvB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nolittlebear78…",
+                "end": 37,
+                "expanded_url": "https://ngl.link/nolittlebear78260",
+                "start": 14,
+                "url": "https://t.co/5dVfvSVjvB"
+              }
+            ]
+          }
+        },
+        "id": "1433678462032617475",
+        "location": "距离你114.514km",
+        "name": "熊某人日记",
+        "pinned_tweet_id": "1905492391072592368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903045300941619200/n9NoijGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10065,
+          "following_count": 876,
+          "like_count": 12059,
+          "listed_count": 23,
+          "media_count": 1665,
+          "tweet_count": 16733
+        },
+        "username": "nolittlebear",
+        "verified": false
+      }
+    ]
+  }
+}

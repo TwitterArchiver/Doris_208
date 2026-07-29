@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1976628450921418853",
+    "created_at": "2025-10-10T23:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T00:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976794520370205048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1474251349919289346",
+          "start": 0,
+          "username": "mingjianyeying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976794520370205048",
+    "in_reply_to_user_id": "1474251349919289346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976691914813694293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingjianyeying 我也知道家用脱毛仪不咋地，要是能把美容院价格谈下来就去做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1976628450921418853",
+        "created_at": "2025-10-10T23:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T00:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976794520370205048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1474251349919289346",
+              "start": 0,
+              "username": "mingjianyeying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976794520370205048",
+        "in_reply_to_user_id": "1474251349919289346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976691914813694293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingjianyeying 我也知道家用脱毛仪不咋地，要是能把美容院价格谈下来就去做"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474251349919289346",
+        "conversation_id": "1976628450921418853",
+        "created_at": "2025-10-10T16:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976691914813694293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976691914813694293",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976628450921418853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 别买都不如去美容院，我看他们测评小猫安妮那个比市场上家用的功率大，结果买回来也就那样还好贵，都不如上几趟美容院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5748,
+          "following_count": 257,
+          "like_count": 557,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 807
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-24T05:31:38.000Z",
+        "description": "1",
+        "id": "1474251349919289346",
+        "name": "骨喰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916549822401961984/jlMPy1i7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 222,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "mingjianyeying",
+        "verified": false
+      }
+    ]
+  }
+}

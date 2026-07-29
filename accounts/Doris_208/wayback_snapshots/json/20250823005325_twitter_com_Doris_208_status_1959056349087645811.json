@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1958506328328114245",
+    "created_at": "2025-08-23T00:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T01:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959056349087645811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1456239176827944965",
+          "start": 0,
+          "username": "biantaishark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959056349087645811",
+    "in_reply_to_user_id": "1456239176827944965",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958506328328114245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biantaishark 男娘好男娘妙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1958506328328114245",
+        "created_at": "2025-08-23T00:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T01:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959056349087645811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1456239176827944965",
+              "start": 0,
+              "username": "biantaishark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959056349087645811",
+        "in_reply_to_user_id": "1456239176827944965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958506328328114245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biantaishark 男娘好男娘妙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456239176827944965",
+        "conversation_id": "1958506328328114245",
+        "created_at": "2025-08-21T12:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958506328328114245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958506328328114245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8259,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一段时间没有健身了，肌肉都萎缩了，洗澡的时候照镜子看了一眼发现变成了超绝男娘身材长发男，抱头痛哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4500,
+          "following_count": 219,
+          "like_count": 530,
+          "listed_count": 8,
+          "media_count": 60,
+          "tweet_count": 687
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:37:45.000Z",
+        "description": "极端、田园、纳粹、自闭",
+        "id": "1456239176827944965",
+        "location": "上海",
+        "name": "徐小樱🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948005750963679232/JgaI2KFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38215,
+          "following_count": 1146,
+          "like_count": 1039,
+          "listed_count": 123,
+          "media_count": 1531,
+          "tweet_count": 20607
+        },
+        "username": "biantaishark",
+        "verified": false
+      }
+    ]
+  }
+}

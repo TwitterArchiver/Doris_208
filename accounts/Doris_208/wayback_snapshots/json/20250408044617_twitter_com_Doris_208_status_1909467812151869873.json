@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1909467812151869873",
+    "created_at": "2025-04-08T04:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T05:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909467812151869873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880108847953747968",
+          "start": 3,
+          "username": "bing111330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909467812151869873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908908396411301961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bing111330: 我很执着于眼镜男的原因是眼镜一摘就知道要亲嘴了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1909467812151869873",
+        "created_at": "2025-04-08T04:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T05:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909467812151869873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880108847953747968",
+              "start": 3,
+              "username": "bing111330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909467812151869873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908908396411301961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bing111330: 我很执着于眼镜男的原因是眼镜一摘就知道要亲嘴了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880108847953747968",
+        "conversation_id": "1908908396411301961",
+        "created_at": "2025-04-06T15:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908908396411301961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908908396411301961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 156690,
+          "like_count": 1757,
+          "quote_count": 51,
+          "reply_count": 116,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "我很执着于眼镜男的原因是眼镜一摘就知道要亲嘴了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "恶毒的花嫁",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4446,
+          "following_count": 175,
+          "like_count": 438,
+          "listed_count": 9,
+          "media_count": 48,
+          "tweet_count": 401
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:24:41.000Z",
+        "description": "碎碎念📝皮下也是个萌面侠 @lan_zhai003互关小宝宝进😚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "lan_zhai003"
+              }
+            ]
+          }
+        },
+        "id": "1880108847953747968",
+        "name": "症懒宅",
+        "pinned_tweet_id": "1900901179921445093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880110463847133184/3hTAldsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 249,
+          "like_count": 9373,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 6121
+        },
+        "username": "bing111330",
+        "verified": false
+      }
+    ]
+  }
+}

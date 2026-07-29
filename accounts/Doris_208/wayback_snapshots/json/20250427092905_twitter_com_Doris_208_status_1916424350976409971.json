@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1916424350976409971",
+    "created_at": "2025-04-27T09:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T10:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916424350976409971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhou4zhou8/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/zhou4zhou8/status/1916320578577043610",
+          "start": 27,
+          "url": "https://t.co/Yv6EVzG6wG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916424350976409971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916320578577043610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😡👊我也要我也要甜甜的恋爱疯狂的性生活什么时候才有😭 https://t.co/Yv6EVzG6wG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1916424350976409971",
+        "created_at": "2025-04-27T09:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T10:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916424350976409971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhou4zhou8/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/zhou4zhou8/status/1916320578577043610",
+              "start": 27,
+              "url": "https://t.co/Yv6EVzG6wG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916424350976409971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916320578577043610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😡👊我也要我也要甜甜的恋爱疯狂的性生活什么时候才有😭 https://t.co/Yv6EVzG6wG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563817828653809665",
+        "conversation_id": "1916320578577043610",
+        "created_at": "2025-04-27T02:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T03:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916320578577043610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916320578577043610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 649,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谈恋爱：\n甜甜的恋爱终于轮到我了 x\n疯狂的性生活马上要展开了 √"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4484,
+          "following_count": 180,
+          "like_count": 449,
+          "listed_count": 8,
+          "media_count": 51,
+          "tweet_count": 446
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T09:16:48.000Z",
+        "description": "↑正在扮演可爱的家伙（不爱回私信）",
+        "id": "1563817828653809665",
+        "name": "满月",
+        "pinned_tweet_id": "1899621219026239629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902363499529228288/x3Z4Q8Jx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 73,
+          "like_count": 479,
+          "listed_count": 8,
+          "media_count": 124,
+          "tweet_count": 701
+        },
+        "username": "zhou4zhou8",
+        "verified": false
+      }
+    ]
+  }
+}

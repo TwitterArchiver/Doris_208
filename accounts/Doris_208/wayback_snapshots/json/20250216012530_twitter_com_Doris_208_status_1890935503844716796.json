@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1890706199668040165",
+    "created_at": "2025-02-16T01:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T02:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890935503844716796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "986091351967191040",
+          "start": 0,
+          "username": "kzl2064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890935503844716796",
+    "in_reply_to_user_id": "986091351967191040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890706199668040165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kzl2064 别人调整蛋道，你得调整鸡道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1890706199668040165",
+        "created_at": "2025-02-16T01:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T02:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890935503844716796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "986091351967191040",
+              "start": 0,
+              "username": "kzl2064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890935503844716796",
+        "in_reply_to_user_id": "986091351967191040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890706199668040165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kzl2064 别人调整蛋道，你得调整鸡道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1890706122543124480",
+            "7_1890706139240620032"
+          ]
+        },
+        "author_id": "986091351967191040",
+        "conversation_id": "1890706199668040165",
+        "created_at": "2025-02-15T10:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T11:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890706199668040165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tL5k3g3vuh",
+              "end": 69,
+              "expanded_url": "https://x.com/kzl2064/status/1890706199668040165/video/1",
+              "media_key": "7_1890706122543124480",
+              "start": 46,
+              "url": "https://t.co/tL5k3g3vuh"
+            },
+            {
+              "display_url": "pic.x.com/tL5k3g3vuh",
+              "end": 69,
+              "expanded_url": "https://x.com/kzl2064/status/1890706199668040165/video/1",
+              "media_key": "7_1890706139240620032",
+              "start": 46,
+              "url": "https://t.co/tL5k3g3vuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890706199668040165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2420,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "之前有匿名粉丝问我鸡巴软的时候怎么穿内裤的\n这期给你拍来了\n我软的时候的肉几把如何穿内裤🤣 https://t.co/tL5k3g3vuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4459,
+          "following_count": 177,
+          "like_count": 444,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T03:57:53.000Z",
+        "description": "一个很普通的普通人，推文全是下体（注意），不是gay，私信必回",
+        "id": "986091351967191040",
+        "location": "广东",
+        "name": "鸡飞蛋打",
+        "pinned_tweet_id": "1813083896797700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488206928337534980/Oyy9KKu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7308,
+          "following_count": 701,
+          "like_count": 5351,
+          "listed_count": 31,
+          "media_count": 129,
+          "tweet_count": 628
+        },
+        "username": "kzl2064",
+        "verified": false
+      }
+    ]
+  }
+}

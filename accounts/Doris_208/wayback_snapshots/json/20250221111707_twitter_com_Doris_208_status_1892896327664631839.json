@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1892896327664631839",
+    "created_at": "2025-02-21T11:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T12:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892896327664631839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/redaizhu/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/redaizhu/status/1892222249442087025",
+          "start": 18,
+          "url": "https://t.co/uxT0mMJEwf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892896327664631839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892222249442087025",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长得好看叫缺爱逼，长得不好看叫傻逼 https://t.co/uxT0mMJEwf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1892896327664631839",
+        "created_at": "2025-02-21T11:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T12:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892896327664631839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/redaizhu/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/redaizhu/status/1892222249442087025",
+              "start": 18,
+              "url": "https://t.co/uxT0mMJEwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892896327664631839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892222249442087025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长得好看叫缺爱逼，长得不好看叫傻逼 https://t.co/uxT0mMJEwf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490941014030561283",
+        "conversation_id": "1892222249442087025",
+        "created_at": "2025-02-19T14:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T15:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892222249442087025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892222249442087025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 156329,
+          "like_count": 1341,
+          "quote_count": 51,
+          "reply_count": 129,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "缺爱逼还是正常点吧   你的脸还没有漂亮到让人忽视精神病的程度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4439,
+          "following_count": 177,
+          "like_count": 442,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T06:50:26.000Z",
+        "description": "普信男     不喜欢看屏蔽就好了   《哦哦哦哦》   祝大家天天开心喽 ❗❗❗    匿名📭📭📭 https://t.co/1H07rrvYKt    小号开心药  @kaixinyao0987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "kaixinyao0987"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/goujuanjii",
+                "end": 74,
+                "expanded_url": "http://ngl.link/goujuanjii",
+                "start": 51,
+                "url": "https://t.co/1H07rrvYKt"
+              }
+            ]
+          }
+        },
+        "id": "1490941014030561283",
+        "location": "不收口令 不收巨款  不接推广  不加联系",
+        "name": "热带猪🌙",
+        "pinned_tweet_id": "1881219114775306447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875558956464271365/jS3Awz6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6578,
+          "following_count": 87,
+          "like_count": 26664,
+          "listed_count": 12,
+          "media_count": 1507,
+          "tweet_count": 4500
+        },
+        "username": "redaizhu",
+        "verified": false
+      }
+    ]
+  }
+}

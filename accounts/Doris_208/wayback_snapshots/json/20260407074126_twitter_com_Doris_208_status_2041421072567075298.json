@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2041421072567075298",
+    "created_at": "2026-04-07T07:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041421072567075298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1765002938492350464",
+          "start": 3,
+          "username": "coocyx01l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041421072567075298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040699965367050544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coocyx01l: 我不要求另一半一定得主動傳訊息找我，也不要求時時報備 \n畢竟愛是自由的，是自覺自願的\n\n所以你應該自己拿鐵鍊栓在我身邊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2041421072567075298",
+        "created_at": "2026-04-07T07:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041421072567075298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1765002938492350464",
+              "start": 3,
+              "username": "coocyx01l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041421072567075298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040699965367050544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coocyx01l: 我不要求另一半一定得主動傳訊息找我，也不要求時時報備 \n畢竟愛是自由的，是自覺自願的\n\n所以你應該自己拿鐵鍊栓在我身邊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765002938492350464",
+        "conversation_id": "2040699965367050544",
+        "created_at": "2026-04-05T07:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040699965367050544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040699965367050544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 18414,
+          "like_count": 563,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我不要求另一半一定得主動傳訊息找我，也不要求時時報備 \n畢竟愛是自由的，是自覺自願的\n\n所以你應該自己拿鐵鍊栓在我身邊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5025,
+          "following_count": 286,
+          "like_count": 592,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 953
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T13:14:39.000Z",
+        "description": "AKA史小姐｜ステラ｜ねこ｜𝐓𝐀𝐈𝐏𝐄𝐈｜割淺ㄉ人｜日常廢文系推主｜法律相關、財務規劃等服務可協助轉介｜台股散戶乞丐｜自然組♻️｜沒有任何形式的約會｜只有這隻帳號，沒有其他小帳｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/s_hting27?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/s_hting27?igsh=MXBoZG94NTVtbTdobw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/MBTiRe0Thk"
+              }
+            ]
+          }
+        },
+        "id": "1765002938492350464",
+        "name": "𝟽𝚛𝚊𝚟𝚒𝚜 𝟻𝟽𝚎𝟷𝟷𝚊",
+        "pinned_tweet_id": "2009890205990559938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992820064379428864/v1syCk00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56784,
+          "following_count": 140,
+          "like_count": 4980,
+          "listed_count": 28,
+          "media_count": 501,
+          "tweet_count": 3641
+        },
+        "url": "https://t.co/MBTiRe0Thk",
+        "username": "coocyx01l",
+        "verified": false
+      }
+    ]
+  }
+}

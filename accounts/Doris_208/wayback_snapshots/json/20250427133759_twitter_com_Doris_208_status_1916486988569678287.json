@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1916390145609105513",
+    "created_at": "2025-04-27T13:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T14:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916486988569678287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "986091351967191040",
+          "start": 0,
+          "username": "kzl2064"
+        },
+        {
+          "end": 20,
+          "id": "797439291752378368",
+          "start": 9,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916486988569678287",
+    "in_reply_to_user_id": "986091351967191040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916475563432149268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kzl2064 @lover_ning 你不回我还没想到呢👁️👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1916390145609105513",
+        "created_at": "2025-04-27T13:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T14:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916486988569678287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "986091351967191040",
+              "start": 0,
+              "username": "kzl2064"
+            },
+            {
+              "end": 20,
+              "id": "797439291752378368",
+              "start": 9,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916486988569678287",
+        "in_reply_to_user_id": "986091351967191040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916475563432149268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kzl2064 @lover_ning 你不回我还没想到呢👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "986091351967191040",
+        "conversation_id": "1916390145609105513",
+        "created_at": "2025-04-27T12:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T13:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916475563432149268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            },
+            {
+              "end": 22,
+              "id": "797439291752378368",
+              "start": 11,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916475563432149268",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916472644381118736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 @lover_ning 你别看我嗷😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4485,
+          "following_count": 180,
+          "like_count": 449,
+          "listed_count": 8,
+          "media_count": 51,
+          "tweet_count": 448
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T03:57:53.000Z",
+        "description": "一个很普通的普通人，推文全是下体（没打敏感，不喜欢看鸡巴和蛋蛋的请立马退出!）不是gay，私信必回",
+        "id": "986091351967191040",
+        "location": "广东",
+        "name": "鸡飞蛋打",
+        "pinned_tweet_id": "1813083896797700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488206928337534980/Oyy9KKu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8925,
+          "following_count": 823,
+          "like_count": 7372,
+          "listed_count": 43,
+          "media_count": 137,
+          "tweet_count": 893
+        },
+        "username": "kzl2064",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 日常号@SUZUdesu111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "SUZUdesu111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202962,
+          "following_count": 107,
+          "like_count": 34542,
+          "listed_count": 390,
+          "media_count": 2945,
+          "tweet_count": 27849
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

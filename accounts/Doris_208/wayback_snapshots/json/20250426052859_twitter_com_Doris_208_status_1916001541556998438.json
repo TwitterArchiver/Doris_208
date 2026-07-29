@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1915414959497846990",
+    "created_at": "2025-04-26T05:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T06:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916001541556998438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1647882177798094850",
+          "start": 0,
+          "username": "Yuratto27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916001541556998438",
+    "in_reply_to_user_id": "1647882177798094850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915977706996658258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuratto27 就是啪你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1915414959497846990",
+        "created_at": "2025-04-26T05:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T06:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916001541556998438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1647882177798094850",
+              "start": 0,
+              "username": "Yuratto27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916001541556998438",
+        "in_reply_to_user_id": "1647882177798094850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915977706996658258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuratto27 就是啪你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647882177798094850",
+        "conversation_id": "1915414959497846990",
+        "created_at": "2025-04-26T03:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T04:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915977706996658258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915977706996658258",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915945346414653460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 砰砰砰砰是什么意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 179,
+          "like_count": 448,
+          "listed_count": 8,
+          "media_count": 49,
+          "tweet_count": 436
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T08:38:39.000Z",
+        "description": "讨厌人类，但还是希望所有女孩子最后都能嫁给爱情",
+        "id": "1647882177798094850",
+        "location": "上海",
+        "name": "27",
+        "pinned_tweet_id": "1898345640348049762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649753246653906946/1SrfC1TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11556,
+          "following_count": 1353,
+          "like_count": 38622,
+          "listed_count": 31,
+          "media_count": 56,
+          "tweet_count": 1518
+        },
+        "username": "Yuratto27",
+        "verified": false
+      }
+    ]
+  }
+}

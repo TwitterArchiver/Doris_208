@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1944687588415259064",
+    "created_at": "2025-07-14T14:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T15:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944773566257340486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1808581115902578688",
+          "start": 0,
+          "username": "XiaoXu_XXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944773566257340486",
+    "in_reply_to_user_id": "1808581115902578688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944696891481952721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoXu_XXX 我不知道啊我也没有牛子啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1944687588415259064",
+        "created_at": "2025-07-14T14:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944773566257340486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1808581115902578688",
+              "start": 0,
+              "username": "XiaoXu_XXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944773566257340486",
+        "in_reply_to_user_id": "1808581115902578688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944696891481952721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoXu_XXX 我不知道啊我也没有牛子啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808581115902578688",
+        "conversation_id": "1944687588415259064",
+        "created_at": "2025-07-14T09:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T10:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944696891481952721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944696891481952721",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944687588415259064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 这个还能手给冲歪吗，人体雕塑家🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4491,
+          "following_count": 211,
+          "like_count": 516,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 605
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T19:18:50.000Z",
+        "description": "咩咩咩咩",
+        "id": "1808581115902578688",
+        "location": "距你20038km",
+        "name": "绪绪绪绪",
+        "pinned_tweet_id": "1942500658743247211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810552773622341633/FWf6QuEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 15,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 731
+        },
+        "username": "XiaoXu_XXX",
+        "verified": false
+      }
+    ]
+  }
+}

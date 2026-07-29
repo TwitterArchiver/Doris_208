@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1969373495483044073",
+    "created_at": "2025-09-20T12:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969373495483044073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yiyi_02014/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/yiyi_02014/status/1969069035917545810",
+          "start": 15,
+          "url": "https://t.co/Lr7SMfL11S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969373495483044073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969069035917545810",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本大脸盘子很需要这种瘦脸神器 https://t.co/Lr7SMfL11S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1969373495483044073",
+        "created_at": "2025-09-20T12:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969373495483044073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yiyi_02014/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yiyi_02014/status/1969069035917545810",
+              "start": 15,
+              "url": "https://t.co/Lr7SMfL11S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969373495483044073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969069035917545810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本大脸盘子很需要这种瘦脸神器 https://t.co/Lr7SMfL11S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961727243887296512",
+        "conversation_id": "1969069035917545810",
+        "created_at": "2025-09-19T16:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T17:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969069035917545810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969069035917545810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16460,
+          "like_count": 207,
+          "quote_count": 11,
+          "reply_count": 31,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们好物推荐鸡巴这个东西，浅吃是没有任何热量摄入的，完全0负担不会胖还能在吃的过程中促进血液循环增加面部肌肉的塑形。吃的过程中还有独特的风味吃鸡吧可以瘦脸，你没想到吧吃鸡吧无非就是吮吸的一个动作，而且据研究吃20厘米的粗鸡吧瘦脸效果更好可以很好的让脸部有轮廓感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4493,
+          "following_count": 233,
+          "like_count": 536,
+          "listed_count": 9,
+          "media_count": 61,
+          "tweet_count": 724
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T09:47:21.000Z",
+        "description": "好相处 要互关的私 不谈不线下 不聊骚 不加联系 想闲聊先打钱 直女 1i＞4i  switch 谢谢喜欢^^ 匿名问答∶https://t.co/YL2kayk6ti",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiyi_02014",
+                "end": 84,
+                "expanded_url": "https://ngl.link/yiyi_02014",
+                "start": 61,
+                "url": "https://t.co/YL2kayk6ti"
+              }
+            ]
+          }
+        },
+        "id": "1961727243887296512",
+        "location": "🚪520",
+        "name": "cat",
+        "pinned_tweet_id": "1967921931396714810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969076491842732032/5PFeea0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 195,
+          "like_count": 4402,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 969
+        },
+        "username": "yiyi_02014",
+        "verified": false
+      }
+    ]
+  }
+}

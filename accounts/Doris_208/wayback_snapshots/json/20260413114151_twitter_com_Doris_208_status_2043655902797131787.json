@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2043655902797131787",
+    "created_at": "2026-04-13T11:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043655902797131787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1955254372901982210",
+          "start": 3,
+          "username": "whtzgsjlx4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043655902797131787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043333210743202275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whtzgsjlx4: 以前不懂 都睡在一张床上了 为什么还会哭 直到亲身体会了才知道 就算睡在一起 心也离的很远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2043655902797131787",
+        "created_at": "2026-04-13T11:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043655902797131787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1955254372901982210",
+              "start": 3,
+              "username": "whtzgsjlx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043655902797131787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043333210743202275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whtzgsjlx4: 以前不懂 都睡在一张床上了 为什么还会哭 直到亲身体会了才知道 就算睡在一起 心也离的很远"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955254372901982210",
+        "conversation_id": "2043333210743202275",
+        "created_at": "2026-04-12T14:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043333210743202275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043333210743202275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13778,
+          "like_count": 324,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "以前不懂 都睡在一张床上了 为什么还会哭 直到亲身体会了才知道 就算睡在一起 心也离的很远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "夏令营结束的那一天",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4928,
+          "following_count": 284,
+          "like_count": 599,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 966
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T13:05:58.000Z",
+        "description": "我的幸福呢",
+        "id": "1955254372901982210",
+        "name": "ch y",
+        "pinned_tweet_id": "2039951787621253629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016443893575974912/Odukm0AU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 84,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 195
+        },
+        "username": "whtzgsjlx4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1929913756638949806",
+    "created_at": "2025-06-03T14:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T15:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929913756638949806"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1929913756638949806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点赞看不到是伟大的，不然就会被推油们发现点的全是牛子😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1929913756638949806",
+        "created_at": "2025-06-03T14:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929913756638949806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929913756638949806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点赞看不到是伟大的，不然就会被推油们发现点的全是牛子😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4492,
+          "following_count": 188,
+          "like_count": 475,
+          "listed_count": 9,
+          "media_count": 55,
+          "tweet_count": 500
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1975490919207178398",
+    "created_at": "2025-10-08T08:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T09:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975843741975162982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765333655868801024",
+          "start": 0,
+          "username": "aaaaabbbbcccsss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975843741975162982",
+    "in_reply_to_user_id": "1765333655868801024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975490919207178398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaaabbbbcccsss 谁懂和年下谈爱情长跑多年后到你老了他一句没能力结婚拍拍屁股走人的无力感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1975490919207178398",
+        "created_at": "2025-10-08T08:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T09:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975843741975162982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765333655868801024",
+              "start": 0,
+              "username": "aaaaabbbbcccsss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975843741975162982",
+        "in_reply_to_user_id": "1765333655868801024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975490919207178398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaaabbbbcccsss 谁懂和年下谈爱情长跑多年后到你老了他一句没能力结婚拍拍屁股走人的无力感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765333655868801024",
+        "conversation_id": "1975490919207178398",
+        "created_at": "2025-10-07T09:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T10:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975490919207178398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Vven_us97/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Vven_us97/status/1974866410129236290",
+              "start": 141,
+              "url": "https://t.co/A4b90SxHwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975490919207178398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 52128,
+          "like_count": 494,
+          "quote_count": 5,
+          "reply_count": 40,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974866410129236290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢年上的原因就是男的他妈太幼稚了，感觉跟他们说话除了屌就是没有营养的东西。想进行一些深度聊天，一些同龄的和年纪小的根本没办法懂，就完全的无所事事。只有经历过生活和工作苦才能懂吧。年长的起码能静下心来聊一聊吧。年轻的话真的很幼稚。。反正我人见的少，没有见过又年轻又有成熟阅历的。。 https://t.co/A4b90SxHwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5721,
+          "following_count": 248,
+          "like_count": 546,
+          "listed_count": 9,
+          "media_count": 65,
+          "tweet_count": 782
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T11:08:48.000Z",
+        "description": "",
+        "id": "1765333655868801024",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "Aaa.批发商王姐",
+        "pinned_tweet_id": "1919343041078247564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895850157675028480/rs4b7MVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 44,
+          "like_count": 1352,
+          "listed_count": 2,
+          "media_count": 457,
+          "tweet_count": 3798
+        },
+        "username": "aaaaabbbbcccsss",
+        "verified": false
+      }
+    ]
+  }
+}

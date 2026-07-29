@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1916040666989445485",
+    "created_at": "2025-04-26T21:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T22:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916240431651951082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916240431651951082",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916040666989445485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning 我笑死了小品演员"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138280,
+        "height": 352,
+        "media_key": "13_1916039645017849856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1916039645017849856/img/PMv1uFYjeF3PH-MI.jpg",
+        "public_metrics": {
+          "view_count": 24719
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916039645017849856/vid/avc1/490x270/HUqLegvINc6OCpnD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916039645017849856/vid/avc1/640x352/19tikvCxGMQGQOmd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1916039645017849856/pl/1zEE1CxBsetXoEaM.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1916040666989445485",
+        "created_at": "2025-04-26T21:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T22:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916240431651951082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916240431651951082",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916040666989445485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 我笑死了小品演员"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1916039645017849856"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "1916040666989445485",
+        "created_at": "2025-04-26T08:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916040666989445485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Fn8Op1fi3",
+              "end": 33,
+              "expanded_url": "https://x.com/lover_ning/status/1916040666989445485/video/1",
+              "media_key": "13_1916039645017849856",
+              "start": 10,
+              "url": "https://t.co/8Fn8Op1fi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916040666989445485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 55353,
+          "like_count": 770,
+          "quote_count": 14,
+          "reply_count": 57,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "经典重温之你有逼吗 https://t.co/8Fn8Op1fi3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4484,
+          "following_count": 180,
+          "like_count": 448,
+          "listed_count": 8,
+          "media_count": 49,
+          "tweet_count": 437
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 日常号@SUZUdesu111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "SUZUdesu111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1634790114093154304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202846,
+          "following_count": 107,
+          "like_count": 34549,
+          "listed_count": 390,
+          "media_count": 2940,
+          "tweet_count": 27843
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

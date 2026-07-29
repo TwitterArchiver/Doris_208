@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2016118967342190677",
+    "created_at": "2026-01-27T11:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016118967342190677"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016118967342190677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界上有两个我\n一个渴望纯爱的我\n需要志同道合的灵魂伴侣\n在傍晚看日落手牵手散步拥抱干干净净的\n\n另一个糜烂的我\n渴望18禁的我和一个让我迷恋的伴侣\n各种放纵的做爱 从门口到厨房到镜子\n浴室掐着脖子 粗暴 野蛮的\n控制欲占有欲你的世界里只有我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2016118967342190677",
+        "created_at": "2026-01-27T11:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016118967342190677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016118967342190677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上有两个我\n一个渴望纯爱的我\n需要志同道合的灵魂伴侣\n在傍晚看日落手牵手散步拥抱干干净净的\n\n另一个糜烂的我\n渴望18禁的我和一个让我迷恋的伴侣\n各种放纵的做爱 从门口到厨房到镜子\n浴室掐着脖子 粗暴 野蛮的\n控制欲占有欲你的世界里只有我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "愿顺遂无虞",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5286,
+          "following_count": 275,
+          "like_count": 580,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 900
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

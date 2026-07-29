@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1990503225741713905",
+    "created_at": "2025-11-17T19:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T20:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990503225741713905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826321786834944000",
+          "start": 3,
+          "username": "hgds520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990503225741713905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989387687418384640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds520: 我很讨厌别人替代我的位置，如果我可以被替代的话，那我们就不要再说话了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1990503225741713905",
+        "created_at": "2025-11-17T19:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T20:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990503225741713905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826321786834944000",
+              "start": 3,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990503225741713905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989387687418384640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds520: 我很讨厌别人替代我的位置，如果我可以被替代的话，那我们就不要再说话了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826321786834944000",
+        "conversation_id": "1989387687418384640",
+        "created_at": "2025-11-14T17:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T18:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989387687418384640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989387687418384640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 40863,
+          "like_count": 526,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "我很讨厌别人替代我的位置，如果我可以被替代的话，那我们就不要再说话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5613,
+          "following_count": 280,
+          "like_count": 613,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 894
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "感谢关注和支持/文案来源于网络 祝大家天天开心/接训练饮食计划 /接回收账号 价格美丽",
+        "id": "1826321786834944000",
+        "location": "苏州",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1989590391121932729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3881,
+          "following_count": 676,
+          "like_count": 9426,
+          "listed_count": 11,
+          "media_count": 123,
+          "tweet_count": 782
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

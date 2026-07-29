@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1968708369339813954",
+    "created_at": "2025-09-18T16:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T17:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968708369339813954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937175127978074112",
+          "start": 3,
+          "username": "yyi777001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968708369339813954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968552675647308068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyi777001: 以后一定找一个喜欢大胸的男朋友\n意见不合了我就喂他吃奶\n他工作不顺利我就喂他吃奶\n他打游戏输了我就喂他吃奶\n吵架的时候他跟我争论我就一把把他头按进胸里喂他吃奶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1968708369339813954",
+        "created_at": "2025-09-18T16:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T17:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968708369339813954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937175127978074112",
+              "start": 3,
+              "username": "yyi777001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968708369339813954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968552675647308068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yyi777001: 以后一定找一个喜欢大胸的男朋友\n意见不合了我就喂他吃奶\n他工作不顺利我就喂他吃奶\n他打游戏输了我就喂他吃奶\n吵架的时候他跟我争论我就一把把他头按进胸里喂他吃奶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937175127978074112",
+        "conversation_id": "1968552675647308068",
+        "created_at": "2025-09-18T05:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T06:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968552675647308068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968552675647308068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 155611,
+          "like_count": 1284,
+          "quote_count": 25,
+          "reply_count": 181,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "以后一定找一个喜欢大胸的男朋友\n意见不合了我就喂他吃奶\n他工作不顺利我就喂他吃奶\n他打游戏输了我就喂他吃奶\n吵架的时候他跟我争论我就一把把他头按进胸里喂他吃奶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4490,
+          "following_count": 233,
+          "like_count": 533,
+          "listed_count": 9,
+          "media_count": 61,
+          "tweet_count": 718
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T15:45:32.000Z",
+        "description": "我最最最最最最爱的宝宝@autu00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "autu00000"
+              }
+            ]
+          }
+        },
+        "id": "1937175127978074112",
+        "location": " 不约线下不换vpn不接置顶电报推广",
+        "name": "嘟比",
+        "pinned_tweet_id": "1967913704231669823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958209133074960384/cYKD6lB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24360,
+          "following_count": 310,
+          "like_count": 517,
+          "listed_count": 68,
+          "media_count": 176,
+          "tweet_count": 618
+        },
+        "username": "yyi777001",
+        "verified": false
+      }
+    ]
+  }
+}

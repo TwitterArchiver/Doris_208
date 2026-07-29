@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1920486428653375983",
+    "created_at": "2025-05-08T16:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T17:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920522005318701123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740741381944201216",
+          "start": 0,
+          "username": "Heiwuya888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920522005318701123",
+    "in_reply_to_user_id": "1740741381944201216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920486428653375983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Heiwuya888 真要遥控你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1920486428653375983",
+        "created_at": "2025-05-08T16:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T17:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920522005318701123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740741381944201216",
+              "start": 0,
+              "username": "Heiwuya888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920522005318701123",
+        "in_reply_to_user_id": "1740741381944201216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920486428653375983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Heiwuya888 真要遥控你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740741381944201216",
+        "conversation_id": "1920486428653375983",
+        "created_at": "2025-05-08T14:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920486428653375983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920486428653375983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 25584,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我得知今天测评的飞机杯是可以远程遥控的时候，我突然想到这要是被哪个女的遥控玩一下那老子岂不是炸了。虽然我脑海里产生了这个想法，但是我发誓我真的没有m倾向，毕竟老子骨子里还是一个钢铁S。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4496,
+          "following_count": 181,
+          "like_count": 454,
+          "listed_count": 9,
+          "media_count": 51,
+          "tweet_count": 465
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T14:27:59.000Z",
+        "description": "我是个好人｜全国不可飞｜不接推广 电报 vpn｜不接投喂｜有缘就有🚪｜严禁墙内认出",
+        "id": "1740741381944201216",
+        "location": "快乐疗养中心",
+        "name": "黑乌鸦",
+        "pinned_tweet_id": "1908851168719024184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906594670895144960/gNsUG7yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26611,
+          "following_count": 67,
+          "like_count": 6160,
+          "listed_count": 23,
+          "media_count": 77,
+          "tweet_count": 318
+        },
+        "username": "Heiwuya888",
+        "verified": false
+      }
+    ]
+  }
+}

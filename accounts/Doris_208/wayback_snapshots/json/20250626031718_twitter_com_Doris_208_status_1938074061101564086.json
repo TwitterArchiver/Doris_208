@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1938074061101564086",
+    "created_at": "2025-06-26T03:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T04:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938074061101564086"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938074061101564086",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "救命！我被吮指原味鸡追杀了！v50救救我吧！\n  ｡ 　　 ∧＿∧｡ﾟ\n　ﾟ 　(ﾟ ´Д｀ﾟ)っﾟ\n　　　(つ　　/\n　　 　|   （⌒）\n　　　 し    ⌒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1938074061101564086",
+        "created_at": "2025-06-26T03:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T04:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938074061101564086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938074061101564086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命！我被吮指原味鸡追杀了！v50救救我吧！\n  ｡ 　　 ∧＿∧｡ﾟ\n　ﾟ 　(ﾟ ´Д｀ﾟ)っﾟ\n　　　(つ　　/\n　　 　|   （⌒）\n　　　 し    ⌒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4509,
+          "following_count": 202,
+          "like_count": 492,
+          "listed_count": 8,
+          "media_count": 56,
+          "tweet_count": 555
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

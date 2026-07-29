@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1886386324493725984",
+    "created_at": "2025-02-04T00:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T01:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886567369134477727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1795497104049414144",
+          "start": 0,
+          "username": "hsh6669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886567369134477727",
+    "in_reply_to_user_id": "1795497104049414144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886386324493725984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsh6669 聊得忙不过来了都"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1886386324493725984",
+        "created_at": "2025-02-04T00:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T01:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886567369134477727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795497104049414144",
+              "start": 0,
+              "username": "hsh6669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886567369134477727",
+        "in_reply_to_user_id": "1795497104049414144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886386324493725984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsh6669 聊得忙不过来了都"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795497104049414144",
+        "conversation_id": "1886386324493725984",
+        "created_at": "2025-02-03T12:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T13:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886386324493725984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886386324493725984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 232566,
+          "like_count": 511,
+          "quote_count": 0,
+          "reply_count": 403,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢看一些聊烧的聊天记录"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 176,
+          "like_count": 445,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T16:47:37.000Z",
+        "description": "碎碎念分享/ 话题投稿/ 树洞吐槽/ 付费绿色交友委托/ 有偿推广转发/ 商务合作请私信/ 投稿筛选后发出🎁",
+        "id": "1795497104049414144",
+        "location": "Hong Kong",
+        "name": "全是烧杯",
+        "pinned_tweet_id": "1854356710154236069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795541690771701760/K-GFG_I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464374,
+          "following_count": 43,
+          "like_count": 539,
+          "listed_count": 347,
+          "media_count": 1224,
+          "tweet_count": 2861
+        },
+        "username": "hsh6669",
+        "verified": true
+      }
+    ]
+  }
+}

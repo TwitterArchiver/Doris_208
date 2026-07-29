@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1940084972246999063",
+    "created_at": "2025-07-02T11:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T12:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940374872426942516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740741381944201216",
+          "start": 0,
+          "username": "Heiwuya888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940374872426942516",
+    "in_reply_to_user_id": "1740741381944201216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940084972246999063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Heiwuya888 真裤裆藏雷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1940084972246999063",
+        "created_at": "2025-07-02T11:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940374872426942516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740741381944201216",
+              "start": 0,
+              "username": "Heiwuya888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940374872426942516",
+        "in_reply_to_user_id": "1740741381944201216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940084972246999063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Heiwuya888 真裤裆藏雷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740741381944201216",
+        "conversation_id": "1940084972246999063",
+        "created_at": "2025-07-01T16:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T17:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940084972246999063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940084972246999063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11005,
+          "like_count": 213,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么不能发明一个小型可以穿戴的飞机杯或者榨精器之类的玩意？男人出门戴上让女人遥控，特别是穿着西装革履一本正经的时候狠狠遥控。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4508,
+          "following_count": 203,
+          "like_count": 500,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 573
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T14:27:59.000Z",
+        "description": "想做个好人/ 全国不可飞/ 不接诈骗推广 电报 vpn/🚪299/入门赠送一个全新玩具",
+        "id": "1740741381944201216",
+        "location": "0.1公里",
+        "name": "黑乌鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906594670895144960/gNsUG7yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29399,
+          "following_count": 92,
+          "like_count": 6434,
+          "listed_count": 30,
+          "media_count": 113,
+          "tweet_count": 477
+        },
+        "username": "Heiwuya888",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1952248760509374911",
+    "created_at": "2025-08-04T06:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T07:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952248760509374911"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952248760509374911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天和谁聊天了吗？👁️说了些什么，有没有提到我，有没有想我，想了多少次👁️为什么不来找我聊天？👁️我很无趣吗？明明有我一个就够了，你和任何人都应该保持距离👁最好都以我为中心，除了我你不能有更上心的人👁拜托了亲爱的没有你我会疯的，我求求你不要做出让我厌恶的行为，你也不想让事情变得糟糕吧👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1952248760509374911",
+        "created_at": "2025-08-04T06:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T07:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952248760509374911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952248760509374911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和谁聊天了吗？👁️说了些什么，有没有提到我，有没有想我，想了多少次👁️为什么不来找我聊天？👁️我很无趣吗？明明有我一个就够了，你和任何人都应该保持距离👁最好都以我为中心，除了我你不能有更上心的人👁拜托了亲爱的没有你我会疯的，我求求你不要做出让我厌恶的行为，你也不想让事情变得糟糕吧👁️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4539,
+          "following_count": 219,
+          "like_count": 527,
+          "listed_count": 8,
+          "media_count": 58,
+          "tweet_count": 667
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

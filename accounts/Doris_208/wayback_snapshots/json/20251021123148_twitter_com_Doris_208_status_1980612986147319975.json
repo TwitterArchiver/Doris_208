@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1980612986147319975",
+    "created_at": "2025-10-21T12:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980612986147319975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1970047450493943810",
+          "start": 3,
+          "username": "chuyuanhui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980612986147319975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979935811211608436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuyuanhui: 占有欲强  没安全感  敏感多疑  关注过度  猜忌怀疑自我内耗  擅长搞砸一段关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1980612986147319975",
+        "created_at": "2025-10-21T12:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980612986147319975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1970047450493943810",
+              "start": 3,
+              "username": "chuyuanhui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980612986147319975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979935811211608436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuyuanhui: 占有欲强  没安全感  敏感多疑  关注过度  猜忌怀疑自我内耗  擅长搞砸一段关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970047450493943810",
+        "conversation_id": "1979935811211608436",
+        "created_at": "2025-10-19T15:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979935811211608436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979935811211608436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 60978,
+          "like_count": 669,
+          "quote_count": 34,
+          "reply_count": 51,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "占有欲强  没安全感  敏感多疑  关注过度  猜忌怀疑自我内耗  擅长搞砸一段关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5696,
+          "following_count": 269,
+          "like_count": 580,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 832
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T08:48:30.000Z",
+        "description": "泥嚎(^_^)可以叫我惠惠  欢迎找我玩  匿名箱https://t.co/IRUqu4oRr3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuanhui54217",
+                "end": 48,
+                "expanded_url": "https://ngl.link/yuanhui54217",
+                "start": 25,
+                "url": "https://t.co/IRUqu4oRr3"
+              }
+            ]
+          }
+        },
+        "id": "1970047450493943810",
+        "location": "江苏",
+        "name": "鸢惠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970052639644925952/WROkWbGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 5,
+          "like_count": 664,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 64
+        },
+        "username": "chuyuanhui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1968372929282138141",
+    "created_at": "2025-09-18T15:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T16:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968704663143825657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857480192224276480",
+          "start": 0,
+          "username": "dd_bbls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968704663143825657",
+    "in_reply_to_user_id": "1857480192224276480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968372929282138141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd_bbls 这长度也不基础啊，老大了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54666,
+        "height": 720,
+        "media_key": "13_1968372843709874182",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968372843709874182/img/NkjbBQJB21h-GWal.jpg",
+        "public_metrics": {
+          "view_count": 5614
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968372843709874182/vid/avc1/480x270/vl7U9wUe7_PwGAMg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968372843709874182/vid/avc1/640x360/-luZoU8_-RLwxI3V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968372843709874182/vid/avc1/1280x720/lECAK42MZOMls-JH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968372843709874182/pl/XnyXgeqfWVAIpMb2.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1968372929282138141",
+        "created_at": "2025-09-18T15:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T16:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968704663143825657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857480192224276480",
+              "start": 0,
+              "username": "dd_bbls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968704663143825657",
+        "in_reply_to_user_id": "1857480192224276480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968372929282138141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd_bbls 这长度也不基础啊，老大了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968372843709874182"
+          ]
+        },
+        "author_id": "1857480192224276480",
+        "conversation_id": "1968372929282138141",
+        "created_at": "2025-09-17T17:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T18:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968372929282138141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/skE6q2KRzg",
+              "end": 36,
+              "expanded_url": "https://x.com/dd_bbls/status/1968372929282138141/video/1",
+              "media_key": "13_1968372843709874182",
+              "start": 13,
+              "url": "https://t.co/skE6q2KRzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968372929282138141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 28512,
+          "like_count": 1739,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "长度基础，粉嘟嘟就不基础 https://t.co/skE6q2KRzg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4490,
+          "following_count": 233,
+          "like_count": 533,
+          "listed_count": 9,
+          "media_count": 61,
+          "tweet_count": 717
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:46:10.000Z",
+        "description": "纯直男，喜欢我的可以点点关注点点赞呀🥹欢迎大家私信或者匿名提问来找我玩～～匿名提问➡️https://t.co/thwoXQnO1x 🚪加v520/加q288 门槛详情可私信咨询哦～ 更日常小号@ddpattaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "ddpattaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ddpatta",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ddpatta",
+                "start": 43,
+                "url": "https://t.co/thwoXQnO1x"
+              }
+            ]
+          }
+        },
+        "id": "1857480192224276480",
+        "name": "ddpat",
+        "pinned_tweet_id": "1883503756303839558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927326818643648512/jQeK5l4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77110,
+          "following_count": 94,
+          "like_count": 2787,
+          "listed_count": 193,
+          "media_count": 98,
+          "tweet_count": 1048
+        },
+        "username": "dd_bbls",
+        "verified": false
+      }
+    ]
+  }
+}

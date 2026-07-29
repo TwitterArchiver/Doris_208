@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1987797580554854792",
+    "created_at": "2025-11-10T23:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T00:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988030235653054828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802398131835027456",
+          "start": 0,
+          "username": "jiofng849910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988030235653054828",
+    "in_reply_to_user_id": "1802398131835027456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987797580554854792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiofng849910 好色噢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2174,
+        "media_key": "3_1987797574317920256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YTXK6aUAAFlMb.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1987797580554854792",
+        "created_at": "2025-11-10T23:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988030235653054828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802398131835027456",
+              "start": 0,
+              "username": "jiofng849910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988030235653054828",
+        "in_reply_to_user_id": "1802398131835027456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987797580554854792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiofng849910 好色噢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987797574317920256"
+          ]
+        },
+        "author_id": "1802398131835027456",
+        "conversation_id": "1987797580554854792",
+        "created_at": "2025-11-10T08:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T09:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987797580554854792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kncpeP6cSU",
+              "end": 41,
+              "expanded_url": "https://x.com/jiofng849910/status/1987797580554854792/photo/1",
+              "media_key": "3_1987797574317920256",
+              "start": 18,
+              "url": "https://t.co/kncpeP6cSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987797580554854792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张真的很色😋（我承认我是细狗了） https://t.co/kncpeP6cSU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5630,
+          "following_count": 277,
+          "like_count": 607,
+          "listed_count": 9,
+          "media_count": 67,
+          "tweet_count": 879
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T17:49:44.000Z",
+        "description": "18+",
+        "id": "1802398131835027456",
+        "location": "🚪52",
+        "name": "奇异百香果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802398206111981568/vgMxK_6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 332,
+          "like_count": 2013,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 24
+        },
+        "username": "jiofng849910",
+        "verified": false
+      }
+    ]
+  }
+}

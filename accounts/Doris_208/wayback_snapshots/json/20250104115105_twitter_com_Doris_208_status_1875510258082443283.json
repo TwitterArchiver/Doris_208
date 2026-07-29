@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1875510258082443283",
+    "created_at": "2025-01-04T11:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T12:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875510258082443283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1660276482030342145",
+          "start": 3,
+          "username": "i1314151241475i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875510258082443283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875356805196607742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i1314151241475i: 这个推特就像厕所，虽然很臭，但是每天都得进来看一看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1875510258082443283",
+        "created_at": "2025-01-04T11:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T12:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875510258082443283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1660276482030342145",
+              "start": 3,
+              "username": "i1314151241475i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875510258082443283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875356805196607742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i1314151241475i: 这个推特就像厕所，虽然很臭，但是每天都得进来看一看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660276482030342145",
+        "conversation_id": "1875356805196607742",
+        "created_at": "2025-01-04T01:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T02:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875356805196607742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875356805196607742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4287,
+          "like_count": 96,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这个推特就像厕所，虽然很臭，但是每天都得进来看一看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 113,
+          "like_count": 432,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T13:29:11.000Z",
+        "description": "喜欢可爱的人",
+        "id": "1660276482030342145",
+        "name": "煎饺神",
+        "pinned_tweet_id": "1870837611281211751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863630309130186752/aMAXPfPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 152,
+          "like_count": 5395,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 2168
+        },
+        "username": "i1314151241475i",
+        "verified": false
+      }
+    ]
+  }
+}

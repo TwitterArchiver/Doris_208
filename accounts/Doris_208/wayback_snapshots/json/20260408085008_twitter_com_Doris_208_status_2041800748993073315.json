@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2041571875143479576",
+    "created_at": "2026-04-08T08:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041800748993073315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1711580669372243968",
+          "start": 0,
+          "username": "Siriuya2023"
+        },
+        {
+          "end": 24,
+          "id": "1040062430171344897",
+          "start": 13,
+          "username": "lizisu2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041800748993073315",
+    "in_reply_to_user_id": "1711580669372243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041664831422656968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siriuya2023 @lizisu2000 花钱倒贴帅哥的算什么😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2041571875143479576",
+        "created_at": "2026-04-08T08:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041800748993073315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1711580669372243968",
+              "start": 0,
+              "username": "Siriuya2023"
+            },
+            {
+              "end": 24,
+              "id": "1040062430171344897",
+              "start": 13,
+              "username": "lizisu2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041800748993073315",
+        "in_reply_to_user_id": "1711580669372243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041664831422656968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siriuya2023 @lizisu2000 花钱倒贴帅哥的算什么😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711580669372243968",
+        "conversation_id": "2041571875143479576",
+        "created_at": "2026-04-07T23:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T00:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041664831422656968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1040062430171344897",
+              "start": 0,
+              "username": "lizisu2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041664831422656968",
+        "in_reply_to_user_id": "1040062430171344897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 82896,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041571875143479576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizisu2000 约炮实际上是网恋的极速版，先加好友，聊几天，感觉不错就见面，见面吃个饭，看电影，双方都有意思就去酒店，一方没感觉就各回各家。想要约炮成功率高的话，前期要嘴甜，见面需要长得好看或者肯花钱。聊三天还约不出来就换下一个，约会完不去酒店的就拉黑。女的可以白嫖，男的还是要花钱的，不如去嫖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5001,
+          "following_count": 287,
+          "like_count": 592,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 956
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T03:13:45.000Z",
+        "description": "",
+        "id": "1711580669372243968",
+        "name": "Siriuya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823621227950563328/uoc3iQFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 92,
+          "like_count": 787,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 1696
+        },
+        "username": "Siriuya2023",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-13T02:19:41.000Z",
+        "description": "讨好型人格",
+        "id": "1040062430171344897",
+        "location": "🚪66",
+        "name": "栗子酥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885784306506924032/b6XBEVGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170256,
+          "following_count": 23,
+          "like_count": 1655,
+          "listed_count": 254,
+          "media_count": 539,
+          "tweet_count": 1231
+        },
+        "username": "lizisu2000",
+        "verified": false
+      }
+    ]
+  }
+}

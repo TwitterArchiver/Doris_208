@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1974102996767420676",
+    "created_at": "2025-10-03T15:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974128679535182247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1645534836164268043",
+          "start": 0,
+          "username": "keen78383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974128679535182247",
+    "in_reply_to_user_id": "1645534836164268043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974125706209865870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keen78383 看看实力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1974102996767420676",
+        "created_at": "2025-10-03T15:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974128679535182247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1645534836164268043",
+              "start": 0,
+              "username": "keen78383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974128679535182247",
+        "in_reply_to_user_id": "1645534836164268043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974125706209865870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keen78383 看看实力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645534836164268043",
+        "conversation_id": "1974102996767420676",
+        "created_at": "2025-10-03T14:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974125706209865870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974125706209865870",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974102996767420676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 我的牛牛也粉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4473,
+          "following_count": 240,
+          "like_count": 537,
+          "listed_count": 9,
+          "media_count": 63,
+          "tweet_count": 762
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T21:11:04.000Z",
+        "description": "剑三乡下服军爷花哥/Dom/喜spank/以及其他身体部位/不定时产文",
+        "id": "1645534836164268043",
+        "name": "keen new",
+        "pinned_tweet_id": "1853230681591001178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891790706156433408/NDvfxNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 205,
+          "like_count": 230,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 4005
+        },
+        "username": "keen78383",
+        "verified": false
+      }
+    ]
+  }
+}

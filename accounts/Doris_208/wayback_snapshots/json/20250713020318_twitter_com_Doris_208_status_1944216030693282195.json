@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1944004683028476046",
+    "created_at": "2025-07-13T02:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T03:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944216030693282195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944216030693282195",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944004683028476046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning 伪娘的一辈子"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43228,
+        "height": 1070,
+        "media_key": "13_1944004624899579904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944004624899579904/img/7vLUlEeHDkFJAvlj.jpg",
+        "public_metrics": {
+          "view_count": 25844
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944004624899579904/vid/avc1/320x474/b-lPqVdLFOUQT5iz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944004624899579904/vid/avc1/480x712/tPIiGCK0U2hjxujd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944004624899579904/vid/avc1/720x1070/m55XJJ0kCdBDvkF6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944004624899579904/pl/6WQUhzlSkHxEAU1J.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1944004683028476046",
+        "created_at": "2025-07-13T02:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T03:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944216030693282195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944216030693282195",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944004683028476046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 伪娘的一辈子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1944004624899579904"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "1944004683028476046",
+        "created_at": "2025-07-12T12:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T13:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944004683028476046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2bjY30ihD",
+              "end": 32,
+              "expanded_url": "https://x.com/lover_ning/status/1944004683028476046/video/1",
+              "media_key": "13_1944004624899579904",
+              "start": 9,
+              "url": "https://t.co/x2bjY30ihD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944004683028476046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 59468,
+          "like_count": 644,
+          "quote_count": 12,
+          "reply_count": 89,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "你这胶带挺能藏啊 https://t.co/x2bjY30ihD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4491,
+          "following_count": 210,
+          "like_count": 514,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 599
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 日常号@SUZUdesu111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "SUZUdesu111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1939983437429186570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221456,
+          "following_count": 106,
+          "like_count": 34062,
+          "listed_count": 409,
+          "media_count": 3106,
+          "tweet_count": 28036
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

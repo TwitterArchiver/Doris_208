@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1874812546731081759",
+    "created_at": "2025-01-02T13:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T14:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874812546731081759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1806556447318441984",
+          "start": 3,
+          "username": "2amsleeeeeep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874812546731081759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874428090958647481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2amsleeeeeep: 我对私信里yp自爆身份的印象\n男高:没钱 开房买套药钱女方出\n男大:aa 所有aa 可能做一半提裤子跑路不a你房费 套钱你出\n自称主人/daddy/s/dom:超雄 暴力倾向 小圈规则都不完全懂先去私信骚扰一下别人\n以上仅是对私信骚扰的看法大…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1874812546731081759",
+        "created_at": "2025-01-02T13:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T14:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874812546731081759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1806556447318441984",
+              "start": 3,
+              "username": "2amsleeeeeep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874812546731081759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874428090958647481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2amsleeeeeep: 我对私信里yp自爆身份的印象\n男高:没钱 开房买套药钱女方出\n男大:aa 所有aa 可能做一半提裤子跑路不a你房费 套钱你出\n自称主人/daddy/s/dom:超雄 暴力倾向 小圈规则都不完全懂先去私信骚扰一下别人\n以上仅是对私信骚扰的看法大…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806556447318441984",
+        "conversation_id": "1874428090958647481",
+        "created_at": "2025-01-01T12:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T13:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874428090958647481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874428090958647481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 77122,
+          "like_count": 518,
+          "quote_count": 9,
+          "reply_count": 65,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我对私信里yp自爆身份的印象\n男高:没钱 开房买套药钱女方出\n男大:aa 所有aa 可能做一半提裤子跑路不a你房费 套钱你出\n自称主人/daddy/s/dom:超雄 暴力倾向 小圈规则都不完全懂先去私信骚扰一下别人\n以上仅是对私信骚扰的看法大家当乐子看看不要对号入座"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 104,
+          "like_count": 430,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T05:13:34.000Z",
+        "description": "凌晨两点一定sleep",
+        "id": "1806556447318441984",
+        "location": "Earth",
+        "name": "小峙",
+        "pinned_tweet_id": "1870712839075471378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872636076982161408/ERGKBfwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 140,
+          "like_count": 1002,
+          "listed_count": 5,
+          "media_count": 77,
+          "tweet_count": 978
+        },
+        "username": "2amsleeeeeep",
+        "verified": false
+      }
+    ]
+  }
+}

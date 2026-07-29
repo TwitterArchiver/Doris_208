@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1970341455307898948",
+    "created_at": "2025-09-23T04:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T05:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970347358333608334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907269148780138496",
+          "start": 0,
+          "username": "leiba880551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970347358333608334",
+    "in_reply_to_user_id": "1907269148780138496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970341455307898948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leiba880551 加点好料"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1970341455307898948",
+        "created_at": "2025-09-23T04:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T05:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970347358333608334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907269148780138496",
+              "start": 0,
+              "username": "leiba880551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970347358333608334",
+        "in_reply_to_user_id": "1907269148780138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970341455307898948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leiba880551 加点好料"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907269148780138496",
+        "conversation_id": "1970341455307898948",
+        "created_at": "2025-09-23T04:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T05:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970341455307898948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970341455307898948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老板给我饭里加啥了 为什么吃完了 回宿舍路上一直翘着 尴尬死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4511,
+          "following_count": 237,
+          "like_count": 538,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 736
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T03:09:46.000Z",
+        "description": "谢谢你的关注。\n一点点小癖好，想拍女性向，但是比较菜，有好的建议可以私我，有时间都会回复的。盗图替我挡灾",
+        "id": "1907269148780138496",
+        "location": "sichuan",
+        "name": "leiba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932363113900519424/IYeK3386_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 3,
+          "like_count": 209,
+          "listed_count": 8,
+          "media_count": 61,
+          "tweet_count": 96
+        },
+        "username": "leiba880551",
+        "verified": false
+      }
+    ]
+  }
+}

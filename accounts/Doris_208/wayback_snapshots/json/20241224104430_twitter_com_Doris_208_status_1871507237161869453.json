@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1871507237161869453",
+    "created_at": "2024-12-24T10:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T11:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871507237161869453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiamimaodashu/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/jiamimaodashu/status/1871092496874565923",
+          "start": 30,
+          "url": "https://t.co/luHN8BOBuS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871507237161869453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871092496874565923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁能想到从小乖到大的女孩房间里藏着众多色情玩具和锋利刀片呢 https://t.co/luHN8BOBuS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1871507237161869453",
+        "created_at": "2024-12-24T10:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T11:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871507237161869453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiamimaodashu/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/jiamimaodashu/status/1871092496874565923",
+              "start": 30,
+              "url": "https://t.co/luHN8BOBuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871507237161869453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871092496874565923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁能想到从小乖到大的女孩房间里藏着众多色情玩具和锋利刀片呢 https://t.co/luHN8BOBuS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737438242382000128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1871092496874565923",
+        "created_at": "2024-12-23T07:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T08:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871092496874565923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871092496874565923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从心理学上来说，小时候越乖、越懂事的孩子，长大以后心理问题越多。\n\n原因就在于，乖巧懂事的孩子因为过多扮演了外界期许的某个角色，导致自我发展停滞。\n\n一个经典的例子就是孩子从小就学会察言观色，即使在街上遇到了想要的东西，但是母亲一个眼神过来，孩子就主动表示自己不想要。\n\n这里孩子就发展出了一种生存策略，即为了让父母满意，或者得到夸奖，选择抑制真实的自我，而是扮演一个“乖巧的角色”。\n\n注意，这可能是两种原因导致的。\n\n第一种就是父母对孩子过去表达出的需求，经常选择责骂，所以孩子恐惧父母。\n\n第二种是孩子过早意识到父母的不容易，因此体谅父母。\n\n这就会导致长大后出现两个常见的心理问题。\n\n第一，在关系中没有安全感，比如害怕表达真实的自我，害怕被抛弃，时刻担心自己不够好。\n\n第二，过早承担了家庭中的责任，因此真实自我的成长被剥夺，只发现出了工具性的自我，长大后过于理智化，很难从生活中得到乐趣。\n\n所以说到底人的心理问题都是自我发展的问题。\n\n当某个阶段的自我被抑制了以后，即使表面上长大了，未来依旧需要补课。\n\n一个成年人应当是理性+感性充分发展起来，才是完整的自我。\n\n过早乖巧的孩子，也过早失去了自我表达情绪、爱和被爱的能力。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1140,
+          "impression_count": 369355,
+          "like_count": 3156,
+          "quote_count": 63,
+          "reply_count": 114,
+          "retweet_count": 520
+        },
+        "reply_settings": "everyone",
+        "text": "从心理学上来说，小时候越乖、越懂事的孩子，长大以后心理问题越多。\n\n原因就在于，乖巧懂事的孩子因为过多扮演了外界期许的某个角色，导致自我发展停滞。\n\n一个经典的例子就是孩子从小就学会察言观色，即使在街上遇到了想要的东西，但是母亲一个眼神过来，孩子就主动表示自己不想要。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 89,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T11:42:38.000Z",
+        "description": "放肆生活   内修自我    Web3的长期主义者！\n交易用Bitget，有机会赢最高 6200 USDT 的迎新礼！注册链接：https://t.co/YON7H14MGK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "partner.bitgetapps.com/bg/VTQ5L4",
+                "end": 87,
+                "expanded_url": "https://partner.bitgetapps.com/bg/VTQ5L4",
+                "start": 64,
+                "url": "https://t.co/YON7H14MGK"
+              }
+            ]
+          }
+        },
+        "id": "1737438242382000128",
+        "name": "@jiamimao 猫叔",
+        "pinned_tweet_id": "1840386473192997173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758305253488009216/9xVsPFM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10378,
+          "following_count": 1164,
+          "like_count": 13255,
+          "listed_count": 41,
+          "media_count": 1200,
+          "tweet_count": 12516
+        },
+        "username": "jiamimaodashu",
+        "verified": true
+      }
+    ]
+  }
+}

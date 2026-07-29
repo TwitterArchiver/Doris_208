@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1969339421838155914",
+    "created_at": "2025-09-20T11:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T12:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969366358874833341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1351393416513404931",
+          "start": 0,
+          "username": "shzyjbrxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969366358874833341",
+    "in_reply_to_user_id": "1351393416513404931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969339421838155914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shzyjbrxq 让我听听"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1969339421838155914",
+        "created_at": "2025-09-20T11:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T12:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969366358874833341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1351393416513404931",
+              "start": 0,
+              "username": "shzyjbrxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969366358874833341",
+        "in_reply_to_user_id": "1351393416513404931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969339421838155914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shzyjbrxq 让我听听"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351393416513404931",
+        "conversation_id": "1969339421838155914",
+        "created_at": "2025-09-20T09:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T10:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969339421838155914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969339421838155914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁在，要不要听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4493,
+          "following_count": 233,
+          "like_count": 535,
+          "listed_count": 9,
+          "media_count": 61,
+          "tweet_count": 722
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-19T04:58:08.000Z",
+        "description": "偶尔喘｜色情文学｜所有内容不要当真",
+        "id": "1351393416513404931",
+        "location": "Australia",
+        "name": "清梦星河",
+        "pinned_tweet_id": "1836576113428136381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1463286424178860040/va-kRk_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12609,
+          "following_count": 1047,
+          "like_count": 3680,
+          "listed_count": 45,
+          "media_count": 377,
+          "tweet_count": 4720
+        },
+        "username": "shzyjbrxq",
+        "verified": false
+      }
+    ]
+  }
+}

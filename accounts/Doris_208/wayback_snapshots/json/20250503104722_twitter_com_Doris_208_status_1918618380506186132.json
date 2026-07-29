@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1918336189108830418",
+    "created_at": "2025-05-03T10:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T11:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918618380506186132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1433678462032617475",
+          "start": 0,
+          "username": "nolittlebear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918618380506186132",
+    "in_reply_to_user_id": "1433678462032617475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918336189108830418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nolittlebear 乖孩子"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139566,
+        "height": 1280,
+        "media_key": "7_1918334438808993792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1918334438808993792/pu/img/lFSs6QoqpBcvMYjL.jpg",
+        "public_metrics": {
+          "view_count": 3290
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918334438808993792/pu/vid/avc1/320x710/YZmygO7E8I3xUSA4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918334438808993792/pu/vid/avc1/480x1066/SPPOScf7rxI0dq1S.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918334438808993792/pu/vid/avc1/576x1280/_ZByKeOfvH8lkNkR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1918334438808993792/pu/pl/46AvBGtwuyfIpBY7.m3u8?tag=12&v=6d5"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 139737,
+        "height": 1280,
+        "media_key": "7_1918335157771354112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1918335157771354112/pu/img/DmxKrWIR-efvP2vL.jpg",
+        "public_metrics": {
+          "view_count": 585
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918335157771354112/pu/vid/avc1/320x710/uu10ZdlFNlA4vdHF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918335157771354112/pu/vid/avc1/480x1066/AgT56n_GqQICkz5p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918335157771354112/pu/vid/avc1/576x1280/K43yJH6pnYUbQfwL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1918335157771354112/pu/pl/tHl1eXc8k6iUqS_T.m3u8?tag=12&v=532"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1918336189108830418",
+        "created_at": "2025-05-03T10:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T11:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918618380506186132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1433678462032617475",
+              "start": 0,
+              "username": "nolittlebear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918618380506186132",
+        "in_reply_to_user_id": "1433678462032617475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918336189108830418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nolittlebear 乖孩子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1918334438808993792",
+            "7_1918335157771354112"
+          ]
+        },
+        "author_id": "1433678462032617475",
+        "conversation_id": "1918336189108830418",
+        "created_at": "2025-05-02T16:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T17:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918336189108830418"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "男喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fybQOed3YF",
+              "end": 63,
+              "expanded_url": "https://x.com/nolittlebear/status/1918336189108830418/video/1",
+              "media_key": "7_1918334438808993792",
+              "start": 40,
+              "url": "https://t.co/fybQOed3YF"
+            },
+            {
+              "display_url": "pic.x.com/fybQOed3YF",
+              "end": 63,
+              "expanded_url": "https://x.com/nolittlebear/status/1918336189108830418/video/1",
+              "media_key": "7_1918335157771354112",
+              "start": 40,
+              "url": "https://t.co/fybQOed3YF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918336189108830418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 6914,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "唉，又幻想了，幻想能够一边叫着你妈妈一边和你相亲相爱，唉！\n#手冲实录 #男喘 https://t.co/fybQOed3YF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4495,
+          "following_count": 181,
+          "like_count": 453,
+          "listed_count": 9,
+          "media_count": 51,
+          "tweet_count": 459
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:29:28.000Z",
+        "description": "叫我小熊就好，🚪是一杯蜜雪冰城，欢迎找我玩https://t.co/5dVfvSVjvB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nolittlebear78…",
+                "end": 44,
+                "expanded_url": "https://ngl.link/nolittlebear78260",
+                "start": 21,
+                "url": "https://t.co/5dVfvSVjvB"
+              }
+            ]
+          }
+        },
+        "id": "1433678462032617475",
+        "location": "距离你114.514km",
+        "name": "熊某人日记",
+        "pinned_tweet_id": "1905492391072592368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903045300941619200/n9NoijGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12589,
+          "following_count": 973,
+          "like_count": 12930,
+          "listed_count": 23,
+          "media_count": 1711,
+          "tweet_count": 17543
+        },
+        "username": "nolittlebear",
+        "verified": false
+      }
+    ]
+  }
+}

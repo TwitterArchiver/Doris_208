@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1940779075343470949",
+    "created_at": "2025-07-03T15:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T16:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940793440306184574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940793440306184574",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940779075343470949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning 这蛋是咋塞套子里的啊😨拉这么长看起来好痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 175376,
+        "height": 360,
+        "media_key": "13_1940778938269421574",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940778938269421574/img/ZStMk42Uq3Bqu4X5.jpg",
+        "public_metrics": {
+          "view_count": 2384
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940778938269421574/vid/avc1/480x270/SfyJb6KSGJBt3OlT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940778938269421574/vid/avc1/640x360/3MV99bK-GS6NKk0j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940778938269421574/pl/UgvJgyu6qMw4pNlb.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1940779075343470949",
+        "created_at": "2025-07-03T15:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T16:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940793440306184574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940793440306184574",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940779075343470949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 这蛋是咋塞套子里的啊😨拉这么长看起来好痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940778938269421574"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "1940779075343470949",
+        "created_at": "2025-07-03T14:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940779075343470949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00EEBORbRV",
+              "end": 25,
+              "expanded_url": "https://x.com/lover_ning/status/1940779075343470949/video/1",
+              "media_key": "13_1940778938269421574",
+              "start": 2,
+              "url": "https://t.co/00EEBORbRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940779075343470949",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8151,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "。 https://t.co/00EEBORbRV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 207,
+          "like_count": 504,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 578
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 日常号@SUZUdesu111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "SUZUdesu111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1939983437429186570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219358,
+          "following_count": 107,
+          "like_count": 34077,
+          "listed_count": 407,
+          "media_count": 3095,
+          "tweet_count": 28020
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

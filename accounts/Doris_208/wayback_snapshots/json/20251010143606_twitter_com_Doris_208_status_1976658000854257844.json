@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1976640169177674216",
+    "created_at": "2025-10-10T14:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T15:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976658000854257844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834625166774829056",
+          "start": 0,
+          "username": "Sertraline816"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976658000854257844",
+    "in_reply_to_user_id": "1834625166774829056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976640169177674216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sertraline816 至少你🚪的是真的，那个被骗的才是惨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1976640169177674216",
+        "created_at": "2025-10-10T14:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T15:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976658000854257844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834625166774829056",
+              "start": 0,
+              "username": "Sertraline816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976658000854257844",
+        "in_reply_to_user_id": "1834625166774829056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976640169177674216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sertraline816 至少你🚪的是真的，那个被骗的才是惨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834625166774829056",
+        "conversation_id": "1976640169177674216",
+        "created_at": "2025-10-10T13:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T14:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976640169177674216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sertraline816/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Sertraline816/status/1976334768729116731",
+              "start": 141,
+              "url": "https://t.co/HT0v3HHm67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976640169177674216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1192,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976334768729116731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上完课回来发现这条贴莫名其妙的爆了，其实起因只是我比较卑微不敢去和喜欢的推主互动所以想通过入🚪来离她们近一些，然后入了发现🚪哥不止我一个，而且这段关系也是需要通过不断的发钱去维系所以才想着发一些牢骚的。其实🚪姐也没错，每个人都要这样营业岂不是成客服了所以还是默默地视奸一下朋友圈啦 https://t.co/HT0v3HHm67"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5751,
+          "following_count": 257,
+          "like_count": 556,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 805
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T16:09:08.000Z",
+        "description": "请找我聊天/绝望的家教老师\n/长期活跃在别人动态下/请和我打Apex、ow、星露谷、燕云/性取向直/正在备考11408.../不定期情绪崩溃会发很多莫名其妙的话请谨慎关注",
+        "id": "1834625166774829056",
+        "name": "Sertraline",
+        "pinned_tweet_id": "1895475309681778996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834626040515407872/rRQzzDOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 175,
+          "like_count": 3147,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 2709
+        },
+        "username": "Sertraline816",
+        "verified": false
+      }
+    ]
+  }
+}

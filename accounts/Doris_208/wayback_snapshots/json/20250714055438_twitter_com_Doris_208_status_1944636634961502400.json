@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1944602167484338601",
+    "created_at": "2025-07-14T05:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T06:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944636634961502400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1834943780296028160",
+          "start": 0,
+          "username": "August_Jos0822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944636634961502400",
+    "in_reply_to_user_id": "1834943780296028160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944602167484338601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@August_Jos0822 ？咋不给我发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1944602167484338601",
+        "created_at": "2025-07-14T05:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T06:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944636634961502400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1834943780296028160",
+              "start": 0,
+              "username": "August_Jos0822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944636634961502400",
+        "in_reply_to_user_id": "1834943780296028160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944602167484338601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@August_Jos0822 ？咋不给我发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834943780296028160",
+        "conversation_id": "1944602167484338601",
+        "created_at": "2025-07-14T03:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T04:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944602167484338601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yun1935965/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/yun1935965/status/1944425175190999272",
+              "start": 23,
+              "url": "https://t.co/9YBk9UzA5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944602167484338601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1782,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944425175190999272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们所有人都只爱看我发屌 无人在意我的抽象。 https://t.co/9YBk9UzA5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4491,
+          "following_count": 211,
+          "like_count": 516,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 602
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T13:14:37.000Z",
+        "description": "小号@17the8Jos 07江苏国际生｜✈️🇺🇸🇬🇧｜狮子座♌️｜SW｜直直直直男｜ INFP｜颜控｜kpop主担svt twice aespa｜🎮农 铲 火影 瓦 codm｜之前的号@August22_Jos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "17the8Jos"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "August22_Jos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/august_jos0822",
+                "end": 23,
+                "expanded_url": "https://ngl.link/august_jos0822",
+                "start": 0,
+                "url": "https://t.co/0jHrRzO1gN"
+              }
+            ]
+          }
+        },
+        "id": "1834943780296028160",
+        "location": "🚪50 几乎纯绿偶尔有福利 互关可以直接➕",
+        "name": "枫",
+        "pinned_tweet_id": "1884635405959753863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834943937666334723/yQmrIzzT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5282,
+          "following_count": 452,
+          "like_count": 2481,
+          "listed_count": 29,
+          "media_count": 297,
+          "tweet_count": 1890
+        },
+        "url": "https://t.co/0jHrRzO1gN",
+        "username": "August_Jos0822",
+        "verified": false
+      }
+    ]
+  }
+}

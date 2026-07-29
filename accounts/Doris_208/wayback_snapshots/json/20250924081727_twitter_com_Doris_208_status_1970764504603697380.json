@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1970764504603697380",
+    "created_at": "2025-09-24T08:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T09:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970764504603697380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1289785040465993729",
+          "start": 3,
+          "username": "Airsd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970764504603697380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970354890879963319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Airsd_: 好想吃，童颜巨屌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1970764504603697380",
+        "created_at": "2025-09-24T08:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970764504603697380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1289785040465993729",
+              "start": 3,
+              "username": "Airsd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970764504603697380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970354890879963319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Airsd_: 好想吃，童颜巨屌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289785040465993729",
+        "conversation_id": "1970354890879963319",
+        "created_at": "2025-09-23T05:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T06:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970354890879963319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970354890879963319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 76260,
+          "like_count": 446,
+          "quote_count": 6,
+          "reply_count": 41,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃，童颜巨屌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4511,
+          "following_count": 237,
+          "like_count": 539,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 737
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T04:48:26.000Z",
+        "description": "07文科高三生📝舞萌痴🎵🐻推玩的不多✨不能割舍的人@InfectQWQ💗里推🔞：@Airsd_Under",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "InfectQWQ"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "Airsd_Under"
+              }
+            ]
+          }
+        },
+        "id": "1289785040465993729",
+        "name": "Airsd",
+        "pinned_tweet_id": "1949503542995361925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945462106045968384/ae1FkvlS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 231,
+          "like_count": 633,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 535
+        },
+        "username": "Airsd_",
+        "verified": false
+      }
+    ]
+  }
+}

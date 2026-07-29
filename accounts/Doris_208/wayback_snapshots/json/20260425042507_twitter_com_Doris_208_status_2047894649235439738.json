@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2046917093417947330",
+    "created_at": "2026-04-25T04:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047894649235439738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "810779795214581760",
+          "start": 0,
+          "username": "0b7cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047894649235439738",
+    "in_reply_to_user_id": "810779795214581760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046917093417947330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0b7cm 这简直就是我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1594,
+        "media_key": "3_2046917062753415169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgcOToacAEt7Br.jpg",
+        "width": 892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2046917093417947330",
+        "created_at": "2026-04-25T04:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047894649235439738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "810779795214581760",
+              "start": 0,
+              "username": "0b7cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047894649235439738",
+        "in_reply_to_user_id": "810779795214581760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046917093417947330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0b7cm 这简直就是我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046917062753415169"
+          ]
+        },
+        "author_id": "810779795214581760",
+        "conversation_id": "2046917093417947330",
+        "created_at": "2026-04-22T11:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046917093417947330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIz7QppgYX",
+              "end": 35,
+              "expanded_url": "https://x.com/0b7cm/status/2046917093417947330/photo/1",
+              "media_key": "3_2046917062753415169",
+              "start": 12,
+              "url": "https://t.co/QIz7QppgYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046917093417947330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 466,
+          "impression_count": 185988,
+          "like_count": 1187,
+          "quote_count": 23,
+          "reply_count": 104,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "性欲强的女孩子的特征： https://t.co/QIz7QppgYX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "夏令营结束的那一天",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4931,
+          "following_count": 285,
+          "like_count": 602,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 981
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2044619934932795749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6709,
+          "following_count": 1027,
+          "like_count": 9845,
+          "listed_count": 9,
+          "media_count": 906,
+          "tweet_count": 11058
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

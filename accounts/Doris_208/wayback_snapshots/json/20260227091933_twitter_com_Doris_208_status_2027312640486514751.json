@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2027297663444545631",
+    "created_at": "2026-02-27T09:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T10:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027312640486514751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966188117163134976",
+          "start": 0,
+          "username": "auawyzzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027312640486514751",
+    "in_reply_to_user_id": "1966188117163134976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027297663444545631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auawyzzk 芥末烧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2027297660617498624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJoezMWIAABQox.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2027297663444545631",
+        "created_at": "2026-02-27T09:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027312640486514751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966188117163134976",
+              "start": 0,
+              "username": "auawyzzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027312640486514751",
+        "in_reply_to_user_id": "1966188117163134976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027297663444545631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auawyzzk 芥末烧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027297660617498624"
+          ]
+        },
+        "author_id": "1966188117163134976",
+        "conversation_id": "2027297663444545631",
+        "created_at": "2026-02-27T08:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027297663444545631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCXMfIpCgt",
+              "end": 56,
+              "expanded_url": "https://x.com/auawyzzk/status/2027297663444545631/photo/1",
+              "media_key": "3_2027297660617498624",
+              "start": 33,
+              "url": "https://t.co/OCXMfIpCgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027297663444545631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐久了腰不舒服发现这样好舒服 婊子老婆在我屁股下面舔我就更舒服了 https://t.co/OCXMfIpCgt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "少od多do|哥哥文学",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5230,
+          "following_count": 281,
+          "like_count": 590,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 936
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T17:12:39.000Z",
+        "description": "蝻的 神经病 家里蹲 性格恶劣 心智不成熟 负能很多 不尊重男性女性 双相 割手 od 00 188 70kg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/auawyzzk2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/auawyzzk2",
+                "start": 0,
+                "url": "https://t.co/vuAp5MrgmI"
+              }
+            ]
+          }
+        },
+        "id": "1966188117163134976",
+        "location": "墓地",
+        "name": "我一直在割",
+        "pinned_tweet_id": "2013257453979189458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023099054834728960/J-fSSyve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 31,
+          "like_count": 13055,
+          "listed_count": 0,
+          "media_count": 611,
+          "tweet_count": 8391
+        },
+        "url": "https://t.co/vuAp5MrgmI",
+        "username": "auawyzzk",
+        "verified": false
+      }
+    ]
+  }
+}

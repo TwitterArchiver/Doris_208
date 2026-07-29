@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1886587624296735177",
+    "created_at": "2025-02-04T01:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T02:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886587624296735177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680294741764894720",
+          "start": 3,
+          "username": "janny061015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886587624296735177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886093372622078027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @janny061015: 不好意思啦，我就是那种做爱的时候会搂着你的脖子压着你舌吻，主动坐肉棒还爽到吐舌头的那种痴女啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1886587624296735177",
+        "created_at": "2025-02-04T01:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T02:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886587624296735177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680294741764894720",
+              "start": 3,
+              "username": "janny061015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886587624296735177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886093372622078027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @janny061015: 不好意思啦，我就是那种做爱的时候会搂着你的脖子压着你舌吻，主动坐肉棒还爽到吐舌头的那种痴女啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680294741764894720",
+        "conversation_id": "1886093372622078027",
+        "created_at": "2025-02-02T16:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886093372622078027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886093372622078027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 128717,
+          "like_count": 613,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "不好意思啦，我就是那种做爱的时候会搂着你的脖子压着你舌吻，主动坐肉棒还爽到吐舌头的那种痴女啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 176,
+          "like_count": 445,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T19:14:26.000Z",
+        "description": "随时消失/switch，xp很杂/不设门槛不加任何联系方式，一切止于推/不接推广/\n欢迎礼貌留言💌：https://t.co/BbbRvxLZu4\nVPN： https://t.co/MJagYo7fvT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/janny061015",
+                "end": 73,
+                "expanded_url": "https://ngl.link/janny061015",
+                "start": 50,
+                "url": "https://t.co/BbbRvxLZu4"
+              },
+              {
+                "display_url": "us3.av8d.cloud/#/register?cod…",
+                "end": 102,
+                "expanded_url": "https://us3.av8d.cloud/#/register?code=SVBeZdLy",
+                "start": 79,
+                "url": "https://t.co/MJagYo7fvT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzhdx.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://hzhdx.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/SuF9hLBBUO"
+              }
+            ]
+          }
+        },
+        "id": "1680294741764894720",
+        "name": "零点时分",
+        "pinned_tweet_id": "1844723966923133318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814919233840766976/XM448GKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22624,
+          "following_count": 33,
+          "like_count": 340,
+          "listed_count": 86,
+          "media_count": 232,
+          "tweet_count": 1367
+        },
+        "url": "https://t.co/SuF9hLBBUO",
+        "username": "janny061015",
+        "verified": false
+      }
+    ]
+  }
+}

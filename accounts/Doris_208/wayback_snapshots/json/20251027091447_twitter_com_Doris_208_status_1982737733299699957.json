@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1982380261313855805",
+    "created_at": "2025-10-27T09:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T10:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982737733299699957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826633937000497152",
+          "start": 0,
+          "username": "guigui06211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982737733299699957",
+    "in_reply_to_user_id": "1826633937000497152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982380261313855805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guigui06211 想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16206,
+        "height": 1280,
+        "media_key": "13_1982380191176396800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982380191176396800/img/XtqJosVj5zy-fsE7.jpg",
+        "public_metrics": {
+          "view_count": 422
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982380191176396800/vid/avc1/320x568/HCnVVdhpqOEN4Puy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982380191176396800/vid/avc1/480x852/3W8W0bLotk9mOI-g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982380191176396800/vid/avc1/720x1280/2K0bP5JFGyK5HZ9C.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982380191176396800/pl/yCJiHA3t1u2ex5A9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1982380261313855805",
+        "created_at": "2025-10-27T09:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982737733299699957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826633937000497152",
+              "start": 0,
+              "username": "guigui06211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982737733299699957",
+        "in_reply_to_user_id": "1826633937000497152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982380261313855805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guigui06211 想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982380191176396800"
+          ]
+        },
+        "author_id": "1826633937000497152",
+        "conversation_id": "1982380261313855805",
+        "created_at": "2025-10-26T09:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982380261313855805"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "撸撸"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "唧唧"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "棒槌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v2Zfnte69S",
+              "end": 114,
+              "expanded_url": "https://x.com/guigui06211/status/1982380261313855805/video/1",
+              "media_key": "13_1982380191176396800",
+              "start": 91,
+              "url": "https://t.co/v2Zfnte69S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982380261313855805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2823,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱想做爱\n#手冲实录 #撸撸 #唧唧 #棒槌 https://t.co/v2Zfnte69S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5682,
+          "following_count": 272,
+          "like_count": 587,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 852
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T14:54:43.000Z",
+        "description": "黄推 06 生姜人（开学在南京） 直男 男生别私信我了。） 捣蒜棒槌 问 https://t.co/pD7DidYzY6 自用蜂鸟VPN：https://t.co/AzF6We82HE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BE%9F%E9%B…",
+                "end": 60,
+                "expanded_url": "https://ngl.link/%E9%BE%9F%E9%BE%9F",
+                "start": 37,
+                "url": "https://t.co/pD7DidYzY6"
+              },
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 92,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=aVnY0NeW",
+                "start": 69,
+                "url": "https://t.co/AzF6We82HE"
+              }
+            ]
+          }
+        },
+        "id": "1826633937000497152",
+        "location": "门槛188",
+        "name": "龟龟",
+        "pinned_tweet_id": "1975510970706632884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886326101934505984/m_K8qOQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10356,
+          "following_count": 577,
+          "like_count": 15047,
+          "listed_count": 39,
+          "media_count": 417,
+          "tweet_count": 1874
+        },
+        "username": "guigui06211",
+        "verified": false
+      }
+    ]
+  }
+}

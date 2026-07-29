@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1877897646083321953",
+    "created_at": "2025-01-11T01:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T02:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877897646083321953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1490941014030561283",
+          "start": 3,
+          "username": "redaizhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877897646083321953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877357961758052713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @redaizhu: 最搞笑的是你以为能通过聊骚  发裸照留住他   但其实你在他的生活里连小浪花都不算   嘴上说着图钱  其实收了点钱就愧疚   嘴上说着自己多刻薄  实际上被关心一下眼泪就掉出来了   一直幻想着能遇到同频的人  结果袒露心扉的时候 人家只想看你裸照…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1877897646083321953",
+        "created_at": "2025-01-11T01:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T02:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877897646083321953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490941014030561283",
+              "start": 3,
+              "username": "redaizhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877897646083321953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877357961758052713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @redaizhu: 最搞笑的是你以为能通过聊骚  发裸照留住他   但其实你在他的生活里连小浪花都不算   嘴上说着图钱  其实收了点钱就愧疚   嘴上说着自己多刻薄  实际上被关心一下眼泪就掉出来了   一直幻想着能遇到同频的人  结果袒露心扉的时候 人家只想看你裸照…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490941014030561283",
+        "conversation_id": "1877357961758052713",
+        "created_at": "2025-01-09T14:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T15:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877357961758052713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877357961758052713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 140295,
+          "like_count": 1117,
+          "quote_count": 63,
+          "reply_count": 149,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "最搞笑的是你以为能通过聊骚  发裸照留住他   但其实你在他的生活里连小浪花都不算   嘴上说着图钱  其实收了点钱就愧疚   嘴上说着自己多刻薄  实际上被关心一下眼泪就掉出来了   一直幻想着能遇到同频的人  结果袒露心扉的时候 人家只想看你裸照跟你聊骚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 130,
+          "like_count": 437,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T06:50:26.000Z",
+        "description": "普信男     不喜欢看屏蔽就好了      祝大家天天开心喽 ❗❗❗       匿名📭📭📭 https://t.co/f0Oh2hS41M                  开心药@kaixinyao0987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "kaixinyao0987"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/goujuanjii",
+                "end": 71,
+                "expanded_url": "http://ngl.link/goujuanjii",
+                "start": 48,
+                "url": "https://t.co/f0Oh2hS41M"
+              }
+            ]
+          }
+        },
+        "id": "1490941014030561283",
+        "location": "不收口令 不收巨款 不收小款 不接推广  不加联系",
+        "name": "热带猪🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875558956464271365/jS3Awz6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5950,
+          "following_count": 78,
+          "like_count": 24826,
+          "listed_count": 10,
+          "media_count": 1504,
+          "tweet_count": 4353
+        },
+        "username": "redaizhu",
+        "verified": false
+      }
+    ]
+  }
+}

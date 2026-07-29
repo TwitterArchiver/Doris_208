@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1871428176028770687",
+    "created_at": "2024-12-24T05:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T06:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871428176028770687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1660510716934361088",
+          "start": 3,
+          "username": "S_Studio42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871428176028770687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 830
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870658072504623183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S_Studio42: 考完试了。回到家，她迫不及待打开新买的那个游戏——卖淫模拟器。\n\n她第一次知道它是在成人网站。\n\n和她年纪相仿的女生戴上游戏头盔，脱光衣服，插入了身边的假阳。接着的几十秒像画面静止了似的——除了那根电动性器在不停颤动。\n紧接着，那个女生肉眼可见地…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1871428176028770687",
+        "created_at": "2024-12-24T05:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T06:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871428176028770687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1660510716934361088",
+              "start": 3,
+              "username": "S_Studio42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871428176028770687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 830
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870658072504623183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S_Studio42: 考完试了。回到家，她迫不及待打开新买的那个游戏——卖淫模拟器。\n\n她第一次知道它是在成人网站。\n\n和她年纪相仿的女生戴上游戏头盔，脱光衣服，插入了身边的假阳。接着的几十秒像画面静止了似的——除了那根电动性器在不停颤动。\n紧接着，那个女生肉眼可见地…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "1870658072504623183",
+        "created_at": "2024-12-22T02:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T03:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870658072504623183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870658072504623183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3524,
+          "impression_count": 2966617,
+          "like_count": 12151,
+          "quote_count": 108,
+          "reply_count": 195,
+          "retweet_count": 830
+        },
+        "reply_settings": "everyone",
+        "text": "考完试了。回到家，她迫不及待打开新买的那个游戏——卖淫模拟器。\n\n她第一次知道它是在成人网站。\n\n和她年纪相仿的女生戴上游戏头盔，脱光衣服，插入了身边的假阳。接着的几十秒像画面静止了似的——除了那根电动性器在不停颤动。\n紧接着，那个女生肉眼可见地潮喷了。\n\n视频戛然而止。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 89,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "1838138133428461611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36083,
+          "following_count": 109,
+          "like_count": 6389,
+          "listed_count": 48,
+          "media_count": 17,
+          "tweet_count": 1348
+        },
+        "username": "S_Studio42",
+        "verified": false
+      }
+    ]
+  }
+}

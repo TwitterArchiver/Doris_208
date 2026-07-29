@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1880506712001790265",
+    "created_at": "2025-01-18T06:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T07:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880506712001790265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634814899284250624",
+          "start": 3,
+          "username": "babyi99s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880506712001790265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879836780150849735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @babyi99s: 我有一种不擅长聊天又想粘人的弱智感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1880506712001790265",
+        "created_at": "2025-01-18T06:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T07:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880506712001790265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634814899284250624",
+              "start": 3,
+              "username": "babyi99s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880506712001790265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879836780150849735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @babyi99s: 我有一种不擅长聊天又想粘人的弱智感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634814899284250624",
+        "conversation_id": "1879836780150849735",
+        "created_at": "2025-01-16T10:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T11:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879836780150849735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879836780150849735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 63213,
+          "like_count": 765,
+          "quote_count": 30,
+          "reply_count": 60,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "我有一种不擅长聊天又想粘人的弱智感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 147,
+          "like_count": 437,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T07:13:57.000Z",
+        "description": "人机",
+        "id": "1634814899284250624",
+        "name": "i99s",
+        "pinned_tweet_id": "1791351533164224698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841973147412860928/rCeaiv1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10086,
+          "following_count": 26,
+          "like_count": 3114,
+          "listed_count": 28,
+          "media_count": 190,
+          "tweet_count": 597
+        },
+        "username": "babyi99s",
+        "verified": false
+      }
+    ]
+  }
+}

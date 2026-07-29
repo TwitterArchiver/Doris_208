@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1941894120794132776",
+    "created_at": "2025-07-08T13:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T14:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942580390423847123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1535137209506238464",
+          "start": 0,
+          "username": "dolores_0609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942580390423847123",
+    "in_reply_to_user_id": "1535137209506238464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941894120794132776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dolores_0609 鸡兜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1941894120794132776",
+        "created_at": "2025-07-08T13:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T14:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942580390423847123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1535137209506238464",
+              "start": 0,
+              "username": "dolores_0609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942580390423847123",
+        "in_reply_to_user_id": "1535137209506238464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941894120794132776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dolores_0609 鸡兜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535137209506238464",
+        "conversation_id": "1941894120794132776",
+        "created_at": "2025-07-06T16:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T17:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941894120794132776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941894120794132776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 166481,
+          "like_count": 2432,
+          "quote_count": 27,
+          "reply_count": 191,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼男生都說內衣是奶罩！！！\n好不能理解！！！\n\n我就不會說男生的內褲叫屌褲啊🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 209,
+          "like_count": 509,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 583
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T05:50:32.000Z",
+        "description": "台灣個人勢修女Vtuber\n\n⛓繪圖Tag #多洛莉絲Art \n⛓R18Tag #墮落莉絲 \n⛓綠界連結 https://t.co/OqWs2Ury10 \n⛓DC群 https://t.co/KlZoT3yQC5 \n\n工商邀約合作 dolores20000609@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "多洛莉絲Art"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "墮落莉絲"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "p.ecpay.com.tw/EE175D6",
+                "end": 76,
+                "expanded_url": "http://p.ecpay.com.tw/EE175D6",
+                "start": 53,
+                "url": "https://t.co/OqWs2Ury10"
+              },
+              {
+                "display_url": "discord.gg/CXrkW9rnn8",
+                "end": 106,
+                "expanded_url": "https://discord.gg/CXrkW9rnn8",
+                "start": 83,
+                "url": "https://t.co/KlZoT3yQC5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/dolores9206…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/dolores920609",
+                "start": 0,
+                "url": "https://t.co/C1eDIgmZ7F"
+              }
+            ]
+          }
+        },
+        "id": "1535137209506238464",
+        "name": "多洛莉絲⛓修女Vtuber ASMR劇本新手",
+        "pinned_tweet_id": "1667649508216553474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798277940758896640/dOhQsMcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3807,
+          "following_count": 369,
+          "like_count": 10917,
+          "listed_count": 15,
+          "media_count": 1092,
+          "tweet_count": 7331
+        },
+        "url": "https://t.co/C1eDIgmZ7F",
+        "username": "dolores_0609",
+        "verified": false
+      }
+    ]
+  }
+}

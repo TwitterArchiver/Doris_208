@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1918659486346010667",
+    "created_at": "2025-05-04T00:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T01:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918820043401658458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "986091351967191040",
+          "start": 0,
+          "username": "kzl2064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918820043401658458",
+    "in_reply_to_user_id": "986091351967191040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918659486346010667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kzl2064 鬼头收回去"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22613,
+        "height": 1280,
+        "media_key": "7_1918659321665028096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1918659321665028096/pu/img/Dq_0JbXo6HQXKSDW.jpg",
+        "public_metrics": {
+          "view_count": 1121
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918659321665028096/pu/vid/avc1/320x568/IEAIvr-q0stsVyvP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918659321665028096/pu/vid/avc1/480x852/Lc2Hl6BmNN9jGLxI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918659321665028096/pu/vid/avc1/720x1280/kzufzZVwAc1tRIIE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1918659321665028096/pu/pl/YSpiDEzRlUCuPIRX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1918659486346010667",
+        "created_at": "2025-05-04T00:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T01:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918820043401658458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "986091351967191040",
+              "start": 0,
+              "username": "kzl2064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918820043401658458",
+        "in_reply_to_user_id": "986091351967191040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918659486346010667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kzl2064 鬼头收回去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1918659321665028096"
+          ]
+        },
+        "author_id": "986091351967191040",
+        "conversation_id": "1918659486346010667",
+        "created_at": "2025-05-03T13:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T14:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918659486346010667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LWjTQrqt97",
+              "end": 137,
+              "expanded_url": "https://x.com/kzl2064/status/1918659486346010667/video/1",
+              "media_key": "7_1918659321665028096",
+              "start": 114,
+              "url": "https://t.co/LWjTQrqt97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918659486346010667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2828,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "a：“同学，你内裤漏东西了”\nb：“漏东西？”\na：“与其说是漏，不如说像是吊着啥东西？你看看？”\nb：“我看看啥东西？啊我草”(拿手遮住）\na：“啥东西呀我也看看(掰开b手)，我去怎么是鬼头”\n后续剧情各位联想，编不下去了🤔 https://t.co/LWjTQrqt97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4496,
+          "following_count": 180,
+          "like_count": 453,
+          "listed_count": 9,
+          "media_count": 51,
+          "tweet_count": 460
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T03:57:53.000Z",
+        "description": "一个很普通的普通人，推文全是下体（没打敏感，不喜欢看鸡巴和蛋蛋的请立马退出!）不是gay，私信必回",
+        "id": "986091351967191040",
+        "location": "广东",
+        "name": "鸡飞蛋打",
+        "pinned_tweet_id": "1813083896797700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488206928337534980/Oyy9KKu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8969,
+          "following_count": 753,
+          "like_count": 7541,
+          "listed_count": 43,
+          "media_count": 111,
+          "tweet_count": 813
+        },
+        "username": "kzl2064",
+        "verified": false
+      }
+    ]
+  }
+}

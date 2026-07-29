@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2020340653138538602",
+    "created_at": "2026-02-08T03:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T04:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020340653138538602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909663766771310592",
+          "start": 3,
+          "username": "012277ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020340653138538602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019961099047813234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @012277ovo: 我们缺爱逼的一生都在等 小时候乖乖听话等爸妈一句夸赞 上学努力学习等老师的一句肯定 长大谈个恋爱拼命付出等对方多爱自己一点  一直在等自己多幸运多幸福一些  一直在等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2020340653138538602",
+        "created_at": "2026-02-08T03:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020340653138538602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909663766771310592",
+              "start": 3,
+              "username": "012277ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020340653138538602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019961099047813234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @012277ovo: 我们缺爱逼的一生都在等 小时候乖乖听话等爸妈一句夸赞 上学努力学习等老师的一句肯定 长大谈个恋爱拼命付出等对方多爱自己一点  一直在等自己多幸运多幸福一些  一直在等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909663766771310592",
+        "conversation_id": "2019961099047813234",
+        "created_at": "2026-02-07T02:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019961099047813234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019961099047813234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 12618,
+          "like_count": 409,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "我们缺爱逼的一生都在等 小时候乖乖听话等爸妈一句夸赞 上学努力学习等老师的一句肯定 长大谈个恋爱拼命付出等对方多爱自己一点  一直在等自己多幸运多幸福一些  一直在等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "少od多do",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5252,
+          "following_count": 277,
+          "like_count": 581,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 909
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T17:45:07.000Z",
+        "description": "不谈不恋不聊黄不陪聊不线下 |  只发碎碎念和照片 | 可以叫我小希",
+        "id": "1909663766771310592",
+        "name": "KLaxixi77",
+        "pinned_tweet_id": "2016457569993375959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009208157307031552/6ReJlkN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 77,
+          "like_count": 1462,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 714
+        },
+        "username": "012277ovo",
+        "verified": false
+      }
+    ]
+  }
+}

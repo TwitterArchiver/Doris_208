@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1870725837278122423",
+    "created_at": "2024-12-22T09:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T10:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870766313469358439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1470728609954418688",
+          "start": 0,
+          "username": "xuanjirugua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870766313469358439",
+    "in_reply_to_user_id": "1470728609954418688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870725837278122423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanjirugua 这个世界不要太爱男了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1870725837278122423",
+        "created_at": "2024-12-22T09:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T10:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870766313469358439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1470728609954418688",
+              "start": 0,
+              "username": "xuanjirugua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870766313469358439",
+        "in_reply_to_user_id": "1470728609954418688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870725837278122423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanjirugua 这个世界不要太爱男了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470728609954418688",
+        "conversation_id": "1870725837278122423",
+        "created_at": "2024-12-22T06:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T07:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870725837278122423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870725837278122423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 496,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来我想起来为什么说男女团长的区别了。\n团长要开麦的嘛。之前我跟过一个声音比较尖细的娃娃音团长。怎么说呢。五车里面有两三车让她关变声器。或者别夹着说话。\n但是我也跟过那种很夹很端的男团长的团，甚至是那种气泡音团长。\n团队基本上都不会去攻击人家的声音。\n这就是区别。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|负能量集中地|mental death|✟升天✟|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 76,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-14T12:13:35.000Z",
+        "description": "我只是真爱打游戏。",
+        "id": "1470728609954418688",
+        "location": "万花谷",
+        "name": "玄机",
+        "pinned_tweet_id": "1799893327896359112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546805891370205184/Od3P_TB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4709,
+          "following_count": 440,
+          "like_count": 3259,
+          "listed_count": 8,
+          "media_count": 874,
+          "tweet_count": 7190
+        },
+        "username": "xuanjirugua",
+        "verified": false
+      }
+    ]
+  }
+}

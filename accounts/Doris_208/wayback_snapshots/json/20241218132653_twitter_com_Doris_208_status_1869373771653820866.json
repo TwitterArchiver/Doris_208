@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1869373771653820866",
+    "created_at": "2024-12-18T13:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T14:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869373771653820866"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1869373771653820866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我应该有尾巴的一堆理由：\n1.尾巴毛茸茸很好摸；\n2.有点涩；\n3.好动的时候可以晃尾巴而不是抖腿；\n4.不用担心说反话，因为尾巴会暴露我；\n5.开心的时候应该晃尾巴而不是晃jio；\n6.尾巴很可爱（喊）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1869373771653820866",
+        "created_at": "2024-12-18T13:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T14:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869373771653820866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869373771653820866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该有尾巴的一堆理由：\n1.尾巴毛茸茸很好摸；\n2.有点涩；\n3.好动的时候可以晃尾巴而不是抖腿；\n4.不用担心说反话，因为尾巴会暴露我；\n5.开心的时候应该晃尾巴而不是晃jio；\n6.尾巴很可爱（喊）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|负能量集中地|mental death|✟升天✟",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 59,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 193
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

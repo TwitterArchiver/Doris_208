@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1969202788170170706",
+    "created_at": "2025-09-20T12:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969383734899085327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1269093325660774402",
+          "start": 0,
+          "username": "kelebabe7171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969383734899085327",
+    "in_reply_to_user_id": "1269093325660774402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969202788170170706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kelebabe7171 傻人有傻福，傻逼没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1969202788170170706",
+        "created_at": "2025-09-20T12:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969383734899085327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1269093325660774402",
+              "start": 0,
+              "username": "kelebabe7171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969383734899085327",
+        "in_reply_to_user_id": "1269093325660774402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969202788170170706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kelebabe7171 傻人有傻福，傻逼没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1269093325660774402",
+        "conversation_id": "1969202788170170706",
+        "created_at": "2025-09-20T00:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T01:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969202788170170706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969202788170170706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1060,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "都说傻人有傻福，他妈的，我都成傻逼了，福呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4493,
+          "following_count": 233,
+          "like_count": 536,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 727
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-06T02:26:51.000Z",
+        "description": "#男喘 \n我是傻逼，业余男喘，非专业，螺旋屌丝音，什么都录，无🚪，接各种陪，看不惯我的可以枪毙我，别骂我，会看私信。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "男喘"
+              }
+            ]
+          }
+        },
+        "id": "1269093325660774402",
+        "name": "雪碧",
+        "pinned_tweet_id": "1966760409655861425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962115996569030656/ptnIopbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 174,
+          "like_count": 168,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 282
+        },
+        "username": "kelebabe7171",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1971825792985583667",
+    "created_at": "2025-09-28T04:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T05:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972151041396560043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883491513206034432",
+          "start": 0,
+          "username": "ComMavericks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972151041396560043",
+    "in_reply_to_user_id": "1883491513206034432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971825792985583667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ComMavericks 我想接一些纯yellow陪睡…山东做这个有市场吗…因为我最近压力很大，长期失眠…我想和人一起doi，一起doi，希望有人一起doi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1971825792985583667",
+        "created_at": "2025-09-28T04:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972151041396560043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883491513206034432",
+              "start": 0,
+              "username": "ComMavericks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972151041396560043",
+        "in_reply_to_user_id": "1883491513206034432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971825792985583667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ComMavericks 我想接一些纯yellow陪睡…山东做这个有市场吗…因为我最近压力很大，长期失眠…我想和人一起doi，一起doi，希望有人一起doi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883491513206034432",
+        "conversation_id": "1971825792985583667",
+        "created_at": "2025-09-27T06:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T07:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971825792985583667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971825792985583667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 198118,
+          "like_count": 512,
+          "quote_count": 14,
+          "reply_count": 76,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我想接一些纯yellow陪睡…山东做这个有市场吗…因为我最近压力很大，长期失眠…我想和人一起doi，一起doi，希望有人一起doi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4505,
+          "following_count": 238,
+          "like_count": 529,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 749
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T12:26:51.000Z",
+        "description": "这个人又凶又饥渴 大号@mavericks_surr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "mavericks_surr"
+              }
+            ]
+          }
+        },
+        "id": "1883491513206034432",
+        "location": "shandong",
+        "name": "Narcissus",
+        "pinned_tweet_id": "1969338276159815722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883494157299109888/VZZp7aGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5486,
+          "following_count": 115,
+          "like_count": 1168,
+          "listed_count": 7,
+          "media_count": 22,
+          "tweet_count": 312
+        },
+        "username": "ComMavericks",
+        "verified": false
+      }
+    ]
+  }
+}

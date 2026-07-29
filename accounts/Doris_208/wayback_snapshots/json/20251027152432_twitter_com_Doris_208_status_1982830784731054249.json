@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1982799175843553581",
+    "created_at": "2025-10-27T15:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T16:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982830784731054249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727748567555837953",
+          "start": 0,
+          "username": "hvyfjj70529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982830784731054249",
+    "in_reply_to_user_id": "1727748567555837953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982799175843553581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hvyfjj70529 射恁多😧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26035,
+        "height": 720,
+        "media_key": "7_1982798985933864960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982798985933864960/pu/img/cczfJkYz7BT_4F_O.jpg",
+        "public_metrics": {
+          "view_count": 194
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982798985933864960/pu/vid/avc1/480x270/PVDqWluKLMhObyme.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982798985933864960/pu/vid/avc1/640x360/Snnw-4MzbOPhIlR2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982798985933864960/pu/vid/avc1/1280x720/sPuBb1VtdSkfWWZS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982798985933864960/pu/pl/sVCu6rg3RvEqvNxb.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1982799175843553581",
+        "created_at": "2025-10-27T15:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982830784731054249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727748567555837953",
+              "start": 0,
+              "username": "hvyfjj70529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982830784731054249",
+        "in_reply_to_user_id": "1727748567555837953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982799175843553581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hvyfjj70529 射恁多😧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982798985933864960"
+          ]
+        },
+        "author_id": "1727748567555837953",
+        "conversation_id": "1982799175843553581",
+        "created_at": "2025-10-27T13:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T14:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982799175843553581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oa2inQzRU",
+              "end": 60,
+              "expanded_url": "https://x.com/hvyfjj70529/status/1982799175843553581/video/1",
+              "media_key": "7_1982798985933864960",
+              "start": 37,
+              "url": "https://t.co/8oa2inQzRU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982799175843553581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 666,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "慎点。🔞。牛子。\n反正账号被ban了我就这么发了吧！背景是水声没有人声。 https://t.co/8oa2inQzRU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5685,
+          "following_count": 274,
+          "like_count": 592,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 854
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T17:59:03.000Z",
+        "description": "我是人吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chaoren2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chaoren2",
+                "start": 0,
+                "url": "https://t.co/1SvsPky44q"
+              }
+            ]
+          }
+        },
+        "id": "1727748567555837953",
+        "location": "是的",
+        "name": "迈迈迈卡",
+        "pinned_tweet_id": "1977262210293301484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916383035324518400/8olq74GV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6582,
+          "following_count": 509,
+          "like_count": 105166,
+          "listed_count": 10,
+          "media_count": 1762,
+          "tweet_count": 32270
+        },
+        "url": "https://t.co/1SvsPky44q",
+        "username": "hvyfjj70529",
+        "verified": false
+      }
+    ]
+  }
+}

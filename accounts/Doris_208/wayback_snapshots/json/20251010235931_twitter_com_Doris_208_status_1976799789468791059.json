@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1976683893857427774",
+    "created_at": "2025-10-10T23:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T00:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976799789468791059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881766065900077056",
+          "start": 0,
+          "username": "Xin369556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976799789468791059",
+    "in_reply_to_user_id": "1881766065900077056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976683893857427774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xin369556 好吓人😧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976683864899878912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26XgJCagAAYcjD.jpg",
+        "width": 931
+      },
+      {
+        "height": 785,
+        "media_key": "3_1976683865118027776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26XgJ2bMAA5Vce.jpg",
+        "width": 1313
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976683865071857664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26XgJrasAA0f5E.jpg",
+        "width": 1282
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976683865076113408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26XgJsboAA0puG.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1976683893857427774",
+        "created_at": "2025-10-10T23:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T00:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976799789468791059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881766065900077056",
+              "start": 0,
+              "username": "Xin369556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976799789468791059",
+        "in_reply_to_user_id": "1881766065900077056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976683893857427774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xin369556 好吓人😧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976683864899878912",
+            "3_1976683865118027776",
+            "3_1976683865071857664",
+            "3_1976683865076113408"
+          ]
+        },
+        "author_id": "1881766065900077056",
+        "conversation_id": "1976683893857427774",
+        "created_at": "2025-10-10T16:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976683893857427774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Je7xysFM91",
+              "end": 168,
+              "expanded_url": "https://x.com/Xin369556/status/1976683893857427774/photo/1",
+              "media_key": "3_1976683864899878912",
+              "start": 145,
+              "url": "https://t.co/Je7xysFM91"
+            },
+            {
+              "display_url": "pic.x.com/Je7xysFM91",
+              "end": 168,
+              "expanded_url": "https://x.com/Xin369556/status/1976683893857427774/photo/1",
+              "media_key": "3_1976683865118027776",
+              "start": 145,
+              "url": "https://t.co/Je7xysFM91"
+            },
+            {
+              "display_url": "pic.x.com/Je7xysFM91",
+              "end": 168,
+              "expanded_url": "https://x.com/Xin369556/status/1976683893857427774/photo/1",
+              "media_key": "3_1976683865071857664",
+              "start": 145,
+              "url": "https://t.co/Je7xysFM91"
+            },
+            {
+              "display_url": "pic.x.com/Je7xysFM91",
+              "end": 168,
+              "expanded_url": "https://x.com/Xin369556/status/1976683893857427774/photo/1",
+              "media_key": "3_1976683865076113408",
+              "start": 145,
+              "url": "https://t.co/Je7xysFM91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976683893857427774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9834,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有些人是不是以为自己做的恶心人的事说的傻逼话都可以用抽象这一词一概而过？\n我和你认识吗你就给我ngl两天时间发了十多条类似p4的提问，还直接和我贴脸说是你发的在我面前刷存在感\n你是个什么玩意啊，你比下水道蠕动的蛆虫还令人作呕在这恶心人傻逼一样\n发身材照然后头像名字简介全都在装可爱装爱猫男 https://t.co/Je7xysFM91"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5749,
+          "following_count": 257,
+          "like_count": 557,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 808
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T18:09:47.000Z",
+        "description": "嗯。头像是本人。是一只外星公猫。私信可以随意骚扰。此猫很闲。直的。直的。直的。男同不要关注我好嘛或者关注就算了不要私信嗯。",
+        "id": "1881766065900077056",
+        "location": "广州",
+        "name": "YY",
+        "pinned_tweet_id": "1971261356285612304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961796212992221184/O0U2BXN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 312,
+          "like_count": 37346,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 5748
+        },
+        "username": "Xin369556",
+        "verified": false
+      }
+    ]
+  }
+}

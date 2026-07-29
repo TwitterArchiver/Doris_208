@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907377536830709760"
+      ]
+    },
+    "author_id": "1577453972482203648",
+    "conversation_id": "1907377539565379807",
+    "created_at": "2025-04-02T10:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T11:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907377539565379807"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "剑网三"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "剑网3"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "剑三"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZhDFulrUWJ",
+          "end": 53,
+          "expanded_url": "https://x.com/Doris_208/status/1907377539565379807/photo/1",
+          "media_key": "3_1907377536830709760",
+          "start": 30,
+          "url": "https://t.co/ZhDFulrUWJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907377539565379807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这衣服是什么翻车外观，深v也🤤 #剑网三 #剑网3 #剑三 https://t.co/ZhDFulrUWJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907377536830709760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnhdw5daoAAvKKF.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907377536830709760"
+          ]
+        },
+        "author_id": "1577453972482203648",
+        "conversation_id": "1907377539565379807",
+        "created_at": "2025-04-02T10:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T11:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907377539565379807"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "剑网三"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "剑网3"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "剑三"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhDFulrUWJ",
+              "end": 53,
+              "expanded_url": "https://x.com/Doris_208/status/1907377539565379807/photo/1",
+              "media_key": "3_1907377536830709760",
+              "start": 30,
+              "url": "https://t.co/ZhDFulrUWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907377539565379807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这衣服是什么翻车外观，深v也🤤 #剑网三 #剑网3 #剑三 https://t.co/ZhDFulrUWJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "努力健全",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4452,
+          "following_count": 176,
+          "like_count": 439,
+          "listed_count": 9,
+          "media_count": 48,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

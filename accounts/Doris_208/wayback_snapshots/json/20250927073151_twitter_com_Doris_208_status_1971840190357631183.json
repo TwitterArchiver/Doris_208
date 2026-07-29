@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1971840190357631183",
+    "created_at": "2025-09-27T07:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T08:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971840190357631183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ifeelsobad04/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Ifeelsobad04/status/1971275450866597902",
+          "start": 7,
+          "url": "https://t.co/jAPXC4vEt2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971840190357631183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971275450866597902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这简直就是我 https://t.co/jAPXC4vEt2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1971840190357631183",
+        "created_at": "2025-09-27T07:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T08:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971840190357631183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ifeelsobad04/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Ifeelsobad04/status/1971275450866597902",
+              "start": 7,
+              "url": "https://t.co/jAPXC4vEt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971840190357631183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971275450866597902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这简直就是我 https://t.co/jAPXC4vEt2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783130866950213632",
+        "conversation_id": "1971275450866597902",
+        "created_at": "2025-09-25T18:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T19:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971275450866597902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971275450866597902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 194210,
+          "like_count": 1503,
+          "quote_count": 42,
+          "reply_count": 122,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "完全喜欢那种长得萌萌的 但其实很色情很下流的女生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4503,
+          "following_count": 238,
+          "like_count": 542,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 745
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T13:48:28.000Z",
+        "description": "这个人很无聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%9D%8F%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%9D%8F%E5%92%96%E5%95%A11",
+                "start": 0,
+                "url": "https://t.co/LyDKZxayem"
+              }
+            ]
+          }
+        },
+        "id": "1783130866950213632",
+        "name": "坏咖啡",
+        "pinned_tweet_id": "1971469594805326322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922341005119934464/zAepbQuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 448,
+          "like_count": 13289,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/LyDKZxayem",
+        "username": "Ifeelsobad04",
+        "verified": false
+      }
+    ]
+  }
+}

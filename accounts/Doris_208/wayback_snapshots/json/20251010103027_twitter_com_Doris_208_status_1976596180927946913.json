@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1976535093683650917",
+    "created_at": "2025-10-10T10:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T11:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976596180927946913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826633937000497152",
+          "start": 0,
+          "username": "guigui06211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976596180927946913",
+    "in_reply_to_user_id": "1826633937000497152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976535093683650917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guigui06211 什么嘛~废柴处男哥哥会想这种事情啊♡~唔呃，把你肮脏的目光拿开啦~很恶心哦♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1976535093683650917",
+        "created_at": "2025-10-10T10:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976596180927946913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826633937000497152",
+              "start": 0,
+              "username": "guigui06211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976596180927946913",
+        "in_reply_to_user_id": "1826633937000497152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976535093683650917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guigui06211 什么嘛~废柴处男哥哥会想这种事情啊♡~唔呃，把你肮脏的目光拿开啦~很恶心哦♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826633937000497152",
+        "conversation_id": "1976535093683650917",
+        "created_at": "2025-10-10T06:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T07:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976535093683650917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xusiyia/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xusiyia/status/1976335460772573406",
+              "start": 13,
+              "url": "https://t.co/18DhOmK3LJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976535093683650917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1306,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976335460772573406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来调戏一下我这个小厨男 https://t.co/18DhOmK3LJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5747,
+          "following_count": 257,
+          "like_count": 553,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 800
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T14:54:43.000Z",
+        "description": "黄推 06 生姜人（开学在南京） 直男 男生别私信我了。） 捣蒜棒槌 问 https://t.co/pD7DidYzY6 自用蜂鸟VPN：https://t.co/AzF6We82HE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BE%9F%E9%B…",
+                "end": 60,
+                "expanded_url": "https://ngl.link/%E9%BE%9F%E9%BE%9F",
+                "start": 37,
+                "url": "https://t.co/pD7DidYzY6"
+              },
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 92,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=aVnY0NeW",
+                "start": 69,
+                "url": "https://t.co/AzF6We82HE"
+              }
+            ]
+          }
+        },
+        "id": "1826633937000497152",
+        "location": "门槛188",
+        "name": "龟龟",
+        "pinned_tweet_id": "1975510970706632884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886326101934505984/m_K8qOQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9800,
+          "following_count": 559,
+          "like_count": 14531,
+          "listed_count": 36,
+          "media_count": 396,
+          "tweet_count": 1795
+        },
+        "username": "guigui06211",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1982406049887080856",
+    "created_at": "2025-10-26T11:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T12:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982411556047802627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596484711450259456",
+          "start": 0,
+          "username": "bailuy2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982411556047802627",
+    "in_reply_to_user_id": "1596484711450259456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982406049887080856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bailuy2 啥问题👂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 551,
+        "media_key": "3_1982406047336660992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Lry_wWgAAUK6d.jpg",
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1982406049887080856",
+        "created_at": "2025-10-26T11:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982411556047802627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596484711450259456",
+              "start": 0,
+              "username": "bailuy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982411556047802627",
+        "in_reply_to_user_id": "1596484711450259456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982406049887080856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bailuy2 啥问题👂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982406047336660992"
+          ]
+        },
+        "author_id": "1596484711450259456",
+        "conversation_id": "1982406049887080856",
+        "created_at": "2025-10-26T11:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982406049887080856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KxlV2Spnq",
+              "end": 50,
+              "expanded_url": "https://x.com/bailuy2/status/1982406049887080856/photo/1",
+              "media_key": "3_1982406047336660992",
+              "start": 27,
+              "url": "https://t.co/9KxlV2Spnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982406049887080856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么知道哥们210减到150的都会问一个相同的问题 https://t.co/9KxlV2Spnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5686,
+          "following_count": 271,
+          "like_count": 586,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 851
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T12:43:20.000Z",
+        "description": "成年，大小便正常，不流哈喇子，会玩智能手机，下雨知道往家跑，被生活毒打23年，经过千锤百炼现在已经成为极品抖艾斯，你来我主页骂我，我就把你往死了抽，谢谢",
+        "id": "1596484711450259456",
+        "location": "杭州",
+        "name": "因为阳痿被女朋友甩了去当男同又被嫌弃痞颜太松无奈玩四爱",
+        "pinned_tweet_id": "1822519514510327871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966824380366737408/UtWP3H-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 880,
+          "like_count": 8504,
+          "listed_count": 3,
+          "media_count": 1231,
+          "tweet_count": 2646
+        },
+        "username": "bailuy2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2043567302365552848",
+    "created_at": "2026-04-13T05:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043567302365552848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2028430373458456576",
+          "start": 3,
+          "username": "o65518kuguagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043567302365552848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043354338320339401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o65518kuguagua: 没有安全感的人最会给人安全感，不被爱的人最会爱别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2043567302365552848",
+        "created_at": "2026-04-13T05:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043567302365552848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2028430373458456576",
+              "start": 3,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043567302365552848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043354338320339401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o65518kuguagua: 没有安全感的人最会给人安全感，不被爱的人最会爱别人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2043354338320339401",
+        "created_at": "2026-04-12T15:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043354338320339401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043354338320339401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5296,
+          "like_count": 168,
+          "quote_count": 4,
+          "reply_count": 28,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "没有安全感的人最会给人安全感，不被爱的人最会爱别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "凡我所求 皆不可得",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4937,
+          "following_count": 285,
+          "like_count": 599,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 965
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "哥控｜我需要很多周末o.O 这个是我的大分身@qiu_song60259\n锁推小号@Kuguadawang6677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "qiu_song60259"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Kuguadawang6677"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……",
+        "name": "咩咩",
+        "pinned_tweet_id": "2035726523810861085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028450466460241920/ceK3GGSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 388,
+          "like_count": 5061,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1492
+        },
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

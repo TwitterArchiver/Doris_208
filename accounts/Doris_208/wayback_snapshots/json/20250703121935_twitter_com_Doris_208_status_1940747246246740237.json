@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1940747246246740237",
+    "created_at": "2025-07-03T12:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T13:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940747246246740237"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1940747246246740237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主人逼着我跪下，我低头趴着，只能看到他的皮鞋离我越来越近，我情不自禁吞了口口水，主人踩着我的头问我：“想吃吗？”\n我的下意识的咽了口水，点了点头。\n主人继续说，声音里带着欲望和威严继续问：“想吃什么？”\n我已经双眼迷离，低下头回答说：“今天是疯狂星期四，我想吃肯德基，v我50。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1940747246246740237",
+        "created_at": "2025-07-03T12:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940747246246740237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940747246246740237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主人逼着我跪下，我低头趴着，只能看到他的皮鞋离我越来越近，我情不自禁吞了口口水，主人踩着我的头问我：“想吃吗？”\n我的下意识的咽了口水，点了点头。\n主人继续说，声音里带着欲望和威严继续问：“想吃什么？”\n我已经双眼迷离，低下头回答说：“今天是疯狂星期四，我想吃肯德基，v我50。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4512,
+          "following_count": 203,
+          "like_count": 503,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 576
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

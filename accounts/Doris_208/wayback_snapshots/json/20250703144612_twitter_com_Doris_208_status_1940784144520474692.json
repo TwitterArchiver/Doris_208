@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1940783446416330840",
+    "created_at": "2025-07-03T14:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T15:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940784144520474692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807484227212218368",
+          "start": 0,
+          "username": "zhujin2333"
+        },
+        {
+          "end": 24,
+          "id": "1635087266099130369",
+          "start": 12,
+          "username": "jirnvcyiwju"
+        },
+        {
+          "end": 33,
+          "id": "986091351967191040",
+          "start": 25,
+          "username": "kzl2064"
+        },
+        {
+          "end": 45,
+          "id": "1118583356092903424",
+          "start": 34,
+          "username": "Ts07212598"
+        },
+        {
+          "end": 55,
+          "id": "1847822573155078144",
+          "start": 46,
+          "username": "dzp88619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940784144520474692",
+    "in_reply_to_user_id": "1807484227212218368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940783926215430438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhujin2333 @jirnvcyiwju @kzl2064 @Ts07212598 @dzp88619 卧槽自动发推"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1940783446416330840",
+        "created_at": "2025-07-03T14:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940784144520474692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807484227212218368",
+              "start": 0,
+              "username": "zhujin2333"
+            },
+            {
+              "end": 24,
+              "id": "1635087266099130369",
+              "start": 12,
+              "username": "jirnvcyiwju"
+            },
+            {
+              "end": 33,
+              "id": "986091351967191040",
+              "start": 25,
+              "username": "kzl2064"
+            },
+            {
+              "end": 45,
+              "id": "1118583356092903424",
+              "start": 34,
+              "username": "Ts07212598"
+            },
+            {
+              "end": 55,
+              "id": "1847822573155078144",
+              "start": 46,
+              "username": "dzp88619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940784144520474692",
+        "in_reply_to_user_id": "1807484227212218368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940783926215430438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhujin2333 @jirnvcyiwju @kzl2064 @Ts07212598 @dzp88619 卧槽自动发推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807484227212218368",
+        "conversation_id": "1940783446416330840",
+        "created_at": "2025-07-03T14:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940783926215430438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            },
+            {
+              "end": 23,
+              "id": "1635087266099130369",
+              "start": 11,
+              "username": "jirnvcyiwju"
+            },
+            {
+              "end": 32,
+              "id": "986091351967191040",
+              "start": 24,
+              "username": "kzl2064"
+            },
+            {
+              "end": 44,
+              "id": "1118583356092903424",
+              "start": 33,
+              "username": "Ts07212598"
+            },
+            {
+              "end": 54,
+              "id": "1847822573155078144",
+              "start": 45,
+              "username": "dzp88619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940783926215430438",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940783446416330840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 @jirnvcyiwju @kzl2064 @Ts07212598 @dzp88619 这是在干嘛喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 207,
+          "like_count": 503,
+          "listed_count": 8,
+          "media_count": 58,
+          "tweet_count": 578
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T18:40:45.000Z",
+        "description": "30/170cm/58kg长发男 欢迎关注我！私信前请先看我置顶。希望你们看我的照片能开心，感谢喜欢。欢迎买我的爱。",
+        "id": "1807484227212218368",
+        "location": "福建",
+        "name": "竹",
+        "pinned_tweet_id": "1900929476135186693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906738037851353088/GkcIrlgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16785,
+          "following_count": 41,
+          "like_count": 164,
+          "listed_count": 35,
+          "media_count": 110,
+          "tweet_count": 3782
+        },
+        "username": "zhujin2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T01:16:06.000Z",
+        "description": "",
+        "id": "1635087266099130369",
+        "name": "jirnvcyiwju",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839134844334292992/QQ7uk79U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 2292,
+          "like_count": 122271,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 350
+        },
+        "username": "jirnvcyiwju",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T03:57:53.000Z",
+        "description": "一个很普通的普通人，推文全是下体（没打敏感，不喜欢看鸡巴和蛋蛋的请立马退出!）不是gay，私信必回",
+        "id": "986091351967191040",
+        "location": "广东",
+        "name": "鸡飞蛋打",
+        "pinned_tweet_id": "1813083896797700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488206928337534980/Oyy9KKu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9729,
+          "following_count": 815,
+          "like_count": 9238,
+          "listed_count": 45,
+          "media_count": 101,
+          "tweet_count": 890
+        },
+        "username": "kzl2064",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-17T18:33:49.000Z",
+        "description": "xp系统十分发达 主攻无下限的辱骂调教 想被催眠辱骂中出调教放置下药强奸奴隶化物品化的母猪鸡巴套子们 与其扭动你的屁股看着别人的聊天记录抽搐着抠你的飞机杯穴 不如私聊给我让我用你好好套弄鸡巴（自带剧情或者想要的结果更佳）",
+        "id": "1118583356092903424",
+        "location": "肉畜垫子脸上",
+        "name": "Ts",
+        "pinned_tweet_id": "1570381551644610560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721656716587401217/i3RU9tUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7918,
+          "following_count": 3410,
+          "like_count": 5184,
+          "listed_count": 54,
+          "media_count": 486,
+          "tweet_count": 3760
+        },
+        "username": "Ts07212598",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T02:10:42.000Z",
+        "description": "一位纵月拉高剑三平均年龄的老年刀宗",
+        "id": "1847822573155078144",
+        "location": "天津",
+        "name": "偶尔怒吼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847824968811433984/9zvQEXD3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 80,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 459
+        },
+        "username": "dzp88619",
+        "verified": false
+      }
+    ]
+  }
+}

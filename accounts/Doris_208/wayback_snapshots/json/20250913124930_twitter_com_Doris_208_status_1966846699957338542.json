@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1966834884116414502",
+    "created_at": "2025-09-13T12:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T13:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966846699957338542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1744042284528836608",
+          "start": 0,
+          "username": "yinxingyanjing_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966846699957338542",
+    "in_reply_to_user_id": "1744042284528836608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966834884116414502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinxingyanjing_ 卧槽这么扫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 973,
+        "media_key": "3_1966834876134682629",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uZ5ivbcAU6dze.jpg",
+        "width": 1014
+      },
+      {
+        "height": 676,
+        "media_key": "3_1966834876105322504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uZ5iobcAgLeYT.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1966834884116414502",
+        "created_at": "2025-09-13T12:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T13:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966846699957338542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1744042284528836608",
+              "start": 0,
+              "username": "yinxingyanjing_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966846699957338542",
+        "in_reply_to_user_id": "1744042284528836608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966834884116414502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinxingyanjing_ 卧槽这么扫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966834876134682629",
+            "3_1966834876105322504"
+          ]
+        },
+        "author_id": "1744042284528836608",
+        "conversation_id": "1966834884116414502",
+        "created_at": "2025-09-13T12:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T13:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966834884116414502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0SGub84WA",
+              "end": 23,
+              "expanded_url": "https://x.com/yinxingyanjing_/status/1966834884116414502/photo/1",
+              "media_key": "3_1966834876134682629",
+              "start": 0,
+              "url": "https://t.co/z0SGub84WA"
+            },
+            {
+              "display_url": "pic.x.com/z0SGub84WA",
+              "end": 23,
+              "expanded_url": "https://x.com/yinxingyanjing_/status/1966834884116414502/photo/1",
+              "media_key": "3_1966834876105322504",
+              "start": 0,
+              "url": "https://t.co/z0SGub84WA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966834884116414502",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2132,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/z0SGub84WA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 217,
+          "like_count": 527,
+          "listed_count": 9,
+          "media_count": 60,
+          "tweet_count": 693
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T17:04:26.000Z",
+        "description": "牛子博物馆 /投稿前请先看置顶，没看置顶就投稿的会屏蔽掉，感谢配合 /丑的打了敏感，谨慎点开 /只欣赏勿走心加强防范 /可以称呼我55🫶🏻",
+        "id": "1744042284528836608",
+        "name": "给我一副隐形眼镜",
+        "pinned_tweet_id": "1846794473919205523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746650089136017408/lYs1-DuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143184,
+          "following_count": 0,
+          "like_count": 831,
+          "listed_count": 262,
+          "media_count": 1436,
+          "tweet_count": 2378
+        },
+        "username": "yinxingyanjing_",
+        "verified": false
+      }
+    ]
+  }
+}

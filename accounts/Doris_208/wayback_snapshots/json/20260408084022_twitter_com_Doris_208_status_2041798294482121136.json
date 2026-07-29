@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2041798294482121136",
+    "created_at": "2026-04-08T08:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041798294482121136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "810779795214581760",
+          "start": 3,
+          "username": "0b7cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041798294482121136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041505811835584915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0b7cm: 谈恋爱一定要选那种闷骚的平常对别人冷冷淡淡像谁都不想亲近\n可一看到你眼神就亮了\n会抱你黏你撒娇\n像一只只对你摇尾巴的小狗安静不吵却黏得刚刚好专属感超重超级上瘾。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2041798294482121136",
+        "created_at": "2026-04-08T08:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041798294482121136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "810779795214581760",
+              "start": 3,
+              "username": "0b7cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041798294482121136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041505811835584915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0b7cm: 谈恋爱一定要选那种闷骚的平常对别人冷冷淡淡像谁都不想亲近\n可一看到你眼神就亮了\n会抱你黏你撒娇\n像一只只对你摇尾巴的小狗安静不吵却黏得刚刚好专属感超重超级上瘾。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "810779795214581760",
+        "conversation_id": "2041505811835584915",
+        "created_at": "2026-04-07T13:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041505811835584915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041505811835584915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 55402,
+          "like_count": 1422,
+          "quote_count": 37,
+          "reply_count": 24,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "谈恋爱一定要选那种闷骚的平常对别人冷冷淡淡像谁都不想亲近\n可一看到你眼神就亮了\n会抱你黏你撒娇\n像一只只对你摇尾巴的小狗安静不吵却黏得刚刚好专属感超重超级上瘾。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5001,
+          "following_count": 287,
+          "like_count": 592,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 954
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2041490052367454503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3149,
+          "following_count": 1120,
+          "like_count": 5779,
+          "listed_count": 5,
+          "media_count": 449,
+          "tweet_count": 6473
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

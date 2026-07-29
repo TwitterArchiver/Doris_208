@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2058509385622778067",
+    "created_at": "2026-05-24T11:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058509385622778067"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058509385622778067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偷人是三观不正，偷不到人是五官不正，虽然你不是那种人，但你也未必是那块料"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2058509385622778067",
+        "created_at": "2026-05-24T11:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058509385622778067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058509385622778067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷人是三观不正，偷不到人是五官不正，虽然你不是那种人，但你也未必是那块料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5019,
+          "following_count": 288,
+          "like_count": 601,
+          "listed_count": 9,
+          "media_count": 47,
+          "tweet_count": 1002
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

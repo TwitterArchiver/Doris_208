@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1976934066210713833",
+    "created_at": "2025-10-11T08:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T09:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976934066210713833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HuaCeng23603/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/HuaCeng23603/status/1976850710101999823",
+          "start": 12,
+          "url": "https://t.co/q5XaGYNyiC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976934066210713833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976850710101999823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "手冲不射那不白冲了👋👋 https://t.co/q5XaGYNyiC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1976934066210713833",
+        "created_at": "2025-10-11T08:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976934066210713833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HuaCeng23603/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/HuaCeng23603/status/1976850710101999823",
+              "start": 12,
+              "url": "https://t.co/q5XaGYNyiC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976934066210713833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976850710101999823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "手冲不射那不白冲了👋👋 https://t.co/q5XaGYNyiC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687500105459683329",
+        "conversation_id": "1976850710101999823",
+        "created_at": "2025-10-11T03:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T04:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976850710101999823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976850710101999823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 55532,
+          "like_count": 462,
+          "quote_count": 4,
+          "reply_count": 77,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "好吧，我承认了 ，比起看男人的身材，我更爱看男人的鸡巴，比起看男人的鸡巴我更爱看男人射精，天啊 我怎么那么色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大|王者荣耀养老玩家",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 257,
+          "like_count": 560,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 813
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T16:26:19.000Z",
+        "description": "记录而已 反差 偶尔骚一下，天蝎女记录不为人知的一面。 在这里发疯",
+        "id": "1687500105459683329",
+        "name": "Ttf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744032889556340736/31Bpx8B3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4599,
+          "following_count": 510,
+          "like_count": 7884,
+          "listed_count": 12,
+          "media_count": 186,
+          "tweet_count": 307
+        },
+        "username": "HuaCeng23603",
+        "verified": false
+      }
+    ]
+  }
+}

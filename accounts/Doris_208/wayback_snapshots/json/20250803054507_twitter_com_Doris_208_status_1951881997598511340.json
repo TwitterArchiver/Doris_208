@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1951818515079667783",
+    "created_at": "2025-08-03T05:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T06:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951881997598511340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1555255573238927360",
+          "start": 0,
+          "username": "xiaohuaishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951881997598511340",
+    "in_reply_to_user_id": "1555255573238927360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951818515079667783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohuaishi 那很扎手了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1951818512449871872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxZAmIybIAA3yiy.jpg",
+        "width": 272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1951818515079667783",
+        "created_at": "2025-08-03T05:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T06:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951881997598511340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1555255573238927360",
+              "start": 0,
+              "username": "xiaohuaishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951881997598511340",
+        "in_reply_to_user_id": "1555255573238927360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951818515079667783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohuaishi 那很扎手了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951818512449871872"
+          ]
+        },
+        "author_id": "1555255573238927360",
+        "conversation_id": "1951818515079667783",
+        "created_at": "2025-08-03T01:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T02:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951818515079667783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tt3eg6rTNW",
+              "end": 37,
+              "expanded_url": "https://x.com/xiaohuaishi/status/1951818515079667783/photo/1",
+              "media_key": "3_1951818512449871872",
+              "start": 14,
+              "url": "https://t.co/tt3eg6rTNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951818515079667783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太热了然后一怒之下把毛剃了 https://t.co/tt3eg6rTNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4537,
+          "following_count": 219,
+          "like_count": 527,
+          "listed_count": 8,
+          "media_count": 58,
+          "tweet_count": 664
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T18:13:35.000Z",
+        "description": "说谎的是小狗 可小狗从来不说谎  |  wmx霸刀 ff狗区希斯拉德cos号 |",
+        "id": "1555255573238927360",
+        "location": "厄尔庇斯",
+        "name": "赛 博 修 勾",
+        "pinned_tweet_id": "1747658383598186639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729688899595960320/O9JU6IuQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 2265,
+          "like_count": 6828,
+          "listed_count": 4,
+          "media_count": 765,
+          "tweet_count": 6499
+        },
+        "username": "xiaohuaishi",
+        "verified": false
+      }
+    ]
+  }
+}

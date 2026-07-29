@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1969793932105277741",
+    "created_at": "2025-09-22T11:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T12:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970086650987655645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1743233646369329152",
+          "start": 0,
+          "username": "iMiniPotato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970086650987655645",
+    "in_reply_to_user_id": "1743233646369329152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969793932105277741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iMiniPotato 我以为是阳痿的ed…是我孤陋寡闻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969793916980633600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YdIY5bIAAJAaj.jpg",
+        "width": 943
+      },
+      {
+        "height": 2022,
+        "media_key": "3_1969793916984799232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YdIY6asAAzLn2.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1969793932105277741",
+        "created_at": "2025-09-22T11:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970086650987655645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1743233646369329152",
+              "start": 0,
+              "username": "iMiniPotato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970086650987655645",
+        "in_reply_to_user_id": "1743233646369329152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969793932105277741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iMiniPotato 我以为是阳痿的ed…是我孤陋寡闻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969793916980633600",
+            "3_1969793916984799232"
+          ]
+        },
+        "author_id": "1743233646369329152",
+        "conversation_id": "1969793932105277741",
+        "created_at": "2025-09-21T16:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T17:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969793932105277741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjCfqtAY81",
+              "end": 72,
+              "expanded_url": "https://x.com/iMiniPotato/status/1969793932105277741/photo/1",
+              "media_key": "3_1969793916980633600",
+              "start": 49,
+              "url": "https://t.co/mjCfqtAY81"
+            },
+            {
+              "display_url": "pic.x.com/mjCfqtAY81",
+              "end": 72,
+              "expanded_url": "https://x.com/iMiniPotato/status/1969793932105277741/photo/1",
+              "media_key": "3_1969793916984799232",
+              "start": 49,
+              "url": "https://t.co/mjCfqtAY81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969793932105277741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 78924,
+          "like_count": 381,
+          "quote_count": 9,
+          "reply_count": 116,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么小红书不能把这些ed的女生封号啊。。。真的很匪夷所思。。。小红书完全就是巨大的ed培养皿🧫 https://t.co/mjCfqtAY81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4510,
+          "following_count": 237,
+          "like_count": 540,
+          "listed_count": 9,
+          "media_count": 62,
+          "tweet_count": 735
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T11:31:13.000Z",
+        "description": "想要拥有表达的自由就要有被讨厌的勇气",
+        "id": "1743233646369329152",
+        "location": "Australia",
+        "name": "仿生云烧会梦见电子土豆吗",
+        "pinned_tweet_id": "1963231920298545394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745138620812701698/bUxgNwHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65221,
+          "following_count": 114,
+          "like_count": 16322,
+          "listed_count": 163,
+          "media_count": 5810,
+          "tweet_count": 22725
+        },
+        "username": "iMiniPotato",
+        "verified": false
+      }
+    ]
+  }
+}

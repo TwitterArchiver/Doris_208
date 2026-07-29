@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1946234051934994521",
+    "created_at": "2025-07-20T04:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T05:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946792381459918867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934072863142907904",
+          "start": 0,
+          "username": "w111111112233"
+        },
+        {
+          "end": 27,
+          "id": "1688397365336850432",
+          "start": 15,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946792381459918867",
+    "in_reply_to_user_id": "1934072863142907904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946396752300462300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w111111112233 @hongpigu980 还是连续剧呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34300,
+        "height": 1280,
+        "media_key": "13_1946396611422146560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946396611422146560/img/Qc1CYTzwDTD3HJ6K.jpg",
+        "public_metrics": {
+          "view_count": 2277
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946396611422146560/vid/avc1/320x690/TSS1EZmjUsBoUxAX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946396611422146560/vid/avc1/480x1036/oXtsBgdXuphdTgEN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946396611422146560/vid/avc1/592x1280/3UVs8mphVI8NCEn2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946396611422146560/pl/Th83KNsk5M8ydR9N.m3u8?v=cfc"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1946234051934994521",
+        "created_at": "2025-07-20T04:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T05:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946792381459918867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934072863142907904",
+              "start": 0,
+              "username": "w111111112233"
+            },
+            {
+              "end": 27,
+              "id": "1688397365336850432",
+              "start": 15,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946792381459918867",
+        "in_reply_to_user_id": "1934072863142907904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946396752300462300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w111111112233 @hongpigu980 还是连续剧呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946396611422146560"
+          ]
+        },
+        "author_id": "1934072863142907904",
+        "conversation_id": "1946234051934994521",
+        "created_at": "2025-07-19T02:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T03:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946396752300462300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQ7EWgdmLz",
+              "end": 49,
+              "expanded_url": "https://x.com/w111111112233/status/1946396752300462300/video/1",
+              "media_key": "13_1946396611422146560",
+              "start": 26,
+              "url": "https://t.co/yQ7EWgdmLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946396752300462300",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3501,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946234051934994521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 跟这个比还差点   哈哈 https://t.co/yQ7EWgdmLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4526,
+          "following_count": 211,
+          "like_count": 520,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 628
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T02:18:06.000Z",
+        "description": "",
+        "id": "1934072863142907904",
+        "location": "𖠚ᐝ",
+        "name": "累了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937361372427485184/lkCB7YS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 92
+        },
+        "username": "w111111112233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59967,
+          "following_count": 53,
+          "like_count": 69,
+          "listed_count": 57,
+          "media_count": 798,
+          "tweet_count": 1014
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

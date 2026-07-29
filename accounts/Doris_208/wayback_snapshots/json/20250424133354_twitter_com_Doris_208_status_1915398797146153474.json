@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1915330406792016144",
+    "created_at": "2025-04-24T13:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T14:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915398797146153474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1183028604248027137",
+          "start": 0,
+          "username": "dhqqwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915398797146153474",
+    "in_reply_to_user_id": "1183028604248027137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915330406792016144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dhqqwww 点了，跳蛋确实没什么感觉，久了还震得b麻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1915330406792016144",
+        "created_at": "2025-04-24T13:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T14:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915398797146153474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1183028604248027137",
+              "start": 0,
+              "username": "dhqqwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915398797146153474",
+        "in_reply_to_user_id": "1183028604248027137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915330406792016144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhqqwww 点了，跳蛋确实没什么感觉，久了还震得b麻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183028604248027137",
+        "conversation_id": "1915330406792016144",
+        "created_at": "2025-04-24T09:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T10:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915330406792016144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915330406792016144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 84270,
+          "like_count": 1078,
+          "quote_count": 22,
+          "reply_count": 109,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "不理解为什么男生会对塞跳蛋这种玩法情有独钟……\n对我而言，跳蛋这东西贴着阴蒂还好，贴到别的地方基本没感觉：就算硬塞进里面，也只能感觉到小穴里有东西卡着在振动，刺激不到任何敏感带，也毫无快感。\n总之如果各位真的想体验用小玩具让女生高潮的话，建议去搜“吮吸”、“脉冲”，比单纯振动爽一万倍…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 178,
+          "like_count": 447,
+          "listed_count": 8,
+          "media_count": 48,
+          "tweet_count": 427
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T14:36:19.000Z",
+        "description": "来了可以点个关注。",
+        "id": "1183028604248027137",
+        "location": "🚪299",
+        "name": "灯火千秋.",
+        "pinned_tweet_id": "1913533253396676772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400440744435847171/4IUONslj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235948,
+          "following_count": 279,
+          "like_count": 516,
+          "listed_count": 628,
+          "media_count": 39,
+          "tweet_count": 632
+        },
+        "username": "dhqqwww",
+        "verified": false
+      }
+    ]
+  }
+}

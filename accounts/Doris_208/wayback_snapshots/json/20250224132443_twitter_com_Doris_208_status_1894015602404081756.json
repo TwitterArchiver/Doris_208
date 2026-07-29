@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1894015602404081756",
+    "created_at": "2025-02-24T13:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T14:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894015602404081756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1372178380280401924",
+          "start": 3,
+          "username": "JUST9talk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894015602404081756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893452035455950961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JUST9talk: 突然很想睡素觉 \n找个长相性格不错的男孩子\n最好带点温柔\n提前了解一阵子 像朋友般聊聊天\n房费可以aa 见面可以准备一份小礼物\n可以是花可以是别的\n两个人亲的很缱绻 吻的很用力 拥抱的很紧\n然后亲亲耳朵埋埋脖子\n在最愉快的氛围里搂着腰一起睡觉\n这无…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1894015602404081756",
+        "created_at": "2025-02-24T13:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T14:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894015602404081756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1372178380280401924",
+              "start": 3,
+              "username": "JUST9talk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894015602404081756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893452035455950961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JUST9talk: 突然很想睡素觉 \n找个长相性格不错的男孩子\n最好带点温柔\n提前了解一阵子 像朋友般聊聊天\n房费可以aa 见面可以准备一份小礼物\n可以是花可以是别的\n两个人亲的很缱绻 吻的很用力 拥抱的很紧\n然后亲亲耳朵埋埋脖子\n在最愉快的氛围里搂着腰一起睡觉\n这无…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372178380280401924",
+        "conversation_id": "1893452035455950961",
+        "created_at": "2025-02-23T00:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T01:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893452035455950961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893452035455950961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 30451,
+          "like_count": 286,
+          "quote_count": 9,
+          "reply_count": 26,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "突然很想睡素觉 \n找个长相性格不错的男孩子\n最好带点温柔\n提前了解一阵子 像朋友般聊聊天\n房费可以aa 见面可以准备一份小礼物\n可以是花可以是别的\n两个人亲的很缱绻 吻的很用力 拥抱的很紧\n然后亲亲耳朵埋埋脖子\n在最愉快的氛围里搂着腰一起睡觉\n这无关性欲 是一场爱欲的自我疗愈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4436,
+          "following_count": 177,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:30:08.000Z",
+        "description": "生活总是变着花样雕刻一个人的痛苦",
+        "id": "1372178380280401924",
+        "name": "黑飱",
+        "pinned_tweet_id": "1892029917476348353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891926719084494850/UbPQX3a7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9012,
+          "following_count": 90,
+          "like_count": 3721,
+          "listed_count": 20,
+          "media_count": 155,
+          "tweet_count": 2022
+        },
+        "username": "JUST9talk",
+        "verified": false
+      }
+    ]
+  }
+}

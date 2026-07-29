@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1944004065991831576",
+    "created_at": "2025-07-13T02:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T03:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944216499339898925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1489611149704192005",
+          "start": 0,
+          "username": "BiYebi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944216499339898925",
+    "in_reply_to_user_id": "1489611149704192005",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944004065991831576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiYebi1 和姨妈血做毛血旺的坐一桌吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_1944004063101956098",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvp9ZUcbsAIYsNX.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1944004065991831576",
+        "created_at": "2025-07-13T02:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T03:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944216499339898925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1489611149704192005",
+              "start": 0,
+              "username": "BiYebi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944216499339898925",
+        "in_reply_to_user_id": "1489611149704192005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944004065991831576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiYebi1 和姨妈血做毛血旺的坐一桌吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944004063101956098"
+          ]
+        },
+        "author_id": "1489611149704192005",
+        "conversation_id": "1944004065991831576",
+        "created_at": "2025-07-12T12:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T13:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944004065991831576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWLDbyWS5b",
+              "end": 31,
+              "expanded_url": "https://x.com/BiYebi1/status/1944004065991831576/photo/1",
+              "media_key": "3_1944004063101956098",
+              "start": 8,
+              "url": "https://t.co/EWLDbyWS5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944004065991831576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16412,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "精子煎蛋？？？ https://t.co/EWLDbyWS5b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4491,
+          "following_count": 210,
+          "like_count": 514,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 601
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T14:46:05.000Z",
+        "description": "“世界是我的烟灰缸”",
+        "id": "1489611149704192005",
+        "name": "耶比一直比耶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942605992107077633/ONMGHWLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 43,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 73
+        },
+        "username": "BiYebi1",
+        "verified": true
+      }
+    ]
+  }
+}

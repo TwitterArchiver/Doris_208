@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1887788325010067895",
+    "created_at": "2025-02-07T11:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T12:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887823190434697607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1706609515725283328",
+          "start": 0,
+          "username": "YXxxTK172750"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887823190434697607",
+    "in_reply_to_user_id": "1706609515725283328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887821418152559014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YXxxTK172750 无事献殷勤…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1887788325010067895",
+        "created_at": "2025-02-07T11:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T12:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887823190434697607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1706609515725283328",
+              "start": 0,
+              "username": "YXxxTK172750"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887823190434697607",
+        "in_reply_to_user_id": "1706609515725283328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887821418152559014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YXxxTK172750 无事献殷勤…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706609515725283328",
+        "conversation_id": "1887788325010067895",
+        "created_at": "2025-02-07T11:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T12:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887821418152559014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887821418152559014",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887788325010067895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 又怕看起来什么都不图的，另有所图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4435,
+          "following_count": 174,
+          "like_count": 447,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T10:00:56.000Z",
+        "description": "一些碎碎念/不互不私不约不谈不陪聊不接合作不接广互不打扰/相互尊重/纯个人记录和释放✍️/别给我发吊了qql",
+        "id": "1706609515725283328",
+        "name": "茉莉冷萃重度依赖",
+        "pinned_tweet_id": "1875250072549781643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881786746129846273/0QY-sTbP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 107,
+          "like_count": 391,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 364
+        },
+        "username": "YXxxTK172750",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1953074035702821192",
+    "created_at": "2025-08-07T04:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T05:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953318606483136605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1327891184430309377",
+          "start": 0,
+          "username": "mmb_yl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953318606483136605",
+    "in_reply_to_user_id": "1327891184430309377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953074035702821192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmb_yl 让我也玩玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28733,
+        "height": 960,
+        "media_key": "13_1953073963229458432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953073963229458432/img/rGO9FQpW6R-VDvpj.jpg",
+        "public_metrics": {
+          "view_count": 3630
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953073963229458432/vid/avc1/320x564/-rLjq4Rk3zYBaV_J.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953073963229458432/vid/avc1/480x846/4cbccLmw3j4BoPAk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953073963229458432/vid/avc1/544x960/H5ldw6k9pJ93Ek_G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953073963229458432/pl/gcgqwSbUPkXtgkTc.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1953074035702821192",
+        "created_at": "2025-08-07T04:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T05:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953318606483136605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1327891184430309377",
+              "start": 0,
+              "username": "mmb_yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953318606483136605",
+        "in_reply_to_user_id": "1327891184430309377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953074035702821192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmb_yl 让我也玩玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953073963229458432"
+          ]
+        },
+        "author_id": "1327891184430309377",
+        "conversation_id": "1953074035702821192",
+        "created_at": "2025-08-06T12:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T13:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953074035702821192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NzNQkX74Ov",
+              "end": 32,
+              "expanded_url": "https://x.com/mmb_yl/status/1953074035702821192/video/1",
+              "media_key": "13_1953073963229458432",
+              "start": 9,
+              "url": "https://t.co/NzNQkX74Ov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953074035702821192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 13298,
+          "like_count": 649,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "鸡鸡就是用来玩的 https://t.co/NzNQkX74Ov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 220,
+          "like_count": 525,
+          "listed_count": 8,
+          "media_count": 59,
+          "tweet_count": 673
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-15T08:28:36.000Z",
+        "description": "Q: 3783099158",
+        "id": "1327891184430309377",
+        "location": "Hong Kong",
+        "name": "MMB YL",
+        "pinned_tweet_id": "1915023985542398149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784162505209823232/Kwf_2oLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69225,
+          "following_count": 98,
+          "like_count": 2528,
+          "listed_count": 414,
+          "media_count": 56,
+          "tweet_count": 62
+        },
+        "username": "mmb_yl",
+        "verified": false
+      }
+    ]
+  }
+}

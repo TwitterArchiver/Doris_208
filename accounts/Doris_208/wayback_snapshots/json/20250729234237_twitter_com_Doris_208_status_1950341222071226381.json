@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1950179462714151089",
+    "created_at": "2025-07-29T23:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T00:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950341222071226381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1327891184430309377",
+          "start": 0,
+          "username": "mmb_yl"
+        },
+        {
+          "end": 20,
+          "id": "1846098573655789569",
+          "start": 8,
+          "username": "Naiye_Notye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950341222071226381",
+    "in_reply_to_user_id": "1327891184430309377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950179462714151089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmb_yl @Naiye_Notye 卧槽了比那鞋子飞机杯还猎奇"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89391,
+        "height": 1280,
+        "media_key": "13_1950179205591027713",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950179205591027713/img/unCaGVMrm7JjCnd-.jpg",
+        "public_metrics": {
+          "view_count": 5301
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950179205591027713/vid/avc1/320x568/GVVgBgXN63nqtArE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950179205591027713/vid/avc1/480x852/hIQUUN6atbPMkX8-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950179205591027713/vid/avc1/720x1280/EvqYkcErr8DWe_zl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950179205591027713/pl/BP0XsLIYdQetugbV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1950179462714151089",
+        "created_at": "2025-07-29T23:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T00:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950341222071226381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1327891184430309377",
+              "start": 0,
+              "username": "mmb_yl"
+            },
+            {
+              "end": 20,
+              "id": "1846098573655789569",
+              "start": 8,
+              "username": "Naiye_Notye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950341222071226381",
+        "in_reply_to_user_id": "1327891184430309377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950179462714151089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmb_yl @Naiye_Notye 卧槽了比那鞋子飞机杯还猎奇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950179205591027713"
+          ]
+        },
+        "author_id": "1327891184430309377",
+        "conversation_id": "1950179462714151089",
+        "created_at": "2025-07-29T12:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T13:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950179462714151089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846098573655789569",
+              "start": 1,
+              "username": "Naiye_Notye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwRae1gwUs",
+              "end": 42,
+              "expanded_url": "https://x.com/mmb_yl/status/1950179462714151089/video/1",
+              "media_key": "13_1950179205591027713",
+              "start": 19,
+              "url": "https://t.co/GwRae1gwUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950179462714151089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 14915,
+          "like_count": 578,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "操@Naiye_Notye 脚模爽死 https://t.co/GwRae1gwUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4537,
+          "following_count": 218,
+          "like_count": 525,
+          "listed_count": 8,
+          "media_count": 57,
+          "tweet_count": 652
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-15T08:28:36.000Z",
+        "description": "Q: 3783099158",
+        "id": "1327891184430309377",
+        "location": "Hong Kong",
+        "name": "MMB YL",
+        "pinned_tweet_id": "1915023985542398149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784162505209823232/Kwf_2oLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68894,
+          "following_count": 97,
+          "like_count": 2477,
+          "listed_count": 410,
+          "media_count": 53,
+          "tweet_count": 58
+        },
+        "username": "mmb_yl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T08:06:48.000Z",
+        "description": "Notye, Custom Torso Doll Manufacturer.\nMore: https://t.co/42LaxLoVid \n WhatsA: +8618026432561, Email: stephen@seniordoll\n京东：奈也旗舰店。优惠码：Andy666",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/not_ye.com",
+                "end": 68,
+                "expanded_url": "https://linktr.ee/not_ye.com",
+                "start": 45,
+                "url": "https://t.co/42LaxLoVid"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "not-ye.com",
+                "end": 23,
+                "expanded_url": "https://not-ye.com/",
+                "start": 0,
+                "url": "https://t.co/Av5PR0Fh4m"
+              }
+            ]
+          }
+        },
+        "id": "1846098573655789569",
+        "location": "优惠码: Andy666",
+        "name": "奈也-Not ye！",
+        "pinned_tweet_id": "1943605782085529923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934876121876844553/z9GiMSVe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 124,
+          "like_count": 2414,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/Av5PR0Fh4m",
+        "username": "Naiye_Notye",
+        "verified": false
+      }
+    ]
+  }
+}

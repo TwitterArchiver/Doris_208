@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1936447785068556628",
+    "created_at": "2025-06-22T06:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T07:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936678178577162400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807484227212218368",
+          "start": 0,
+          "username": "zhujin2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936678178577162400",
+    "in_reply_to_user_id": "1807484227212218368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936447785068556628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhujin2333 孩子饿了想吃奶"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9483,
+        "height": 720,
+        "media_key": "13_1936447690973315072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936447690973315072/img/E_V_8R6T8PvGbLkS.jpg",
+        "public_metrics": {
+          "view_count": 1659
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936447690973315072/vid/avc1/288x270/xHjKLIidrNoy9Zq7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936447690973315072/vid/avc1/386x360/RZ1PkeZUX8sK7piP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936447690973315072/vid/avc1/772x720/-4MzVKoHT4XSH8fs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936447690973315072/pl/9CcpVKlzxN2sChu_.m3u8?tag=14"
+          }
+        ],
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1936447785068556628",
+        "created_at": "2025-06-22T06:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936678178577162400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807484227212218368",
+              "start": 0,
+              "username": "zhujin2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936678178577162400",
+        "in_reply_to_user_id": "1807484227212218368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936447785068556628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhujin2333 孩子饿了想吃奶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936447690973315072"
+          ]
+        },
+        "author_id": "1807484227212218368",
+        "conversation_id": "1936447785068556628",
+        "created_at": "2025-06-21T15:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936447785068556628"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "反差"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "腹肌"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "胸肌"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "肌肉"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "男菩萨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mfQtuhidg2",
+              "end": 53,
+              "expanded_url": "https://x.com/zhujin2333/status/1936447785068556628/video/1",
+              "media_key": "13_1936447690973315072",
+              "start": 30,
+              "url": "https://t.co/mfQtuhidg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936447785068556628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3891,
+          "like_count": 230,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "长发+大奶=  \n#反差 #腹肌 #胸肌 #肌肉 #男菩萨 https://t.co/mfQtuhidg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4500,
+          "following_count": 200,
+          "like_count": 488,
+          "listed_count": 9,
+          "media_count": 56,
+          "tweet_count": 541
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T18:40:45.000Z",
+        "description": "30/170cm/58kg长发男 欢迎关注我！私信前请先看我置顶。希望你们看我的照片能开心，感谢喜欢。我是很缺钱很贪财的一个人，欢迎买我的爱。",
+        "id": "1807484227212218368",
+        "location": "福建",
+        "name": "竹",
+        "pinned_tweet_id": "1900929476135186693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906738037851353088/GkcIrlgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16774,
+          "following_count": 40,
+          "like_count": 155,
+          "listed_count": 34,
+          "media_count": 102,
+          "tweet_count": 3677
+        },
+        "username": "zhujin2333",
+        "verified": false
+      }
+    ]
+  }
+}

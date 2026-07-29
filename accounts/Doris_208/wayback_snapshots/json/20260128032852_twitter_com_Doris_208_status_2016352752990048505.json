@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2016095526463353170",
+    "created_at": "2026-01-28T03:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T04:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016352752990048505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823767829465980931",
+          "start": 0,
+          "username": "CaoYu61579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016352752990048505",
+    "in_reply_to_user_id": "1823767829465980931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016095526463353170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaoYu61579 是真的，我平时叫他哥哥，一开始do的时候叫宝贝，后来do故意也叫哥哥，然后再问他平时被叫哥哥什么感受，他说有时候会想到do的场景被叫硬了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2016095526463353170",
+        "created_at": "2026-01-28T03:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T04:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016352752990048505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823767829465980931",
+              "start": 0,
+              "username": "CaoYu61579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016352752990048505",
+        "in_reply_to_user_id": "1823767829465980931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016095526463353170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaoYu61579 是真的，我平时叫他哥哥，一开始do的时候叫宝贝，后来do故意也叫哥哥，然后再问他平时被叫哥哥什么感受，他说有时候会想到do的场景被叫硬了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823767829465980931",
+        "conversation_id": "2016095526463353170",
+        "created_at": "2026-01-27T10:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016095526463353170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016095526463353170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 99659,
+          "like_count": 888,
+          "quote_count": 25,
+          "reply_count": 43,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉叫哥哥真的很骚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "愿顺遂无虞",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5286,
+          "following_count": 277,
+          "like_count": 580,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 903
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:05:21.000Z",
+        "description": "你像世界为了我活着抛出的诱饵┋小号@imnotoven只过互关┋取关随意┋没有陪聊的义务┋匿名：https://t.co/EcmAneyOcQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "imnotoven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.83912044",
+                "end": 71,
+                "expanded_url": "http://tellonym.me/user.83912044",
+                "start": 48,
+                "url": "https://t.co/EcmAneyOcQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binyeon_yu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/binyeon_yu",
+                "start": 0,
+                "url": "https://t.co/EiqXcqLYjB"
+              }
+            ]
+          }
+        },
+        "id": "1823767829465980931",
+        "location": "讨厌你 每个小猫你都想摸˃ ˄ ˂",
+        "name": "我烤箱咋滴",
+        "pinned_tweet_id": "2015267232566419931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007159379410464768/ObpktCDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 141,
+          "like_count": 6589,
+          "listed_count": 6,
+          "media_count": 157,
+          "tweet_count": 2735
+        },
+        "url": "https://t.co/EiqXcqLYjB",
+        "username": "CaoYu61579",
+        "verified": false
+      }
+    ]
+  }
+}

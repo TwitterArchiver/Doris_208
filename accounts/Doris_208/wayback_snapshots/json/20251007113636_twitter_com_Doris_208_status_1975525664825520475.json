@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1975525664825520475",
+    "created_at": "2025-10-07T11:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T12:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975525664825520475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fangyiyuan6797…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/fangyiyuan67972/status/1975221931013185571",
+          "start": 16,
+          "url": "https://t.co/UWVzux7pMD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975525664825520475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975221931013185571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上哪找这么爽一对象和我谈恋爱啊 https://t.co/UWVzux7pMD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1975525664825520475",
+        "created_at": "2025-10-07T11:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T12:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975525664825520475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fangyiyuan6797…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/fangyiyuan67972/status/1975221931013185571",
+              "start": 16,
+              "url": "https://t.co/UWVzux7pMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975525664825520475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975221931013185571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上哪找这么爽一对象和我谈恋爱啊 https://t.co/UWVzux7pMD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683823987217043456",
+        "conversation_id": "1975221931013185571",
+        "created_at": "2025-10-06T15:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975221931013185571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975221931013185571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 54155,
+          "like_count": 363,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "想玩龟责强高寸止捆绑扇Jb踩脸舔脚踩Jb，希望你牛子大打桩机又希望你菊花耐操，上哪能找这么爽一对象和我谈恋爱啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5477,
+          "following_count": 243,
+          "like_count": 544,
+          "listed_count": 9,
+          "media_count": 64,
+          "tweet_count": 777
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T12:58:39.000Z",
+        "description": "1i ≥4i ＞3i｜我有厌蠢症比我蠢的别来｜找个地方发情｜我有肌肤饥渴症 | 中度颜控+重度身材控",
+        "id": "1683823987217043456",
+        "location": "北京海淀",
+        "name": "ll",
+        "pinned_tweet_id": "1974506589832061243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973428441707077632/8N_0btX9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 110,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 72
+        },
+        "username": "fangyiyuan67972",
+        "verified": false
+      }
+    ]
+  }
+}

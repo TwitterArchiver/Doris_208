@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1984515964122132626",
+    "created_at": "2025-11-01T07:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T08:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984515964122132626"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984515964122132626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "万圣节你们都不用cos啦\n往那一站就是个穷鬼 上班鬼 贪吃鬼 胆小鬼 色鬼  懒鬼 爱哭鬼 倒霉鬼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1984515964122132626",
+        "created_at": "2025-11-01T07:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T08:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984515964122132626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984515964122132626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "万圣节你们都不用cos啦\n往那一站就是个穷鬼 上班鬼 贪吃鬼 胆小鬼 色鬼  懒鬼 爱哭鬼 倒霉鬼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5666,
+          "following_count": 275,
+          "like_count": 603,
+          "listed_count": 9,
+          "media_count": 67,
+          "tweet_count": 868
+        },
+        "username": "Doris_208",
+        "verified": false
+      }
+    ]
+  }
+}

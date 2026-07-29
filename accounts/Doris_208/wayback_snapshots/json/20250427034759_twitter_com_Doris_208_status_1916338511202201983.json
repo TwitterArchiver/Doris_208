@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916338506282242051"
+      ]
+    },
+    "author_id": "1577453972482203648",
+    "conversation_id": "1916333330624020777",
+    "created_at": "2025-04-27T03:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T04:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916338511202201983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1433678462032617475",
+          "start": 0,
+          "username": "nolittlebear"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jhNd9pxcBS",
+          "end": 51,
+          "expanded_url": "https://x.com/Doris_208/status/1916338511202201983/photo/1",
+          "media_key": "3_1916338506282242051",
+          "start": 28,
+          "url": "https://t.co/jhNd9pxcBS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916338511202201983",
+    "in_reply_to_user_id": "1433678462032617475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916333330624020777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nolittlebear 私了，我的大粉牛也给你看看 https://t.co/jhNd9pxcBS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916338511202201983].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916338511202201983",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916338511202201983"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_1916338506282242051",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpgzt-BbEAMg4yo.jpg",
+        "width": 901
+      },
+      {
+        "height": 598,
+        "media_key": "3_1916333317118693378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpgu_64bEAILHYL.jpg",
+        "width": 940
+      },
+      {
+        "height": 598,
+        "media_key": "3_1916333320360890372",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpgvAG9bEAQxBiH.jpg",
+        "width": 940
+      },
+      {
+        "height": 586,
+        "media_key": "3_1916333324081201152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpgvAU0agAAohaO.jpg",
+        "width": 940
+      },
+      {
+        "height": 586,
+        "media_key": "3_1916333327239548929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpgvAglbEAEcNog.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916333317118693378",
+            "3_1916333320360890372",
+            "3_1916333324081201152",
+            "3_1916333327239548929"
+          ]
+        },
+        "author_id": "1433678462032617475",
+        "conversation_id": "1916333330624020777",
+        "created_at": "2025-04-27T03:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T04:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916333330624020777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UIAN4DGLoD",
+              "end": 146,
+              "expanded_url": "https://x.com/nolittlebear/status/1916333330624020777/photo/1",
+              "media_key": "3_1916333317118693378",
+              "start": 123,
+              "url": "https://t.co/UIAN4DGLoD"
+            },
+            {
+              "display_url": "pic.x.com/UIAN4DGLoD",
+              "end": 146,
+              "expanded_url": "https://x.com/nolittlebear/status/1916333330624020777/photo/1",
+              "media_key": "3_1916333320360890372",
+              "start": 123,
+              "url": "https://t.co/UIAN4DGLoD"
+            },
+            {
+              "display_url": "pic.x.com/UIAN4DGLoD",
+              "end": 146,
+              "expanded_url": "https://x.com/nolittlebear/status/1916333330624020777/photo/1",
+              "media_key": "3_1916333324081201152",
+              "start": 123,
+              "url": "https://t.co/UIAN4DGLoD"
+            },
+            {
+              "display_url": "pic.x.com/UIAN4DGLoD",
+              "end": 146,
+              "expanded_url": "https://x.com/nolittlebear/status/1916333330624020777/photo/1",
+              "media_key": "3_1916333327239548929",
+              "start": 123,
+              "url": "https://t.co/UIAN4DGLoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916333330624020777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.主播就是这样萌萌嘟一个小男生（仅限推，在qq上我是操人大王）\n2.唉，主播长得天怒人怨了，只能嘴巴甜一点了，不然真混不下去\n3.OK啊，今天私信我就给你们看我的粉牛\n4.算你牛逼，一般来说主播的长相你有两个参考可以代入，一个是门酱一个是头像 https://t.co/UIAN4DGLoD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "落跑紫色火锅小人",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4485,
+          "following_count": 180,
+          "like_count": 449,
+          "listed_count": 8,
+          "media_count": 51,
+          "tweet_count": 441
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:29:28.000Z",
+        "description": "叫我小熊就好，欢迎找我问问题https://t.co/5dVfvSVjvB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nolittlebear78…",
+                "end": 37,
+                "expanded_url": "https://ngl.link/nolittlebear78260",
+                "start": 14,
+                "url": "https://t.co/5dVfvSVjvB"
+              }
+            ]
+          }
+        },
+        "id": "1433678462032617475",
+        "location": "距离你114.514km",
+        "name": "熊某人日记",
+        "pinned_tweet_id": "1905492391072592368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903045300941619200/n9NoijGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11716,
+          "following_count": 922,
+          "like_count": 12551,
+          "listed_count": 24,
+          "media_count": 1683,
+          "tweet_count": 17227
+        },
+        "username": "nolittlebear",
+        "verified": false
+      }
+    ]
+  }
+}

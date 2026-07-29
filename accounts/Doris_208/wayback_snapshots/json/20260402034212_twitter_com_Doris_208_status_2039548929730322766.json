@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2039548929730322766",
+    "created_at": "2026-04-02T03:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039548929730322766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1258410025665458177",
+          "start": 3,
+          "username": "sansssn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039548929730322766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038982774460383508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sansssn: 我喜欢那种看起来冷冷的，话少的，不很好接近的，但是背地里是个骚货的冷脸帅哥。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2039548929730322766",
+        "created_at": "2026-04-02T03:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039548929730322766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1258410025665458177",
+              "start": 3,
+              "username": "sansssn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039548929730322766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038982774460383508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sansssn: 我喜欢那种看起来冷冷的，话少的，不很好接近的，但是背地里是个骚货的冷脸帅哥。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258410025665458177",
+        "conversation_id": "2038982774460383508",
+        "created_at": "2026-03-31T14:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038982774460383508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038982774460383508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 61345,
+          "like_count": 1105,
+          "quote_count": 28,
+          "reply_count": 38,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢那种看起来冷冷的，话少的，不很好接近的，但是背地里是个骚货的冷脸帅哥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5060,
+          "following_count": 288,
+          "like_count": 589,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 952
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-07T14:55:16.000Z",
+        "description": "屌丝的日记 不回私信",
+        "id": "1258410025665458177",
+        "location": "纯绿🚪294/429 ",
+        "name": "429",
+        "pinned_tweet_id": "2030839723133124856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031960811825172480/DtFkgIF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 35,
+          "like_count": 827,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 313
+        },
+        "username": "sansssn",
+        "verified": false
+      }
+    ]
+  }
+}

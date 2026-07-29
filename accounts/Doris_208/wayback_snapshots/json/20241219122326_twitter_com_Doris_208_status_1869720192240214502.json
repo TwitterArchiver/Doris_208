@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1869720192240214502",
+    "created_at": "2024-12-19T12:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T13:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869720192240214502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1594632989652439041",
+          "start": 3,
+          "username": "friedsalt1215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869720192240214502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869330366785568820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @friedsalt1215: 别人的性生活：大do特do\n我的性生活：嘿嘿嘿嘿偷偷找个没人的地方亮度开最低搜几个小黄文看看嘿嘿嘿嘿嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1869720192240214502",
+        "created_at": "2024-12-19T12:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T13:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869720192240214502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1594632989652439041",
+              "start": 3,
+              "username": "friedsalt1215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869720192240214502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869330366785568820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @friedsalt1215: 别人的性生活：大do特do\n我的性生活：嘿嘿嘿嘿偷偷找个没人的地方亮度开最低搜几个小黄文看看嘿嘿嘿嘿嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594632989652439041",
+        "conversation_id": "1869330366785568820",
+        "created_at": "2024-12-18T10:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T11:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869330366785568820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869330366785568820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9407,
+          "like_count": 263,
+          "quote_count": 4,
+          "reply_count": 33,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "别人的性生活：大do特do\n我的性生活：嘿嘿嘿嘿偷偷找个没人的地方亮度开最低搜几个小黄文看看嘿嘿嘿嘿嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|无意义幻想|负能量集中地|mental death|✟升天✟|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 62,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T10:05:16.000Z",
+        "description": "我是男生我是男生我是男生我不聊黄色的很冒犯的请不要讨厌我啊啊啊啊😭😭😭 | 喜欢被推歌 什么都听 推后会认真听好好反馈 | 喜欢披头士喜欢日本小说散文 | 包讲礼貌的 | 最最最喜欢有意思情感丰富的人",
+        "id": "1594632989652439041",
+        "location": "垃圾桶边的石头上",
+        "name": "夏目奈禾",
+        "pinned_tweet_id": "1860700276820525081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869626387994386432/lhBzilza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 191,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1382
+        },
+        "username": "friedsalt1215",
+        "verified": false
+      }
+    ]
+  }
+}
