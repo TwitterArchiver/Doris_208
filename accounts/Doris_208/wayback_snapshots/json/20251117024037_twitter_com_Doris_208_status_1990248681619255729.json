@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1990044427583369615",
+    "created_at": "2025-11-17T02:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990248681619255729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821431905071570944",
+          "start": 0,
+          "username": "tuitenvwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990248681619255729",
+    "in_reply_to_user_id": "1821431905071570944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990044427583369615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuitenvwang 我忏悔没防住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1990044427583369615",
+        "created_at": "2025-11-17T02:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990248681619255729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821431905071570944",
+              "start": 0,
+              "username": "tuitenvwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990248681619255729",
+        "in_reply_to_user_id": "1821431905071570944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990044427583369615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuitenvwang 我忏悔没防住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821431905071570944",
+        "conversation_id": "1990044427583369615",
+        "created_at": "2025-11-16T13:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990044427583369615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990044427583369615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 22519,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们到底是怎么防止自己喜欢上炮友的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5620,
+          "following_count": 278,
+          "like_count": 613,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 892
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T06:23:12.000Z",
+        "description": "想起我了就捡起地上的小卡片打给我 @Dicksuck2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "Dicksuck2778"
+              }
+            ]
+          }
+        },
+        "id": "1821431905071570944",
+        "location": "香港",
+        "name": "坟场宝宝",
+        "pinned_tweet_id": "1918958966819704880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821432537660772352/3ctFRoG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12311,
+          "following_count": 306,
+          "like_count": 4041,
+          "listed_count": 12,
+          "media_count": 345,
+          "tweet_count": 2170
+        },
+        "username": "tuitenvwang",
+        "verified": true
+      }
+    ]
+  }
+}

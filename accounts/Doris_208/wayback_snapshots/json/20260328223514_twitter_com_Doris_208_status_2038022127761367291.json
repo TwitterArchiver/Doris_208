@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2037529029046391291",
+    "created_at": "2026-03-28T22:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T23:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038022127761367291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572560960686297092",
+          "start": 0,
+          "username": "pd567231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038022127761367291",
+    "in_reply_to_user_id": "1572560960686297092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037529029046391291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pd567231 没有太多负担的快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2037529025942523904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbB2pLaEAA1kHy.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2037529029046391291",
+        "created_at": "2026-03-28T22:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T23:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038022127761367291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572560960686297092",
+              "start": 0,
+              "username": "pd567231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038022127761367291",
+        "in_reply_to_user_id": "1572560960686297092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037529029046391291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pd567231 没有太多负担的快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037529025942523904"
+          ]
+        },
+        "author_id": "1572560960686297092",
+        "conversation_id": "2037529029046391291",
+        "created_at": "2026-03-27T13:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037529029046391291"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "北京"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKlPqTuphE",
+              "end": 132,
+              "expanded_url": "https://x.com/pd567231/status/2037529029046391291/photo/1",
+              "media_key": "3_2037529025942523904",
+              "start": 109,
+              "url": "https://t.co/qKlPqTuphE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037529029046391291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 263045,
+          "like_count": 1837,
+          "quote_count": 35,
+          "reply_count": 82,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "这应该是很多人向往的状态吧！总觉得确定一种关系，恋爱太累。也不会想直接约炮，没有一点精神共性直接上床会觉得突兀且无趣，花钱又觉得心理过不去。很多的时候又害怕孤单，偶尔需要人陪。\n所以，这种关系真的很令人向往。\n#北京 https://t.co/qKlPqTuphE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5082,
+          "following_count": 290,
+          "like_count": 586,
+          "listed_count": 9,
+          "media_count": 45,
+          "tweet_count": 947
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-21T12:18:55.000Z",
+        "description": "欲望使然、也释然。",
+        "id": "1572560960686297092",
+        "location": "北京",
+        "name": "安生、",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585435763847483392/5T2cY8TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11115,
+          "following_count": 684,
+          "like_count": 74,
+          "listed_count": 24,
+          "media_count": 1789,
+          "tweet_count": 12826
+        },
+        "username": "pd567231",
+        "verified": false
+      }
+    ]
+  }
+}

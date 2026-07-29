@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2041527321191223467",
+    "created_at": "2026-04-08T08:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041799634306396488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036346188061089792",
+          "start": 0,
+          "username": "Res1st_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041799634306396488",
+    "in_reply_to_user_id": "2036346188061089792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041527321191223467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Res1st_4 我一直在喝还控制不住速度，喝快了上头的晕眩感很美妙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041527311389073408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT2RfKaoAACzaP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041527311376551936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT2RfHbkAAX3dr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041527311372259328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT2RfGaEAAAox7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041527311376449536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT2RfHaAAAPW-C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2041527321191223467",
+        "created_at": "2026-04-08T08:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041799634306396488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036346188061089792",
+              "start": 0,
+              "username": "Res1st_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041799634306396488",
+        "in_reply_to_user_id": "2036346188061089792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041527321191223467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Res1st_4 我一直在喝还控制不住速度，喝快了上头的晕眩感很美妙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041527311389073408",
+            "3_2041527311376551936",
+            "3_2041527311372259328",
+            "3_2041527311376449536"
+          ]
+        },
+        "author_id": "2036346188061089792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041527321191223467",
+        "created_at": "2026-04-07T14:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041527321191223467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaEFAW4ypj",
+              "end": 162,
+              "expanded_url": "https://x.com/Res1st_4/status/2041527321191223467/photo/1",
+              "media_key": "3_2041527311389073408",
+              "start": 139,
+              "url": "https://t.co/DaEFAW4ypj"
+            },
+            {
+              "display_url": "pic.x.com/DaEFAW4ypj",
+              "end": 162,
+              "expanded_url": "https://x.com/Res1st_4/status/2041527321191223467/photo/1",
+              "media_key": "3_2041527311376551936",
+              "start": 139,
+              "url": "https://t.co/DaEFAW4ypj"
+            },
+            {
+              "display_url": "pic.x.com/DaEFAW4ypj",
+              "end": 162,
+              "expanded_url": "https://x.com/Res1st_4/status/2041527321191223467/photo/1",
+              "media_key": "3_2041527311372259328",
+              "start": 139,
+              "url": "https://t.co/DaEFAW4ypj"
+            },
+            {
+              "display_url": "pic.x.com/DaEFAW4ypj",
+              "end": 162,
+              "expanded_url": "https://x.com/Res1st_4/status/2041527321191223467/photo/1",
+              "media_key": "3_2041527311376449536",
+              "start": 139,
+              "url": "https://t.co/DaEFAW4ypj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041527321191223467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17007,
+          "like_count": 237,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我每一次试图切断酒精和我生活的联系都失败了，我发现戒酒就是一个人偷偷躲起来喝。酒精让思维变得粘滞，表达的情感却越来越清晰，人和人的关系可以薄如蝉翼，但是人和酒不行，因为我不能不喝尼格罗尼，我不能不喝马天尼，我不能不喝古典。我操我怎么打了这么多字，酒真他妈是坏东西，我得多喝点🤤 https://t.co/DaEFAW4ypj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5001,
+          "following_count": 287,
+          "like_count": 592,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 955
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T07:36:39.000Z",
+        "description": "186/82 我是直男，就上来发发照片，本人挺装的，但是不卖，谢谢大家",
+        "id": "2036346188061089792",
+        "location": "杭州",
+        "name": "年轻的丈夫",
+        "pinned_tweet_id": "2038958114691825920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036350278639960064/59nN_f4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10029,
+          "following_count": 16,
+          "like_count": 137,
+          "listed_count": 19,
+          "media_count": 50,
+          "tweet_count": 291
+        },
+        "username": "Res1st_4",
+        "verified": false
+      }
+    ]
+  }
+}

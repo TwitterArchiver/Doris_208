@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1974962562212217242",
+    "created_at": "2025-10-05T22:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T23:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974962562212217242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783130866950213632",
+          "start": 3,
+          "username": "Ifeelsobad04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974962562212217242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974841766239969698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ifeelsobad04: 之前匿名信箱里有好几条问理想型 我到现在都没回答上 刚刚刷推让我脑里突然蹦出一条：我的理想型首先一定得是个和我xp相合的且迷恋我的色情狂啊 你们懂这种色情狂吗 就是想着我就能湿 会忍不住对着我发情的 不停地勾引我直到我满足她 不满足她会生闷气…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1974962562212217242",
+        "created_at": "2025-10-05T22:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T23:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974962562212217242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783130866950213632",
+              "start": 3,
+              "username": "Ifeelsobad04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974962562212217242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974841766239969698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ifeelsobad04: 之前匿名信箱里有好几条问理想型 我到现在都没回答上 刚刚刷推让我脑里突然蹦出一条：我的理想型首先一定得是个和我xp相合的且迷恋我的色情狂啊 你们懂这种色情狂吗 就是想着我就能湿 会忍不住对着我发情的 不停地勾引我直到我满足她 不满足她会生闷气…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783130866950213632",
+        "conversation_id": "1974841766239969698",
+        "created_at": "2025-10-05T14:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T15:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974841766239969698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974841766239969698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10603,
+          "like_count": 158,
+          "quote_count": 6,
+          "reply_count": 33,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "之前匿名信箱里有好几条问理想型 我到现在都没回答上 刚刚刷推让我脑里突然蹦出一条：我的理想型首先一定得是个和我xp相合的且迷恋我的色情狂啊 你们懂这种色情狂吗 就是想着我就能湿 会忍不住对着我发情的 不停地勾引我直到我满足她 不满足她会生闷气甚至突然捶我一下的 可爱死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|第五人格人菜瘾大",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 241,
+          "like_count": 542,
+          "listed_count": 9,
+          "media_count": 63,
+          "tweet_count": 762
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T13:48:28.000Z",
+        "description": "我想在哪在哪我的唤水剑｜直男｜switch｜不加v不聊s不线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%9D%8F%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%9D%8F%E5%92%96%E5%95%A11",
+                "start": 0,
+                "url": "https://t.co/LyDKZxayem"
+              }
+            ]
+          }
+        },
+        "id": "1783130866950213632",
+        "name": "坏咖啡",
+        "pinned_tweet_id": "1971469594805326322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974546479948935170/858Zraa7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 540,
+          "like_count": 15562,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/LyDKZxayem",
+        "username": "Ifeelsobad04",
+        "verified": false
+      }
+    ]
+  }
+}

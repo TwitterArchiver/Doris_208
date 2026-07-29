@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1987322859698725241",
+    "created_at": "2025-11-10T13:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T14:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987872209134567868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882072930823331840",
+          "start": 0,
+          "username": "Armegeddon103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987872209134567868",
+    "in_reply_to_user_id": "1882072930823331840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987322859698725241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Armegeddon103 我一定要搞上一个服务意识强的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1987322859698725241",
+        "created_at": "2025-11-10T13:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987872209134567868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882072930823331840",
+              "start": 0,
+              "username": "Armegeddon103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987872209134567868",
+        "in_reply_to_user_id": "1882072930823331840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987322859698725241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Armegeddon103 我一定要搞上一个服务意识强的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882072930823331840",
+        "conversation_id": "1987322859698725241",
+        "created_at": "2025-11-09T00:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T01:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987322859698725241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987322859698725241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 83489,
+          "like_count": 443,
+          "quote_count": 9,
+          "reply_count": 63,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "我一定要搞上一个服务意识强的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "礼貌滴泪钕|剑三已A|戒网瘾",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5627,
+          "following_count": 277,
+          "like_count": 604,
+          "listed_count": 9,
+          "media_count": 67,
+          "tweet_count": 875
+        },
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T14:29:07.000Z",
+        "description": "手控",
+        "id": "1882072930823331840",
+        "name": "imskeleton",
+        "pinned_tweet_id": "1954184078577516764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961650371341778944/uP4NYo5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 387,
+          "like_count": 2950,
+          "listed_count": 3,
+          "media_count": 327,
+          "tweet_count": 4569
+        },
+        "username": "Armegeddon103",
+        "verified": false
+      }
+    ]
+  }
+}
