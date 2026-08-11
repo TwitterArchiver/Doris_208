@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "2083183978719432810",
+    "created_at": "2026-07-31T13:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083183978719432810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045127800324288513",
+          "start": 3,
+          "username": "yacht_ono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083183978719432810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 436
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082210757094305956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yacht_ono: 钱，你回来吧我错了，我不该乱花你的，我一直在哭，我好后悔。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "2083183978719432810",
+        "created_at": "2026-07-31T13:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083183978719432810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045127800324288513",
+              "start": 3,
+              "username": "yacht_ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083183978719432810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 436
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082210757094305956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yacht_ono: 钱，你回来吧我错了，我不该乱花你的，我一直在哭，我好后悔。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045127800324288513",
+        "conversation_id": "2082210757094305956",
+        "created_at": "2026-07-28T21:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082210757094305956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082210757094305956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 74701,
+          "like_count": 3552,
+          "quote_count": 28,
+          "reply_count": 240,
+          "retweet_count": 436
+        },
+        "reply_settings": "everyone",
+        "text": "钱，你回来吧我错了，我不该乱花你的，我一直在哭，我好后悔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "地球online注销账户",
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4950,
+          "following_count": 282,
+          "like_count": 594,
+          "listed_count": 8,
+          "media_count": 47,
+          "tweet_count": 1017
+        },
+        "url": "",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪52",
+        "name": "yacht",
+        "pinned_tweet_id": "2066917575884460113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082402222894399488/ck8A64Fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 15,
+          "like_count": 406,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}
