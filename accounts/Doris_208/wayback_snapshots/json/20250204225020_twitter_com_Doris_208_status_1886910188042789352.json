@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1886779879443849261",
+    "created_at": "2025-02-04T22:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T23:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886910188042789352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1566681366871171072",
+          "start": 0,
+          "username": "joker220130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886910188042789352",
+    "in_reply_to_user_id": "1566681366871171072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886795527549018415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joker220130 NGL提问箱，在主页链接里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1886779879443849261",
+        "created_at": "2025-02-04T22:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T23:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886910188042789352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1566681366871171072",
+              "start": 0,
+              "username": "joker220130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886910188042789352",
+        "in_reply_to_user_id": "1566681366871171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886795527549018415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joker220130 NGL提问箱，在主页链接里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566681366871171072",
+        "conversation_id": "1886779879443849261",
+        "created_at": "2025-02-04T15:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T16:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886795527549018415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886795527549018415",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886779879443849261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 这是什么软件呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 174,
+          "like_count": 447,
+          "listed_count": 8,
+          "media_count": 44,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T06:56:07.000Z",
+        "description": "I'm a traveler in the world.\nFor the freedom!\n#Hentai😏",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "Hentai"
+              }
+            ]
+          }
+        },
+        "id": "1566681366871171072",
+        "name": "Traveler",
+        "pinned_tweet_id": "1784465706781941860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815076304641024000/Uu9ekCOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 74,
+          "like_count": 1978,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 29
+        },
+        "username": "joker220130",
+        "verified": false
+      }
+    ]
+  }
+}

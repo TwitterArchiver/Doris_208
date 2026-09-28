@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1577453972482203648",
+    "conversation_id": "1886711119462731778",
+    "created_at": "2025-02-04T11:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T12:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886746113094640077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1566105977492893696",
+          "start": 0,
+          "username": "shinewaic"
+        },
+        {
+          "end": 19,
+          "id": "1795497104049414144",
+          "start": 11,
+          "username": "hsh6669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886746113094640077",
+    "in_reply_to_user_id": "1566105977492893696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886744362077548870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinewaic @hsh6669 ？打咩，纯爱战士绝不认输"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577453972482203648",
+        "conversation_id": "1886711119462731778",
+        "created_at": "2025-02-04T11:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T12:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886746113094640077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1566105977492893696",
+              "start": 0,
+              "username": "shinewaic"
+            },
+            {
+              "end": 19,
+              "id": "1795497104049414144",
+              "start": 11,
+              "username": "hsh6669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886746113094640077",
+        "in_reply_to_user_id": "1566105977492893696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886744362077548870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinewaic @hsh6669 ？打咩，纯爱战士绝不认输"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566105977492893696",
+        "conversation_id": "1886711119462731778",
+        "created_at": "2025-02-04T11:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T12:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886744362077548870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577453972482203648",
+              "start": 0,
+              "username": "Doris_208"
+            },
+            {
+              "end": 19,
+              "id": "1795497104049414144",
+              "start": 11,
+              "username": "hsh6669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886744362077548870",
+        "in_reply_to_user_id": "1577453972482203648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886720661760172221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doris_208 @hsh6669 ？玩玩你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-05T00:22:09.000Z",
+        "description": "眉间雪|小狗修炼中|口嗨王者|不健全|提问箱连接如下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/doris_208",
+                "end": 23,
+                "expanded_url": "https://ngl.link/doris_208",
+                "start": 0,
+                "url": "https://t.co/znsKuBHuIu"
+              }
+            ]
+          }
+        },
+        "id": "1577453972482203648",
+        "name": "✟花鳥風月✟",
+        "pinned_tweet_id": "1869379584959152396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866372795342688256/Ud3PuUE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 174,
+          "like_count": 447,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/znsKuBHuIu",
+        "username": "Doris_208",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T16:49:09.000Z",
+        "description": "",
+        "id": "1566105977492893696",
+        "location": "United Kingdom",
+        "name": "SWC",
+        "pinned_tweet_id": "1867197572668137892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585847329793384449/6mVSq3Er_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 158,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 551
+        },
+        "username": "shinewaic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T16:47:37.000Z",
+        "description": "碎碎念分享/ 话题投稿/ 树洞吐槽/ 付费绿色交友委托/ 有偿推广转发/ 商务合作请私信/ 投稿筛选后发出🎁",
+        "id": "1795497104049414144",
+        "location": "Hong Kong",
+        "name": "全是烧杯",
+        "pinned_tweet_id": "1854356710154236069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795541690771701760/K-GFG_I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465200,
+          "following_count": 43,
+          "like_count": 540,
+          "listed_count": 348,
+          "media_count": 1226,
+          "tweet_count": 2865
+        },
+        "username": "hsh6669",
+        "verified": true
+      }
+    ]
+  }
+}
